@@ -1,0 +1,18 @@
+{
+    "_type": "https://in-toto.io/Statement/v1",
+    "predicateType": "https://project-ilm.org/attestations/candor/v1",
+    "subject": [
+        {
+            "name": "pvjournal/pajr",
+            "digest": {
+                "gitCommit": "91dc8e7d5b0e183883a7391a3d89c1a9b2b00262"
+            }
+        }
+    ],
+    "predicate": {
+        "action": "PUSH",
+        "reason": "fix",
+        "utc": "20260727T153006Z",
+        "host": "ilm01-lin"
+    }
+}
