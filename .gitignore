@@ -1,0 +1,5 @@
+# The harvester's resumable page cache holds raw fetched article bodies. It is
+# working state so a re-run need not re-fetch. It is never published:
+# DISCLAIMER.md asserts this index reproduces no patient narrative.
+.cache/
+*.tmp

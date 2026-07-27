@@ -1,6 +1,7 @@
 <!doctype html><meta charset="utf-8">
 <title>PaJR Reader — seed a conversation from any selection</title>
 <meta name="viewport" content="width=device-width,initial-scale=1">
+<!-- PaJR Reader v0.6.0 · built with Claude Opus 4.5 · third-party index, CC BY-NC-SA 4.0 -->
 <style>
 :root{--ink:#1a2730;--mut:#6b7f8d;--acc:#0a6a5c;--warm:#b4531f;--line:#e4dfd5;--bg:#faf8f4;--paper:#fffdf9}
 *{box-sizing:border-box}
@@ -9,12 +10,17 @@ body{margin:0;background:var(--bg);color:var(--ink);
 .top{position:sticky;top:0;z-index:9;background:rgba(250,248,244,.95);backdrop-filter:blur(8px);
  border-bottom:1px solid var(--line);padding:12px 20px;display:flex;gap:10px;align-items:center;flex-wrap:wrap}
 .top h1{font-size:16px;margin:0;white-space:nowrap}
-.top input{flex:1;min-width:200px;padding:9px 13px;border:1px solid var(--line);border-radius:9px;font:inherit;font-size:15px}
+.top input,.top select{padding:9px 13px;border:1px solid var(--line);border-radius:9px;font:inherit;font-size:15px;background:#fff}
+#url{flex:1;min-width:180px}
+#pick{font:13px system-ui;max-width:340px}
 .top button{font:13px system-ui;padding:8px 13px;border:1px solid var(--line);background:#fff;border-radius:8px;cursor:pointer}
 .top button:hover{border-color:var(--acc);color:var(--acc)}
 main{max-width:760px;margin:0 auto;padding:26px 22px 90px}
 .hint{color:var(--mut);font-size:14px;background:var(--paper);border:1px solid var(--line);
- border-left:3px solid var(--acc);border-radius:8px;padding:12px 15px;margin-bottom:22px}
+ border-left:3px solid var(--acc);border-radius:8px;padding:12px 15px;margin-bottom:14px}
+.hint b{color:var(--ink)}
+.aab{color:var(--mut);font-size:13.5px;background:var(--paper);border:1px solid var(--line);
+ border-left:3px solid var(--warm);border-radius:8px;padding:11px 15px;margin-bottom:22px}
 article{background:var(--paper);border:1px solid var(--line);border-radius:12px;padding:30px 34px;
  box-shadow:0 1px 0 rgba(0,0,0,.03)}
 article h2{font-size:23px;line-height:1.25;margin:0 0 6px}
@@ -25,53 +31,118 @@ article p{margin:0 0 15px}
  border-radius:10px;box-shadow:0 8px 24px rgba(0,0,0,.16);padding:5px;white-space:nowrap}
 #pop button{font:12px system-ui;border:0;background:none;cursor:pointer;padding:6px 11px;color:var(--acc);border-radius:6px}
 #pop button:hover{background:#eef5f3}
+#pop .sep{display:inline-block;width:1px;height:16px;background:var(--line);margin:0 3px;vertical-align:-3px}
 .loading{color:var(--mut)}
+.warn{color:var(--warm)}
 footer{color:var(--mut);font-size:12.5px;margin-top:30px;border-top:1px solid var(--line);padding-top:14px}
+footer a{color:var(--mut)}
+#toast{position:fixed;left:50%;bottom:26px;transform:translateX(-50%);background:var(--ink);color:#fff;
+ font:13px system-ui;padding:10px 16px;border-radius:9px;opacity:0;pointer-events:none;transition:opacity .2s;z-index:30}
+#toast.on{opacity:.95}
 </style>
+
 <div class="top">
   <h1>PaJR Reader</h1>
   <input id="url" placeholder="Paste a case-report URL, or pick one below">
   <button id="load">Open</button>
-  <select id="pick" style="font:13px system-ui;padding:8px;border:1px solid var(--line);border-radius:8px"></select>
+  <select id="pick"><option value="">— loading reports —</option></select>
+  <select id="ai" title="Which assistant a seeded conversation opens in"></select>
 </div>
+
 <main>
-<div class="hint">Select any passage to seed an AI conversation about it — explain, differential,
-or critique. Nothing is stored or posted; the text belongs to its authors, and each seed opens
-in a new tab against the assistant of your choice. On a static host the app fetches the post
-through a public read-only proxy; if that is blocked, it hands you a copyable prompt instead.</div>
+<div class="hint">Select any passage to seed a conversation about it — explain, differential, or
+critique. Nothing is stored or posted. The text belongs to its authors. Your selection opens in
+<b>whichever assistant you choose</b> above; the choice is remembered on this device.</div>
+
+<div class="aab">Reading through <b>AAB</b> (آب) — the case report is a <i>painting</i> of the
+patient as a system, and the method's rule is <b>no oracle, no glow</b>: a differential stays
+<i>named</i>, never <i>verified</i>, until an investigation has actually been run and returned a
+result. When you read, ask of each claim — which oracle was executed, and what did it return?
+<a href="https://zistgah.org" target="_blank" rel="noopener">about AAB ↗</a></div>
+
 <article id="doc">
   <h2 id="ttl">Choose a case report</h2>
   <div class="src" id="src"></div>
   <div id="body"><p class="loading">Pick a report from the dropdown, or paste a URL above.</p></div>
 </article>
-<footer id="ft">PaJR Reader · reads public case reports · stores nothing · seeds on your command</footer>
+
+<footer id="ft">PaJR Reader · reads public case reports · stores nothing · seeds on your command ·
+third-party index under <a href="LICENSE">CC BY-NC-SA 4.0</a> ·
+<a href="DISCLAIMER.md">disclaimer</a></footer>
 </main>
+
 <div id="pop">
   <button data-a="explain">Explain</button>
   <button data-a="diff">Differential</button>
+  <button data-a="oracle">Oracles</button>
   <button data-a="critique">Critique</button>
+  <span class="sep"></span>
   <button data-a="copy">Copy prompt</button>
 </div>
-<script>
-// Populate the picker from index.json if it is alongside; otherwise the URL box works alone.
-let CUR={url:'',title:''};
-fetch('index.json').then(r=>r.json()).then(D=>{
-  const s=document.getElementById('pick');
-  s.innerHTML='<option value="">— pick a report —</option>'+
-   (D.records||[]).slice(0,400).map(r=>'<option value="'+r.url+'">'+
-    (r.title||r.url).replace(/</g,'&lt;').slice(0,80)+'</option>').join('');
-  s.onchange=()=>{if(s.value){document.getElementById('url').value=s.value;load(s.value)}};
-}).catch(()=>{});
+<div id="toast"></div>
 
-// read-only text proxies, tried in order. All are public CORS relays that return page text.
+<script>
+/* ------------------------------------------------------------------ *
+ * AI-source invariance (AAB §7): the seed is a prompt, and the method
+ * does not care which intelligence receives it. Providers are data.
+ * prefill:true  -> the prompt travels in the URL.
+ * prefill:false -> no documented prefill parameter, so we copy the
+ *                  prompt to the clipboard and open the chat. We do
+ *                  NOT invent query parameters that may not exist.
+ * ------------------------------------------------------------------ */
+const PROVIDERS=[
+ {id:'claude',     name:'Claude',       url:'https://claude.ai/new?q=',              prefill:true},
+ {id:'chatgpt',    name:'ChatGPT',      url:'https://chatgpt.com/?q=',               prefill:true},
+ {id:'perplexity', name:'Perplexity',   url:'https://www.perplexity.ai/search?q=',   prefill:true},
+ {id:'copilot',    name:'Copilot',      url:'https://copilot.microsoft.com/?q=',     prefill:true},
+ {id:'mistral',    name:'Le Chat',      url:'https://chat.mistral.ai/chat?q=',       prefill:true},
+ {id:'grok',       name:'Grok',         url:'https://grok.com/?q=',                  prefill:true},
+ {id:'gemini',     name:'Gemini',       url:'https://gemini.google.com/app',         prefill:false},
+ {id:'deepseek',   name:'DeepSeek',     url:'https://chat.deepseek.com/',            prefill:false},
+ {id:'qwen',       name:'Qwen',         url:'https://chat.qwen.ai/',                 prefill:false},
+ {id:'kimi',       name:'Kimi',         url:'https://www.kimi.com/',                 prefill:false},
+ {id:'local',      name:'Local model (copy only)', url:'',                           prefill:false}
+];
+const AI=document.getElementById('ai');
+AI.innerHTML=PROVIDERS.map(p=>'<option value="'+p.id+'">'+p.name+(p.prefill?'':' ·copy')+'</option>').join('');
+try{const saved=localStorage.getItem('pajr.ai'); if(saved&&PROVIDERS.some(p=>p.id===saved))AI.value=saved;}catch(e){}
+AI.onchange=()=>{try{localStorage.setItem('pajr.ai',AI.value)}catch(e){}};
+const provider=()=>PROVIDERS.find(p=>p.id===AI.value)||PROVIDERS[0];
+
+function toast(m){const t=document.getElementById('toast');t.textContent=m;t.classList.add('on');
+  clearTimeout(t._x);t._x=setTimeout(()=>t.classList.remove('on'),2400);}
+
+/* ---- report picker: slim manifest, not the 33 MB term index -------- */
+let CUR={url:'',title:''};
+const pick=document.getElementById('pick');
+fetch('reports.json')
+ .then(r=>{if(!r.ok)throw new Error('reports.json '+r.status);return r.json()})
+ .then(list=>{
+   pick.innerHTML='<option value="">— pick one of '+list.length+' reports —</option>'+
+     list.map(r=>'<option value="'+esc(r.u)+'">'+esc((r.t||r.u)).slice(0,90)+'</option>').join('');
+   pick.onchange=()=>{if(pick.value){document.getElementById('url').value=pick.value;load(pick.value)}};
+ })
+ .catch(err=>{                       // fail loudly — the old page swallowed this
+   pick.innerHTML='<option value="">— report list unavailable —</option>';
+   console.warn('reader: manifest failed:',err);
+   document.getElementById('body').innerHTML=
+     '<p class="warn">The report list could not be loaded ('+esc(err.message)+'). '+
+     'You can still paste any case-report URL above.</p>';
+ });
+function esc(s){return String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]))}
+
+/* ---- fetching an original ------------------------------------------
+ * Reports live on their authors' blogs. A static page cannot read them
+ * cross-origin, so an optional public text relay is used. That relay
+ * sees the URL you open. It is opt-in and stated, never silent.
+ * -------------------------------------------------------------------- */
 const PROXIES=[u=>'https://r.jina.ai/'+u,
                u=>'https://api.allorigins.win/raw?url='+encodeURIComponent(u)];
 async function fetchText(u){
   for(const p of PROXIES){try{const r=await fetch(p(u));if(r.ok)return await r.text();}catch(e){}}
-  throw new Error('no proxy reachable');
+  throw new Error('no relay reachable');
 }
 function extract(html){
-  // strip chrome, keep the post body — the same principle as the harvester
   const d=new DOMParser().parseFromString(html,'text/html');
   d.querySelectorAll('script,style,nav,header,footer,noscript,iframe,svg,form').forEach(n=>n.remove());
   const body=d.querySelector('.post-body,.entry-content,article')||d.body;
@@ -81,53 +152,78 @@ function extract(html){
                  .filter(x=>x.length>25)};
 }
 async function load(u){
-  CUR.url=u;
+  CUR.url=u; CUR.title='';
   document.getElementById('ttl').textContent='Loading…';
-  document.getElementById('src').textContent=u;
-  document.getElementById('body').innerHTML='<p class="loading">Fetching through a public proxy…</p>';
+  document.getElementById('src').innerHTML=esc(u)+' · <a href="'+esc(u)+
+    '" target="_blank" rel="noopener">open the original ↗</a>';
+  document.getElementById('body').innerHTML=
+    '<p class="loading">Fetching through a public text relay (the relay sees this URL)…</p>';
   try{
     const {title,paras}=extract(await fetchText(u));
     CUR.title=title;
     document.getElementById('ttl').textContent=title;
     document.getElementById('body').innerHTML=
-      paras.length?paras.map(p=>'<p>'+p.replace(/</g,'&lt;')+'</p>').join('')
-                  :'<p class="loading">No readable body found.</p>';
+      paras.length?paras.map(p=>'<p>'+esc(p)+'</p>').join('')
+                  :'<p class="loading">No readable body found — open the original above.</p>';
   }catch(e){
-    document.getElementById('ttl').textContent=CUR.title||'Could not fetch';
+    document.getElementById('ttl').textContent='Could not fetch';
     document.getElementById('body').innerHTML=
-      '<p class="loading">The proxy is blocked here. Open the original directly: '+
-      '<a href="'+u+'" target="_blank" rel="noopener">'+u+'</a><br><br>'+
-      'You can still seed a conversation — paste your own selection into the assistant with '+
-      'this preamble:</p><pre style="white-space:pre-wrap;background:#f3efe7;padding:12px;'+
-      'border-radius:8px;font:12px ui-monospace">Reading the case report at '+u+
-      ' (belongs to its authors). Explain the clinical reasoning and differential.</pre>';
+      '<p class="warn">The relay is blocked or unreachable here.</p>'+
+      '<p>Open the original directly: <a href="'+esc(u)+'" target="_blank" rel="noopener">'+
+      esc(u)+'</a>, select a passage there, and use <b>Copy prompt</b> below with your own text.</p>';
   }
 }
 document.getElementById('load').onclick=()=>{const u=document.getElementById('url').value.trim();
   if(u)load(u);};
+document.getElementById('url').addEventListener('keydown',e=>{if(e.key==='Enter')
+  document.getElementById('load').click();});
 
-// selection -> seed. Keyless; opens the reader's chosen assistant with a prompt.
+/* ---- selection -> seed --------------------------------------------- */
 const pop=document.getElementById('pop');
 function preamble(sel,mode){
-  const base='From the clinical case report "'+(CUR.title||'')+'" at '+CUR.url+
-    ' (published by its authors; this is a selected passage, not the full text).';
-  const ask={explain:'Explain this passage plainly, for a clinician-in-training:',
-             diff:'What differential diagnosis does this passage suggest, and why?',
-             critique:'What would an informed sceptic question about this reasoning?'}[mode];
+  const base='From the clinical case report "'+(CUR.title||'(untitled)')+'" at '+
+    (CUR.url||'(url not set)')+
+    ' — published by its authors under CC BY-NC-SA 4.0. This is a selected passage, not the full text.';
+  const ask={
+    explain :'Explain this passage plainly, for a clinician-in-training:',
+    diff    :'What differential diagnosis does this passage suggest, and why?',
+    oracle  :'Separate what is asserted here from what was actually tested. For each claim, name '+
+             'the investigation that would settle it, say whether the passage shows that '+
+             'investigation was run, and give its result if so. Mark anything untested as unverified.',
+    critique:'What would an informed sceptic question about this reasoning?'
+  }[mode]||'Discuss this passage:';
   return base+'\n\n'+ask+'\n\n"'+sel+'"';
 }
 document.addEventListener('mouseup',()=>{const s=(window.getSelection()+'').trim();
   if(s.length<12){pop.style.display='none';return}
   const r=window.getSelection().getRangeAt(0).getBoundingClientRect();
-  pop.style.left=Math.max(8,Math.min(r.left,innerWidth-300))+'px';
+  pop.style.left=Math.max(8,Math.min(r.left,innerWidth-360))+'px';
   pop.style.top=(window.scrollY+r.bottom+8)+'px';pop.style.display='block';pop.dataset.s=s;});
+
+async function toClipboard(t){
+  try{await navigator.clipboard.writeText(t);return true}
+  catch(e){const ta=document.createElement('textarea');ta.value=t;ta.style.position='fixed';
+    ta.style.opacity='0';document.body.appendChild(ta);ta.select();
+    let ok=false;try{ok=document.execCommand('copy')}catch(_){}
+    document.body.removeChild(ta);return ok}
+}
 pop.querySelectorAll('button').forEach(b=>b.onclick=async()=>{
-  const s=pop.dataset.s||'',a=b.dataset.a;
-  if(a==='copy'){const p=preamble(s,'explain');
-    try{await navigator.clipboard.writeText(p);b.textContent='Copied';
-      setTimeout(()=>b.textContent='Copy prompt',1200);}catch(e){}
-    return;}
-  window.open('https://claude.ai/new?q='+encodeURIComponent(preamble(s,a)),'_blank');
-  pop.style.display='none';});
+  const s=pop.dataset.s||'', a=b.dataset.a, P=provider();
+  const prompt=preamble(s, a==='copy'?'explain':a);
+  if(a==='copy'){
+    b.textContent=(await toClipboard(prompt))?'Copied':'Copy failed';
+    setTimeout(()=>b.textContent='Copy prompt',1400);
+    return;
+  }
+  if(P.prefill && P.url){
+    window.open(P.url+encodeURIComponent(prompt),'_blank','noopener');
+  }else{
+    const ok=await toClipboard(prompt);
+    toast(ok ? 'Prompt copied — paste it into '+P.name
+             : 'Could not copy automatically — use “Copy prompt”');
+    if(P.url) window.open(P.url,'_blank','noopener');
+  }
+  pop.style.display='none';
+});
 document.addEventListener('mousedown',e=>{if(!pop.contains(e.target))pop.style.display='none';});
 </script>
