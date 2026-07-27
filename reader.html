@@ -1,18 +1,18 @@
 <!doctype html><meta charset="utf-8">
 <title>PaJR Reader — seed a conversation from any selection</title>
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<!-- PaJR Reader v0.6.0 · built with Claude Opus 4.5 · third-party index, CC BY-NC-SA 4.0 -->
+<!-- PaJR Reader v0.8.0 · built with Claude Opus 4.5 · third-party index, CC BY-NC-SA 4.0 -->
 <style>
 :root{--ink:#1a2730;--mut:#6b7f8d;--acc:#0a6a5c;--warm:#b4531f;--line:#e4dfd5;--bg:#faf8f4;--paper:#fffdf9}
 *{box-sizing:border-box}
-body{margin:0;background:var(--bg);color:var(--ink);
- font:17px/1.7 "Iowan Old Style",Palatino,Georgia,serif}
+body{margin:0;background:var(--bg);color:var(--ink);font:17px/1.7 "Iowan Old Style",Palatino,Georgia,serif}
 .top{position:sticky;top:0;z-index:9;background:rgba(250,248,244,.95);backdrop-filter:blur(8px);
  border-bottom:1px solid var(--line);padding:12px 20px;display:flex;gap:10px;align-items:center;flex-wrap:wrap}
 .top h1{font-size:16px;margin:0;white-space:nowrap}
 .top input,.top select{padding:9px 13px;border:1px solid var(--line);border-radius:9px;font:inherit;font-size:15px;background:#fff}
 #url{flex:1;min-width:180px}
-#pick{font:13px system-ui;max-width:340px}
+#pick{font:13px system-ui;max-width:320px}
+#ai{font:13px system-ui}
 .top button{font:13px system-ui;padding:8px 13px;border:1px solid var(--line);background:#fff;border-radius:8px;cursor:pointer}
 .top button:hover{border-color:var(--acc);color:var(--acc)}
 main{max-width:760px;margin:0 auto;padding:26px 22px 90px}
@@ -24,8 +24,14 @@ main{max-width:760px;margin:0 auto;padding:26px 22px 90px}
 article{background:var(--paper);border:1px solid var(--line);border-radius:12px;padding:30px 34px;
  box-shadow:0 1px 0 rgba(0,0,0,.03)}
 article h2{font-size:23px;line-height:1.25;margin:0 0 6px}
-.src{font:12px ui-monospace;color:var(--mut);margin-bottom:20px;word-break:break-all}
-article p{margin:0 0 15px}
+.src{font:12px ui-monospace;color:var(--mut);margin-bottom:6px;word-break:break-all}
+.via{font:11.5px system-ui;color:var(--mut);margin-bottom:20px}
+.via b{color:var(--acc)}
+article p{margin:0 0 11px}
+article p.short{margin:0 0 3px}
+article h3{font-size:14px;letter-spacing:.05em;text-transform:uppercase;color:var(--acc);
+ margin:22px 0 8px;font-family:system-ui}
+article img{max-width:100%;border-radius:8px;border:1px solid var(--line);margin:8px 0}
 ::selection{background:#bfe3db}
 #pop{position:absolute;display:none;z-index:20;background:#fff;border:1px solid var(--acc);
  border-radius:10px;box-shadow:0 8px 24px rgba(0,0,0,.16);padding:5px;white-space:nowrap}
@@ -50,23 +56,23 @@ footer a{color:var(--mut)}
 </div>
 
 <main>
-<div class="hint">Select any passage to seed a conversation about it — explain, differential, or
-critique. Nothing is stored or posted. The text belongs to its authors. Your selection opens in
-<b>whichever assistant you choose</b> above; the choice is remembered on this device.</div>
+<div class="hint">Select any passage to seed a conversation about it — explain, differential,
+oracles, or critique. Nothing is stored or posted. The text belongs to its authors. Your selection
+opens in <b>whichever assistant you choose</b> above; the choice is remembered on this device.</div>
 
 <div class="aab">Reading through <b>AAB</b> (آب) — the case report is a <i>painting</i> of the
 patient as a system, and the method's rule is <b>no oracle, no glow</b>: a differential stays
 <i>named</i>, never <i>verified</i>, until an investigation has actually been run and returned a
-result. When you read, ask of each claim — which oracle was executed, and what did it return?
-<a href="https://zistgah.org" target="_blank" rel="noopener">about AAB ↗</a></div>
+result. When you read, ask of each claim — which oracle was executed, and what did it return?</div>
 
 <article id="doc">
   <h2 id="ttl">Choose a case report</h2>
   <div class="src" id="src"></div>
+  <div class="via" id="via"></div>
   <div id="body"><p class="loading">Pick a report from the dropdown, or paste a URL above.</p></div>
 </article>
 
-<footer id="ft">PaJR Reader · reads public case reports · stores nothing · seeds on your command ·
+<footer>PaJR Reader · reads public case reports · stores nothing · seeds on your command ·
 third-party index under <a href="LICENSE">CC BY-NC-SA 4.0</a> ·
 <a href="DISCLAIMER.md">disclaimer</a></footer>
 </main>
@@ -82,108 +88,238 @@ third-party index under <a href="LICENSE">CC BY-NC-SA 4.0</a> ·
 <div id="toast"></div>
 
 <script>
-/* ------------------------------------------------------------------ *
+/* ==================================================================== *
  * AI-source invariance (AAB §7): the seed is a prompt, and the method
  * does not care which intelligence receives it. Providers are data.
- * prefill:true  -> the prompt travels in the URL.
- * prefill:false -> no documented prefill parameter, so we copy the
- *                  prompt to the clipboard and open the chat. We do
- *                  NOT invent query parameters that may not exist.
- * ------------------------------------------------------------------ */
+ * prefill:false -> no documented URL parameter, so the prompt goes to
+ * the clipboard. We do not invent query parameters.
+ * ==================================================================== */
 const PROVIDERS=[
- {id:'claude',     name:'Claude',       url:'https://claude.ai/new?q=',              prefill:true},
- {id:'chatgpt',    name:'ChatGPT',      url:'https://chatgpt.com/?q=',               prefill:true},
- {id:'perplexity', name:'Perplexity',   url:'https://www.perplexity.ai/search?q=',   prefill:true},
- {id:'copilot',    name:'Copilot',      url:'https://copilot.microsoft.com/?q=',     prefill:true},
- {id:'mistral',    name:'Le Chat',      url:'https://chat.mistral.ai/chat?q=',       prefill:true},
- {id:'grok',       name:'Grok',         url:'https://grok.com/?q=',                  prefill:true},
- {id:'gemini',     name:'Gemini',       url:'https://gemini.google.com/app',         prefill:false},
- {id:'deepseek',   name:'DeepSeek',     url:'https://chat.deepseek.com/',            prefill:false},
- {id:'qwen',       name:'Qwen',         url:'https://chat.qwen.ai/',                 prefill:false},
- {id:'kimi',       name:'Kimi',         url:'https://www.kimi.com/',                 prefill:false},
- {id:'local',      name:'Local model (copy only)', url:'',                           prefill:false}
+ {id:'claude',     name:'Claude',     url:'https://claude.ai/new?q=',            prefill:true},
+ {id:'chatgpt',    name:'ChatGPT',    url:'https://chatgpt.com/?q=',             prefill:true},
+ {id:'perplexity', name:'Perplexity', url:'https://www.perplexity.ai/search?q=', prefill:true},
+ {id:'copilot',    name:'Copilot',    url:'https://copilot.microsoft.com/?q=',   prefill:true},
+ {id:'mistral',    name:'Le Chat',    url:'https://chat.mistral.ai/chat?q=',     prefill:true},
+ {id:'grok',       name:'Grok',       url:'https://grok.com/?q=',                prefill:true},
+ {id:'gemini',     name:'Gemini',     url:'https://gemini.google.com/app',       prefill:false},
+ {id:'deepseek',   name:'DeepSeek',   url:'https://chat.deepseek.com/',          prefill:false},
+ {id:'qwen',       name:'Qwen',       url:'https://chat.qwen.ai/',               prefill:false},
+ {id:'kimi',       name:'Kimi',       url:'https://www.kimi.com/',               prefill:false},
+ {id:'local',      name:'Local model (copy only)', url:'',                       prefill:false}
 ];
 const AI=document.getElementById('ai');
-AI.innerHTML=PROVIDERS.map(p=>'<option value="'+p.id+'">'+p.name+(p.prefill?'':' ·copy')+'</option>').join('');
-try{const saved=localStorage.getItem('pajr.ai'); if(saved&&PROVIDERS.some(p=>p.id===saved))AI.value=saved;}catch(e){}
+AI.innerHTML=PROVIDERS.map(p=>'<option value="'+p.id+'">'+p.name+(p.prefill?'':' \u00b7copy')+'</option>').join('');
+try{const s=localStorage.getItem('pajr.ai'); if(s&&PROVIDERS.some(p=>p.id===s))AI.value=s;}catch(e){}
 AI.onchange=()=>{try{localStorage.setItem('pajr.ai',AI.value)}catch(e){}};
 const provider=()=>PROVIDERS.find(p=>p.id===AI.value)||PROVIDERS[0];
 
-function toast(m){const t=document.getElementById('toast');t.textContent=m;t.classList.add('on');
-  clearTimeout(t._x);t._x=setTimeout(()=>t.classList.remove('on'),2400);}
+const $=id=>document.getElementById(id);
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+function toast(m){const t=$('toast');t.textContent=m;t.classList.add('on');
+  clearTimeout(t._x);t._x=setTimeout(()=>t.classList.remove('on'),2600);}
 
-/* ---- report picker: slim manifest, not the 33 MB term index -------- */
+/* ---- report picker: slim manifest, not the whole term index -------- */
 let CUR={url:'',title:''};
-const pick=document.getElementById('pick');
-fetch('reports.json')
- .then(r=>{if(!r.ok)throw new Error('reports.json '+r.status);return r.json()})
+fetch('reports.json').then(r=>{if(!r.ok)throw new Error('reports.json '+r.status);return r.json()})
  .then(list=>{
-   pick.innerHTML='<option value="">— pick one of '+list.length+' reports —</option>'+
-     list.map(r=>'<option value="'+esc(r.u)+'">'+esc((r.t||r.u)).slice(0,90)+'</option>').join('');
-   pick.onchange=()=>{if(pick.value){document.getElementById('url').value=pick.value;load(pick.value)}};
+   $('pick').innerHTML='<option value="">\u2014 pick one of '+list.length+' reports \u2014</option>'+
+     list.map(r=>'<option value="'+esc(r.u)+'">'+esc(r.t||r.u).slice(0,90)+'</option>').join('');
+   $('pick').onchange=()=>{if($('pick').value){$('url').value=$('pick').value;load($('pick').value)}};
  })
- .catch(err=>{                       // fail loudly — the old page swallowed this
-   pick.innerHTML='<option value="">— report list unavailable —</option>';
-   console.warn('reader: manifest failed:',err);
-   document.getElementById('body').innerHTML=
-     '<p class="warn">The report list could not be loaded ('+esc(err.message)+'). '+
-     'You can still paste any case-report URL above.</p>';
+ .catch(err=>{                                  /* fail loudly; the old page swallowed this */
+   $('pick').innerHTML='<option value="">\u2014 report list unavailable \u2014</option>';
+   $('body').innerHTML='<p class="warn">The report list could not be loaded ('+esc(err.message)+
+     '). You can still paste any case-report URL above.</p>';
  });
-function esc(s){return String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]))}
 
-/* ---- fetching an original ------------------------------------------
- * Reports live on their authors' blogs. A static page cannot read them
- * cross-origin, so an optional public text relay is used. That relay
- * sees the URL you open. It is opt-in and stated, never silent.
- * -------------------------------------------------------------------- */
-const PROXIES=[u=>'https://r.jina.ai/'+u,
-               u=>'https://api.allorigins.win/raw?url='+encodeURIComponent(u)];
-async function fetchText(u){
-  for(const p of PROXIES){try{const r=await fetch(p(u));if(r.ok)return await r.text();}catch(e){}}
-  throw new Error('no relay reachable');
+/* ==================================================================== *
+ * READING AN ORIGINAL
+ *
+ * These are Blogger sites, and Blogger publishes every blog's own Atom
+ * feed with a JSONP callback. A <script> include is not an XHR, so no
+ * CORS and no relay is involved: the post HTML comes from the author's
+ * own domain, exactly as the harvester reads it. That is the first and
+ * preferred path, and no third party learns which report you opened.
+ *
+ * A public text relay remains as a fallback. The previous version put
+ * that relay FIRST, and r.jina.ai answers with MARKDOWN. Parsing
+ * markdown as text/html yields a document with no <title> and no <p> —
+ * which is exactly why the title showed the URL and the body read
+ * "No readable body found". Sniff the payload; never assume HTML.
+ * ==================================================================== */
+let JSONP_N=0;
+function jsonp(url,timeout=9000){
+  return new Promise((res,rej)=>{
+    const cb='__pajr_cb_'+(++JSONP_N);
+    const s=document.createElement('script');
+    const done=(err,data)=>{clearTimeout(t);try{delete window[cb]}catch(_){window[cb]=void 0}
+      s.remove();err?rej(err):res(data);};
+    const t=setTimeout(()=>done(new Error('feed timed out')),timeout);
+    window[cb]=d=>done(null,d);
+    s.onerror=()=>done(new Error('feed unreachable'));
+    s.src=url+(url.indexOf('?')>=0?'&':'?')+'alt=json-in-script&callback='+cb;
+    document.head.appendChild(s);
+  });
 }
-function extract(html){
+async function viaFeed(u){
+  const a=new URL(u), want=a.pathname;
+  for(let start=1,page=0; page<6; page++, start+=150){
+    const d=await jsonp(a.origin+'/feeds/posts/default?max-results=150&start-index='+start);
+    const entries=(d&&d.feed&&d.feed.entry)||[];
+    if(!entries.length) break;
+    for(const e of entries){
+      const alt=(e.link||[]).filter(l=>l.rel==='alternate'&&l.href)[0];
+      if(!alt) continue;
+      let p; try{p=new URL(alt.href).pathname}catch(_){continue}
+      if(p===want) return {
+        html:(e.content&&e.content.$t)||(e.summary&&e.summary.$t)||'',
+        title:(e.title&&e.title.$t)||u,
+        author:(e.author&&e.author[0]&&e.author[0].name&&e.author[0].name.$t)||'',
+        published:((e.published&&e.published.$t)||'').slice(0,10),
+        via:'the blog\u2019s own feed'};
+    }
+  }
+  throw new Error('post not present in this blog\u2019s feed');
+}
+
+const RELAYS=[u=>'https://r.jina.ai/'+u,
+              u=>'https://api.allorigins.win/raw?url='+encodeURIComponent(u)];
+async function viaRelay(u){
+  let last;
+  for(let i=0;i<RELAYS.length;i++){
+    try{const r=await fetch(RELAYS[i](u));
+        if(r.ok) return {text:await r.text(), via:'a public text relay'};}
+    catch(e){last=e;}
+  }
+  throw last||new Error('no relay reachable');
+}
+
+/* Platform furniture that is never part of a case report. */
+const CHROME=new RegExp('^('+[
+ 'get link','facebook','x','twitter','pinterest','email','other apps','comments?',
+ 'post a comment','read more','popular posts from this blog','powered by blogger',
+ 'report abuse','visit profile','skip to main content','search this blog','archive',
+ 'labels','share','no comments:','newer post','older post','home','subscribe to:',
+ 'posts \\(atom\\)','view my complete profile','about me','followers','blog archive'
+].join('|')+')$','i');
+
+function fromHTML(html){
   const d=new DOMParser().parseFromString(html,'text/html');
-  d.querySelectorAll('script,style,nav,header,footer,noscript,iframe,svg,form').forEach(n=>n.remove());
-  const body=d.querySelector('.post-body,.entry-content,article')||d.body;
-  const ttl=(d.querySelector('title')||{}).textContent||CUR.url;
-  return {title:ttl.trim(),
-          paras:[...body.querySelectorAll('p,li,h3')].map(n=>n.textContent.trim())
-                 .filter(x=>x.length>25)};
+  d.querySelectorAll('script,style,nav,header,footer,noscript,iframe,svg,form,.comments,#comments')
+   .forEach(n=>n.remove());
+  const root=d.querySelector('.post-body,.entry-content,article')||d.body;
+  const out=[];
+  root.querySelectorAll('p,li,h1,h2,h3,h4,div,span,img').forEach(n=>{
+    if(n.tagName==='IMG'){ if(n.getAttribute('src')) out.push({img:n.getAttribute('src')}); return; }
+    if(n.querySelector('p,li,div,img,h1,h2,h3,h4')) return;      /* container, not a leaf */
+    const t=(n.textContent||'').replace(/\u00a0/g,' ').replace(/\s+/g,' ').trim();
+    if(t) out.push({text:t, head:/^H[1-4]$/.test(n.tagName)||isHeading(t)});
+  });
+  return out;
 }
+function fromMarkdown(md){
+  const out=[];
+  md=md.replace(/^---\n[\s\S]*?\n---\n/,'');            /* relay frontmatter block */
+  md.split(/\n{2,}|\n(?=[#*\-|])/).forEach(function(block){
+    let b=block.trim(); if(!b) return;
+    b=b.replace(/^[-*+]\s+/,'').replace(/^\d+\.\s+/,'');  /* list marker */
+    /* Blogger wraps images in a link: [![](thumb)](full) — take the full-size href */
+    const li=b.match(/^\[!\[[^\]]*\]\([^)]*\)\]\(([^)\s]+)/);
+    const im=li||b.match(/^!\[[^\]]*\]\(([^)\s]+)/);
+    if(im){ out.push({img:im[1]}); return; }
+    const t=b.replace(/^#{1,6}\s*/,'')
+             .replace(/\[?!\[[^\]]*\]\([^)]*\)\]?(\([^)]*\))?/g,'')
+             .replace(/\[([^\]]*)\]\([^)]*\)/g,'$1')
+             .replace(/[*_`>]/g,'').replace(/\s+/g,' ').trim();
+    if(t) out.push({text:t, head:/^#{1,6}\s/.test(block.trim())||isHeading(t)});
+  });
+  return out;
+}
+/* Clinical e-logs mark sections in caps with a trailing colon, not with <h> tags. */
+function isHeading(t){
+  return t.length<44 && /:\s*$/.test(t) && t.replace(/[^A-Za-z]/g,'').length>2 &&
+         t===t.toUpperCase();
+}
+function looksHTML(s){ return /<\s*(html|body|div|p|br|img|h[1-6])[\s>/]/i.test(s.slice(0,4000)); }
+
+/* The previous version dropped every line under 25 characters. Measured against
+   the harvested corpus that discarded 42% of a typical report — every section
+   heading and the whole examination: "No pallor", "S1 S2 present", "no thrills",
+   "Married", "Diet: mixed", "CHIEF COMPLAINTS:". Those ARE the report. Keep them;
+   drop the platform furniture and the duplicates instead. */
+function clean(nodes){
+  const seen={}, out=[];
+  for(let i=0;i<nodes.length;i++){
+    const n=nodes[i];
+    if(n.img){ out.push(n); continue; }
+    const t=n.text;
+    if(!t||t.length<2) continue;
+    if(CHROME.test(t)) continue;
+    if(/^https?:\/\/\S+$/.test(t)) continue;
+    const k=t.toLowerCase();
+    if(seen[k]) continue;
+    seen[k]=1; out.push(n);
+  }
+  return out;
+}
+
 async function load(u){
   CUR.url=u; CUR.title='';
-  document.getElementById('ttl').textContent='Loading…';
-  document.getElementById('src').innerHTML=esc(u)+' · <a href="'+esc(u)+
-    '" target="_blank" rel="noopener">open the original ↗</a>';
-  document.getElementById('body').innerHTML=
-    '<p class="loading">Fetching through a public text relay (the relay sees this URL)…</p>';
+  $('ttl').textContent='Loading\u2026';
+  $('src').innerHTML=esc(u)+' \u00b7 <a href="'+esc(u)+'" target="_blank" rel="noopener">open the original \u2197</a>';
+  $('via').textContent='';
+  $('body').innerHTML='<p class="loading">Reading the blog\u2019s own feed\u2026</p>';
+
+  let nodes=null,title='',via='',byline='';
   try{
-    const {title,paras}=extract(await fetchText(u));
-    CUR.title=title;
-    document.getElementById('ttl').textContent=title;
-    document.getElementById('body').innerHTML=
-      paras.length?paras.map(p=>'<p>'+esc(p)+'</p>').join('')
-                  :'<p class="loading">No readable body found — open the original above.</p>';
-  }catch(e){
-    document.getElementById('ttl').textContent='Could not fetch';
-    document.getElementById('body').innerHTML=
-      '<p class="warn">The relay is blocked or unreachable here.</p>'+
-      '<p>Open the original directly: <a href="'+esc(u)+'" target="_blank" rel="noopener">'+
-      esc(u)+'</a>, select a passage there, and use <b>Copy prompt</b> below with your own text.</p>';
+    const f=await viaFeed(u);
+    nodes=clean(fromHTML(f.html)); title=f.title; via=f.via;
+    byline=[f.author,f.published].filter(Boolean).join(' \u00b7 ');
+  }catch(e1){
+    $('body').innerHTML='<p class="loading">Feed unavailable \u2014 trying a public text relay\u2026</p>';
+    try{
+      const r=await viaRelay(u);
+      const isHtml=looksHTML(r.text);
+      nodes=clean(isHtml?fromHTML(r.text):fromMarkdown(r.text));
+      via=r.via+(isHtml?'':' (markdown)');
+      const m=r.text.match(/<title[^>]*>([^<]+)/i)||r.text.match(/^title:\s*(.+)$/m)
+             ||r.text.match(/^#\s+(.+)$/m);
+      title=m?m[1].trim():u;
+    }catch(e2){
+      $('ttl').textContent='Could not read this report';
+      $('body').innerHTML='<p class="warn">Neither the blog\u2019s feed nor a relay could be reached ('+
+        esc(e1.message)+'; '+esc(e2.message)+').</p><p>Open the original: <a href="'+esc(u)+
+        '" target="_blank" rel="noopener">'+esc(u)+'</a>, select a passage there, and use '+
+        '<b>Copy prompt</b> with your own text.</p>';
+      return;
+    }
   }
+
+  CUR.title=title;
+  $('ttl').textContent=title;
+  const np=nodes.filter(n=>n.text).length, ni=nodes.length-np;
+  $('via').innerHTML='read via <b>'+esc(via)+'</b>'+(byline?' \u00b7 '+esc(byline):'')+
+    ' \u00b7 '+np+' passages'+(ni?', '+ni+' images':'');
+  if(!nodes.length){
+    $('body').innerHTML='<p class="warn">The report was reached but held no readable text \u2014 it may '+
+      'be entirely images. <a href="'+esc(u)+'" target="_blank" rel="noopener">Open the original \u2197</a></p>';
+    return;
+  }
+  $('body').innerHTML=nodes.map(function(n){
+    if(n.img) return '<img src="'+esc(n.img)+'" loading="lazy" alt="">';
+    if(n.head) return '<h3>'+esc(n.text.replace(/:\s*$/,''))+'</h3>';
+    return '<p'+(n.text.length<30?' class="short"':'')+'>'+esc(n.text)+'</p>';
+  }).join('');
 }
-document.getElementById('load').onclick=()=>{const u=document.getElementById('url').value.trim();
-  if(u)load(u);};
-document.getElementById('url').addEventListener('keydown',e=>{if(e.key==='Enter')
-  document.getElementById('load').click();});
+$('load').onclick=function(){const u=$('url').value.trim(); if(u)load(u);};
+$('url').addEventListener('keydown',function(e){if(e.key==='Enter')$('load').click();});
 
 /* ---- selection -> seed --------------------------------------------- */
-const pop=document.getElementById('pop');
+const pop=$('pop');
 function preamble(sel,mode){
   const base='From the clinical case report "'+(CUR.title||'(untitled)')+'" at '+
     (CUR.url||'(url not set)')+
-    ' — published by its authors under CC BY-NC-SA 4.0. This is a selected passage, not the full text.';
+    ' \u2014 published by its authors under CC BY-NC-SA 4.0. This is a selected passage, not the full text.';
   const ask={
     explain :'Explain this passage plainly, for a clinician-in-training:',
     diff    :'What differential diagnosis does this passage suggest, and why?',
@@ -194,12 +330,12 @@ function preamble(sel,mode){
   }[mode]||'Discuss this passage:';
   return base+'\n\n'+ask+'\n\n"'+sel+'"';
 }
-document.addEventListener('mouseup',()=>{const s=(window.getSelection()+'').trim();
+document.addEventListener('mouseup',function(){
+  const s=(window.getSelection()+'').trim();
   if(s.length<12){pop.style.display='none';return}
   const r=window.getSelection().getRangeAt(0).getBoundingClientRect();
-  pop.style.left=Math.max(8,Math.min(r.left,innerWidth-360))+'px';
+  pop.style.left=Math.max(8,Math.min(r.left,innerWidth-380))+'px';
   pop.style.top=(window.scrollY+r.bottom+8)+'px';pop.style.display='block';pop.dataset.s=s;});
-
 async function toClipboard(t){
   try{await navigator.clipboard.writeText(t);return true}
   catch(e){const ta=document.createElement('textarea');ta.value=t;ta.style.position='fixed';
@@ -207,23 +343,16 @@ async function toClipboard(t){
     let ok=false;try{ok=document.execCommand('copy')}catch(_){}
     document.body.removeChild(ta);return ok}
 }
-pop.querySelectorAll('button').forEach(b=>b.onclick=async()=>{
+pop.querySelectorAll('button').forEach(function(b){b.onclick=async function(){
   const s=pop.dataset.s||'', a=b.dataset.a, P=provider();
   const prompt=preamble(s, a==='copy'?'explain':a);
-  if(a==='copy'){
-    b.textContent=(await toClipboard(prompt))?'Copied':'Copy failed';
-    setTimeout(()=>b.textContent='Copy prompt',1400);
-    return;
-  }
-  if(P.prefill && P.url){
-    window.open(P.url+encodeURIComponent(prompt),'_blank','noopener');
-  }else{
-    const ok=await toClipboard(prompt);
-    toast(ok ? 'Prompt copied — paste it into '+P.name
-             : 'Could not copy automatically — use “Copy prompt”');
-    if(P.url) window.open(P.url,'_blank','noopener');
-  }
+  if(a==='copy'){ b.textContent=(await toClipboard(prompt))?'Copied':'Copy failed';
+    setTimeout(function(){b.textContent='Copy prompt'},1400); return; }
+  if(P.prefill&&P.url){ window.open(P.url+encodeURIComponent(prompt),'_blank','noopener'); }
+  else{ const ok=await toClipboard(prompt);
+    toast(ok?'Prompt copied \u2014 paste it into '+P.name:'Could not copy \u2014 use \u201cCopy prompt\u201d');
+    if(P.url) window.open(P.url,'_blank','noopener'); }
   pop.style.display='none';
-});
-document.addEventListener('mousedown',e=>{if(!pop.contains(e.target))pop.style.display='none';});
+};});
+document.addEventListener('mousedown',function(e){if(!pop.contains(e.target))pop.style.display='none';});
 </script>
