@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "Animation Collection: Original Production Drawing of the Nubian Centaurette from \"The Pastoral Symphony\" sequence of \"Fantasia,\" 1940",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://greganimationart.blogspot.com/2015/07/original-production-drawing-of-nubian.html. SHA-256 of the retrieved article text: 673e938a405a5d0b3f2a4e8d86443bf60d97542f3bc880348c7f86c6f01d2cf5. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://greganimationart.blogspot.com/2015/07/original-production-drawing-of-nubian.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

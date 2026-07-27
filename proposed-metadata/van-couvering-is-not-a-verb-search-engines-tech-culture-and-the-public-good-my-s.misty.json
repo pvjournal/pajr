@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "Van Couvering Is Not a Verb: Search engines, tech culture, and the public good: my sister's thesis",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://davidvancouvering.blogspot.com/2010/03/search-engines-tech-culture-and-public.html. SHA-256 of the retrieved article text: 09a53b5018ef566ff011284901e3cfc389785f8f973f457ed935254a4f057905. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://davidvancouvering.blogspot.com/2010/03/search-engines-tech-culture-and-public.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "UDHC case records (A): A 58 years old man with reduced perspiration and coarseness over dorsal forearm, dorsal hands and back and chest since 20 years",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://globaludhc09.blogspot.com/2015/12/a-58-years-old-man-with-skin-problem.html. SHA-256 of the retrieved article text: bfe9f7d69e9e7715597dfcdda61bf0b2cc9358a7cfc6a4d948699bc4136301e3. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://globaludhc09.blogspot.com/2015/12/a-58-years-old-man-with-skin-problem.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

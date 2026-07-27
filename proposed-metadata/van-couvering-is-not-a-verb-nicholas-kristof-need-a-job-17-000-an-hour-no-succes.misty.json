@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "Van Couvering Is Not a Verb: Nicholas Kristof - Need a Job? $17,000 an Hour. No Success Required.",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://davidvancouvering.blogspot.com/2008/09/nicholas-kristof-need-job-17000-hour-no.html. SHA-256 of the retrieved article text: 8562c5f2d40260ccf60e101d237775410fbd0a7c11e50780bff84a115c8477c4. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://davidvancouvering.blogspot.com/2008/09/nicholas-kristof-need-job-17000-hour-no.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

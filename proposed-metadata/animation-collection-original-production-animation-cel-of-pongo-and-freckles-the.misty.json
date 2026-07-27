@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "Animation Collection: Original Production Animation Cel of Pongo and Freckles The Dalmatian Puppy from \"One Hundred and One Dalmatians,\" 1961",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://greganimationart.blogspot.com/2016/08/original-production-animation-cel-of_28.html. SHA-256 of the retrieved article text: 858a34a0896f4d52b713f92ea284ae822e265e968ee20b6899d64724a10a4b9d. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://greganimationart.blogspot.com/2016/08/original-production-animation-cel-of_28.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

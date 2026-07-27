@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "63M Metabolic syn Dyspnea 2 years WB PaJR layered case report 3",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://24fpatient.blogspot.com/2025/05/63m-metabolic-syn-dyspnea-2-years-wb.html. SHA-256 of the retrieved article text: 8527321be4ff429be10a22ecda5c36cf8d3a78264d5be2ba9bb54e0116558218. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://24fpatient.blogspot.com/2025/05/63m-metabolic-syn-dyspnea-2-years-wb.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

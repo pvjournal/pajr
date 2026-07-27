@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "Bhavana Chenna: A 53 year old Female Patient with Fever, Weakness of Left Upper and Lower Limbs and Slurring of Speech",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://chennabhavana.blogspot.com/2021/09/a-53-year-old-female-patient-with-fever.html. SHA-256 of the retrieved article text: dff18dafcd32c0ae9f81b51a0d4593416d46c4c224653ffeedf9bcee2285d9b0. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://chennabhavana.blogspot.com/2021/09/a-53-year-old-female-patient-with-fever.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

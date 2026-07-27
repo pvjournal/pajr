@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "60M with CKD and HTN",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://nadipisneha.blogspot.com/2023/11/60m-with-ckd-and-htn.html. SHA-256 of the retrieved article text: a2d6a583b279c11ff45172ccd11e822aaa833ccf97ff63a3ba575f03c348b8ad. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://nadipisneha.blogspot.com/2023/11/60m-with-ckd-and-htn.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

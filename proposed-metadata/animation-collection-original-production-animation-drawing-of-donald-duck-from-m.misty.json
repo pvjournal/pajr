@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "Animation Collection: Original Production Animation Drawing of Donald Duck from \"Mickey's Fire Brigade,\" 1935",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://greganimationart.blogspot.com/2016/03/original-production-animation-drawing_16.html. SHA-256 of the retrieved article text: 8a862634952abff2572c124220c524ac24358023c343d45d3a1e7a6b38575f40. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://greganimationart.blogspot.com/2016/03/original-production-animation-drawing_16.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

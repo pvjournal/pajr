@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "16 year old female with hypertensive encephalopathy",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://73varunsaim.blogspot.com/2023/02/16-year-old-female-with-hypertensive.html. SHA-256 of the retrieved article text: de9c825b0448ed3af095f5887d52147e117a33183cc544976a7e18118abfd3e9. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://73varunsaim.blogspot.com/2023/02/16-year-old-female-with-hypertensive.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

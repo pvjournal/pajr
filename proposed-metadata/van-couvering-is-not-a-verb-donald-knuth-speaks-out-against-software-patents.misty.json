@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "Van Couvering Is Not a Verb: Donald Knuth Speaks Out Against Software Patents",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://davidvancouvering.blogspot.com/2007/07/donald-knuth-speaks-out-against.html. SHA-256 of the retrieved article text: 742b52df7ba7c22e418c4e37db4ab7f77d92b4e9193e1b9340f1df19a323c445. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://davidvancouvering.blogspot.com/2007/07/donald-knuth-speaks-out-against.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

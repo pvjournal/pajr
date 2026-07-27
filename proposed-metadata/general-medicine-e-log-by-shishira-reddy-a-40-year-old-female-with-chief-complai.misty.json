@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "General Medicine E-log by Shishira Reddy: A 40 year old female with chief complaint of abdominal distension and facial puffiness since 1 year",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://02shishirareddy.blogspot.com/2022/06/a-45-year-old-female-with-chief.html. SHA-256 of the retrieved article text: 735c6eac3d314c342f30aa8f0d6255e6a8d3d703ef87503a4c1ea0ce93720ff9. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://02shishirareddy.blogspot.com/2022/06/a-45-year-old-female-with-chief.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "Van Couvering Is Not a Verb: At Sun there's no There There",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://davidvancouvering.blogspot.com/2007/07/at-sun-there-no-there-there.html. SHA-256 of the retrieved article text: 96fc1aa9b63c62c79ca4b3c5a33c968fca077715f29f95a2f2a791eb9dd1fb4c. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://davidvancouvering.blogspot.com/2007/07/at-sun-there-no-there-there.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

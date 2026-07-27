@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "Medicine Discussion: UNIT 3 ADMISSION",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://chitrasrinivas.blogspot.com/2021/08/unit-3-admission.html. SHA-256 of the retrieved article text: 983a25ba01371cd7288ea45ad1daa138145d2fb85cb709563923d03de3265af3. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://chitrasrinivas.blogspot.com/2021/08/unit-3-admission.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

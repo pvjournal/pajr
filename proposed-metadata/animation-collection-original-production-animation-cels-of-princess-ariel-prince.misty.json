@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "Animation Collection: Original Production Animation Cels of Princess Ariel, Prince Eric, and Max from \"The Little Mermaid,\" 1989",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://greganimationart.blogspot.com/2019/06/original-production-animation-cels-of_29.html. SHA-256 of the retrieved article text: 07bf1b9b3dbe223c69c9f676e711d9707523a6ff125455ec23c931248963f979. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://greganimationart.blogspot.com/2019/06/original-production-animation-cels-of_29.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

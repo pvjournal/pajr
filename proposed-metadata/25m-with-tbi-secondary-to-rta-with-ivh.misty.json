@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "25M with TBI SECONDARY TO RTA WITH IVH",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://bhargavikantipudirollno21.blogspot.com/2023/04/25m-with-tbi-secondary-to-rta-with-ivh.html. SHA-256 of the retrieved article text: 567153749f4a81f191279735aa2eaf36d6189ace826a33f3b23ffba66ff39071. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://bhargavikantipudirollno21.blogspot.com/2023/04/25m-with-tbi-secondary-to-rta-with-ivh.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

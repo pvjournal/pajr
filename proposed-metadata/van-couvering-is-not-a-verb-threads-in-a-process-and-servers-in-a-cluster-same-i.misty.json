@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "Van Couvering Is Not a Verb: Threads in a process and servers in a cluster: same issues, different context",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://davidvancouvering.blogspot.com/2008/03/threads-in-process-and-servers-in.html. SHA-256 of the retrieved article text: 36f0ea9c01cbc44169e35081a4b582e162001b6d640cbd52f756dc6c9e20189f. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://davidvancouvering.blogspot.com/2008/03/threads-in-process-and-servers-in.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "_note": "PROPOSAL ONLY. Prepared for the authors of this case report. Nothing here has been minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "Consent Forms \u00b7 PaJR Health",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "publication_date": "",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://pajrhealth.com/consent-form/. SHA-256 of the retrieved text: 3b07e74a1775aa93b66f341843ac5ede448d338ba847ea137f1daee49d16501c. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://pajrhealth.com/consent-form/",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

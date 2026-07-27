@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "19100006009 CASE PRESENTATIONS",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://gmpgpracticals.blogspot.com/2022/06/19100006009-case-presentations.html. SHA-256 of the retrieved article text: 7763301d3fe81476ab5aeaea7c19e4e5984aff65b58cbd1243185e4785456bd6. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://gmpgpracticals.blogspot.com/2022/06/19100006009-case-presentations.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

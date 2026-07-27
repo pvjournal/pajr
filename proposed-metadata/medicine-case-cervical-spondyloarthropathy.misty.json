@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "Medicine case cervical spondyloarthropathy",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://alekyatummala.blogspot.com/2020/07/medicine-case.html. SHA-256 of the retrieved article text: 46cfb5da139775f838730e4756c4ab087f66fdce2315a93d0d49923a968bdde6. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://alekyatummala.blogspot.com/2020/07/medicine-case.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

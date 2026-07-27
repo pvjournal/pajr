@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "UDHC case records (B): A 60 years old man with fronto-temporal dementia and Quadriparesis",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://globaludhc07.blogspot.com/2016/01/a-60-years-old-man-with-quadriparesis.html. SHA-256 of the retrieved article text: 7646fb766c57e92b931f08ed887e07cb2cdb667f2d9ec53067b546d9a913a794. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://globaludhc07.blogspot.com/2016/01/a-60-years-old-man-with-quadriparesis.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

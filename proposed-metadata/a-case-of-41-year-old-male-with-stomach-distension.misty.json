@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "A CASE OF 41 YEAR OLD MALE WITH STOMACH DISTENSION",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://divyapolagoni01.blogspot.com/2021/10/a-case-of-41-year-old-male-with-stomach.html. SHA-256 of the retrieved article text: e8dc24b6a21d3188600e08419f19a41c4c98cce75705112718ce444ad05722d4. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://divyapolagoni01.blogspot.com/2021/10/a-case-of-41-year-old-male-with-stomach.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

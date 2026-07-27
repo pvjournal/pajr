@@ -1,0 +1,24 @@
+{
+  "_note": "PROPOSAL ONLY. Prepared for the authors of this case report. Nothing here has been minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "UDLCO CRH case report: Recurrent stroke as a result of osmotic demyelination syndrome?",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "publication_date": "2026-06-05",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://medicinedepartment.blogspot.com/2026/06/udlco-crh-case-report-recurrent-stroke.html. SHA-256 of the retrieved text: c94c80221184ebe8506b4fc5bddb83219a5654502cee0e60e431c69fb8490885. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://medicinedepartment.blogspot.com/2026/06/udlco-crh-case-report-recurrent-stroke.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

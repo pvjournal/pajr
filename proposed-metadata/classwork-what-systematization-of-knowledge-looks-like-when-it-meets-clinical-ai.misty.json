@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "classwork: What \"Systematization of Knowledge\" Looks Like When It Meets Clinical AI: A Look at VibeRounds",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://classworkdecjan.blogspot.com/2026/07/what-systematization-of-knowledge-looks.html. SHA-256 of the retrieved article text: 12f3db58b0ef48fc23c5ff1ac3e33373131d0be340e0cd13a541b3fe3c88ee36. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://classworkdecjan.blogspot.com/2026/07/what-systematization-of-knowledge-looks.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "PATIENT: Name - Adina Cordififolia - 4 , Age - 56 y  , Sex - M",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://736146.blogspot.com/2019/02/name-adina-cordififolia-4-age-56-y-sex-m.html. SHA-256 of the retrieved article text: ae179eee6f419a211ddba7967578845a61264a6f791b98b9f79c18719a326d21. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://736146.blogspot.com/2019/02/name-adina-cordififolia-4-age-56-y-sex-m.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

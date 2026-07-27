@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "Animation Collection: Original Key Setup of hand painted production animation cels of Bilbo, Thorin, Balin, Bard, and Eleven Men of Lake-town from \"The Hobbit,\" 1977",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://greganimationart.blogspot.com/2026/06/original-hand-painted-production.html. SHA-256 of the retrieved article text: e41ee613102bd85daf57e4ba633262430650ecccb9aaf2ded45de3ce4057cc29. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://greganimationart.blogspot.com/2026/06/original-hand-painted-production.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

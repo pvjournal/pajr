@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "32 yr old with CLD seconday to alcohol",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://mohammedwahaaj11.blogspot.com/2023/07/32-yr-old-with-cld-seconday-to-alcohol.html. SHA-256 of the retrieved article text: f3c22fac6e0cdfc3f11506abc8b80a1babea84ef295c4d133427fb3186df52c2. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://mohammedwahaaj11.blogspot.com/2023/07/32-yr-old-with-cld-seconday-to-alcohol.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

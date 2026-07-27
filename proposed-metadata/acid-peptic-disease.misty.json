@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "Acid peptic disease",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://kallemshivani.blogspot.com/2023/09/acid-peptic-disease.html. SHA-256 of the retrieved article text: ffc7e26797c7aa7c6cd5208f75e981ab463b008f329f4e3cc39797030b8c3af0. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://kallemshivani.blogspot.com/2023/09/acid-peptic-disease.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "23 yr old male came with complaints of fever",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://kammampatiuharollno65.blogspot.com/2022/02/megaloblastic-anaemia.html. SHA-256 of the retrieved article text: 3d9db0f3bc1dc4d9090ab642e2b07ea863b818c69a3b861807270d8e8bc04444. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://kammampatiuharollno65.blogspot.com/2022/02/megaloblastic-anaemia.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

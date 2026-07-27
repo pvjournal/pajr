@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "Medicine Department : Multidisciplinary integrative photonics mission mode program\u00a0toward human trouble shooting",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://medicinedepartment.blogspot.com/2025/08/multidisciplinary-integrative-photonics.html. SHA-256 of the retrieved article text: 6a0a732f4e2db593eec40747276924bd91b79750a844ba8fd3dba973e04419c1. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://medicinedepartment.blogspot.com/2025/08/multidisciplinary-integrative-photonics.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

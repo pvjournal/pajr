@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "22 years old male with diabetic ketoacidosis",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://kalpanamiryala83.blogspot.com/2021/10/22-years-old-male-with-diabetic.html. SHA-256 of the retrieved article text: 91ac5d2ee21d0f5e75af3d21c0276269dd13b1ae7cab6bdbcf9d0be29321d93c. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://kalpanamiryala83.blogspot.com/2021/10/22-years-old-male-with-diabetic.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

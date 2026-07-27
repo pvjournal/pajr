@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "Animation Collection: Original Animation Production Cels of Pongo and Nanny with a Newborn Puppy from \"One Hundred And One Dalmatians,\" 1961",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://greganimationart.blogspot.com/2015/12/original-animation-production-cels-of.html. SHA-256 of the retrieved article text: 6d3302a7c2bd03e01cf4b1b661cae70e5c42d40227e04d236f80cb9c0706260b. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://greganimationart.blogspot.com/2015/12/original-animation-production-cels-of.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

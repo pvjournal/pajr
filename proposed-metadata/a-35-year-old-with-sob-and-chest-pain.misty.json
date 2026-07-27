@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "A 35 year old with sob and chest pain",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://chandanaracharollno128.blogspot.com/2023/01/this-is-e-log-book-to-discuss-our.html. SHA-256 of the retrieved article text: d5845e8cdece0659c330a7b883813d7cf39250df832ba876fa52505a6e3267ef. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://chandanaracharollno128.blogspot.com/2023/01/this-is-e-log-book-to-discuss-our.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "Animation Collection: Original production animation cel of John Lennon, Paul McCartney, George Harrison, and Ringo Star from \"The Beatles,\" 1965-67",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://greganimationart.blogspot.com/2024/03/original-production-animation-cel-of_7.html. SHA-256 of the retrieved article text: b34fb31c9214fb1a1d2e64d2b8cd7146a44a4a5688281db5baa2e3175111b64a. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://greganimationart.blogspot.com/2024/03/original-production-animation-cel-of_7.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

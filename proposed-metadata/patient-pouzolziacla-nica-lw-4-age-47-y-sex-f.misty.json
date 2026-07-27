@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "PATIENT: Pouzolziacla Nica(LW) -4 , Age - 47 y , Sex - F",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://736146.blogspot.com/2019/08/pouzolziacla-nicalw-4-age-47-y-sex-f.html. SHA-256 of the retrieved article text: 05d3d6cbb6df688722cafea7781da3d52520a44569aab90ea47093905cf9f725. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://736146.blogspot.com/2019/08/pouzolziacla-nicalw-4-age-47-y-sex-f.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

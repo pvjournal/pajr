@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "28 yr old male pt presented with history of seizures",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://kavyasamudrala.blogspot.com/2022/01/a-28-year-old-male-who-is-sales-man-in.html. SHA-256 of the retrieved article text: 604b3d585d174303e073372bae53778f23e6acccaa80015e84f4b10c531ada4c. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://kavyasamudrala.blogspot.com/2022/01/a-28-year-old-male-who-is-sales-man-in.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

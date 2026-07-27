@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "23 yr old male pt with c/c of Fever with thrombocytopenia",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://koretejaswi42.blogspot.com/2022/11/23-yr-old-male-pt-with-cc-of-fever-with.html. SHA-256 of the retrieved article text: c22ea1283f667985b19da0cb47ed19d418e25349a119aac7e50f6a9ba26145db. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://koretejaswi42.blogspot.com/2022/11/23-yr-old-male-pt-with-cc-of-fever-with.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

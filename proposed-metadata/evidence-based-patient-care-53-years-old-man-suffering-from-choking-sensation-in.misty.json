@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "Evidence Based Patient Care: 53 years-old-man suffering from choking sensation in sleep since Sep 2019, seeking experts help",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://ebpc-udhc-debasishacharjee.blogspot.com/2020/02/53-years-old-man-suffering-from-choking.html. SHA-256 of the retrieved article text: e90ef54904fd978e8f0b1727ea317008cae6bb5a4ed493eb7e89c9ea83ea6179. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://ebpc-udhc-debasishacharjee.blogspot.com/2020/02/53-years-old-man-suffering-from-choking.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

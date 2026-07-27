@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "UDHC case records (A): A 48 years old man with GAD & Alcoholism",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://globaludhc09.blogspot.com/2015/12/gad-alcoholism.html. SHA-256 of the retrieved article text: bf47cab844b5747af988e422017cd14acf5938b46ad4b69356d95ec34adff93d. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://globaludhc09.blogspot.com/2015/12/gad-alcoholism.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "Sarojini DM Long Case 1902102055",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://adnanarafath.blogspot.com/2023/07/sarojini-dm.html. SHA-256 of the retrieved article text: 013bd26240ef482999c4224634973aa0b6792fccf845917f2bfd7f6f08c308fc. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://adnanarafath.blogspot.com/2023/07/sarojini-dm.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

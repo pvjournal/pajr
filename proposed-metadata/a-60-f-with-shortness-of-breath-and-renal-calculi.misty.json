@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "A 60 /F with shortness of breath and renal calculi",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://decodemed.blogspot.com/2021/09/this-is-online-e-logbook-to-discuss-our.html. SHA-256 of the retrieved article text: d3fbde856d071bc3a6881753bd2b0f0c2e816ba6c99cb96ae753bb9051aca5dd. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://decodemed.blogspot.com/2021/09/this-is-online-e-logbook-to-discuss-our.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

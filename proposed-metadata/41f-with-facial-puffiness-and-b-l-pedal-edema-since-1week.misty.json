@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "41F with Facial puffiness and B/L pedal edema since 1week",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://drbharath79.blogspot.com/2024/05/41f-with-facial-puffiness-and-bl-pedal.html. SHA-256 of the retrieved article text: d421f55fde4646deb0f438798a3545baa7de1ef1d1dd81a8ac102056ffc3f2fd. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://drbharath79.blogspot.com/2024/05/41f-with-facial-puffiness-and-bl-pedal.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

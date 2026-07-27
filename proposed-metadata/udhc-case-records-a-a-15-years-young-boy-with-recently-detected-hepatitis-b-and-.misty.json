@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "UDHC case records (A): A 15 years young boy with recently detected Hepatitis B and headache, dizziness since 1 year",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://globaludhc09.blogspot.com/2016/02/a-15-years-young-boy-with-headache.html. SHA-256 of the retrieved article text: b1e0e7b7258e296aedd8dca970ac84c442a4decbdde28523d935d3dda3889f02. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://globaludhc09.blogspot.com/2016/02/a-15-years-young-boy-with-headache.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

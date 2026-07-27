@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "40 year old with vomitings",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://150baddamhimasrireddy.blogspot.com/2023/12/40-year-old-with-vomitings.html. SHA-256 of the retrieved article text: 3f38cf8ac6f3bd5d77abacade57aa436c907d94bc95b237e7d08cf08d3cf9012. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://150baddamhimasrireddy.blogspot.com/2023/12/40-year-old-with-vomitings.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

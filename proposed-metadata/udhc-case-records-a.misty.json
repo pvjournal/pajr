@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "UDHC case records (A)",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://globaludhc09.blogspot.com/2015/12/blog-post_40.html. SHA-256 of the retrieved article text: ccfde4eca601884ba622cfeddd3ed42933429f499bf2d214cb5d5d2ce3c35972. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://globaludhc09.blogspot.com/2015/12/blog-post_40.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "PATIENT: Name - Barlaria Cristata L - 5 , AGE -40 Y , Sex - M,",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://736146.blogspot.com/2020/02/name-barlaria-cristata-l-5-age-40-y-sex.html. SHA-256 of the retrieved article text: 0e7706fe4a2c62d520b79c2fafb2e45b32d2d345d31c06170f5f36d95dc478bb. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://736146.blogspot.com/2020/02/name-barlaria-cristata-l-5-age-40-y-sex.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

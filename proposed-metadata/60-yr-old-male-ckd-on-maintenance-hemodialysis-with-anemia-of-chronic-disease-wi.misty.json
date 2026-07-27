@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "60 yr old male CKD on maintenance hemodialysis with anemia of chronic disease with hypertension.",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://73myashwitha.blogspot.com/2023/11/60-yr-old-male-ckd-with-anemia-of.html. SHA-256 of the retrieved article text: 21671bb506a5a7c8ba8a40fcc562528d93e233683a0d1eb83ed146cf63beb330. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://73myashwitha.blogspot.com/2023/11/60-yr-old-male-ckd-with-anemia-of.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

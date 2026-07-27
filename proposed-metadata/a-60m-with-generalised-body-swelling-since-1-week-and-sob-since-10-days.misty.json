@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "A 60M with generalised body swelling since 1 week and SOB since 10 days",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://eekalikhitharollno43.blogspot.com/2024/01/a-60m-with-generalised-body-swelling.html. SHA-256 of the retrieved article text: 68b54a717af8c6c4ea9d6927145c1476afce1290fdb9f81e17060dcebd0222cc. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://eekalikhitharollno43.blogspot.com/2024/01/a-60m-with-generalised-body-swelling.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

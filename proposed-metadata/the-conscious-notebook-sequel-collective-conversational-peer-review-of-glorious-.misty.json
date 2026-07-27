@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "The Conscious Notebook Sequel: Collective conversational peer review of Glorious Alchemy",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://consciousnotebooksequel.blogspot.com/2023/04/collective-conversational-peer-review.html. SHA-256 of the retrieved article text: 74321ea0ad71d7fcba2ddd32909a791afce81ab6a92805150aa0a89dc69fb8fe. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://consciousnotebooksequel.blogspot.com/2023/04/collective-conversational-peer-review.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

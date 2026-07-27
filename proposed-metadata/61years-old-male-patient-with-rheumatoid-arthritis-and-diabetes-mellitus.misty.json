@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "61years old male patient with Rheumatoid arthritis and Diabetes mellitus",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://cherukupallipavanrollno27.blogspot.com/2022/06/61years-old-male-patient-with.html. SHA-256 of the retrieved article text: 10bc47071fc56becc5b3cf73adb9c5b297aa1392732e8c8f0e6de35f9b9fc42d. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://cherukupallipavanrollno27.blogspot.com/2022/06/61years-old-male-patient-with.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

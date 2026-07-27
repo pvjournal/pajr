@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "A case of 42 year old female with multiple health events since birth",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://kyasasaibrigisharollno95.blogspot.com/2020/05/a-case-of-42-year-old-female-with.html. SHA-256 of the retrieved article text: 67e2720dde8bcf27e1bc3cf0229f77ab01fa42b7244dec0b3b8cbfc02970ac48. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://kyasasaibrigisharollno95.blogspot.com/2020/05/a-case-of-42-year-old-female-with.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

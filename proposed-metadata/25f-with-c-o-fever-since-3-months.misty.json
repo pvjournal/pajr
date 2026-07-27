@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "25F with c/o FEVER since 3 months",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://34vijayaratnadande.blogspot.com/2023/10/25f-with-co-fever-since-3-months.html. SHA-256 of the retrieved article text: 3606ed82dbd70b9fd77112fb0e1a59d5d8a491a2489d1e43728df509bbaf62c4. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://34vijayaratnadande.blogspot.com/2023/10/25f-with-co-fever-since-3-months.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

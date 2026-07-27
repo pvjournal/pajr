@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "65 year old male came for dialysis",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://chippathoshitha30.blogspot.com/2022/06/65-year-old-male-came-for-dialysis.html. SHA-256 of the retrieved article text: ca34133b5583aecd0c7508e4796c12e6a190d6be9c4e6b42328da24670070f7a. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://chippathoshitha30.blogspot.com/2022/06/65-year-old-male-came-for-dialysis.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

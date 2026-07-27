@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "PATIENT: Barlaria Strigosa Will - 4 ,   Age - 16 ,  Sex - F,",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://736146.blogspot.com/2019/05/barlaria-strigosa-will-4-age-16-sex-f.html. SHA-256 of the retrieved article text: 62bc5cc0f58026e3914db000ec2c7d975a95ecad1e473dbb55b370757b5bf386. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://736146.blogspot.com/2019/05/barlaria-strigosa-will-4-age-16-sex-f.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

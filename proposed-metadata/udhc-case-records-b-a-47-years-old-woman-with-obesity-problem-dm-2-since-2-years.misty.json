@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "UDHC case records (B): A 47 years old woman with obesity problem & DM-2 since 2 years",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://globaludhc07.blogspot.com/2016/01/a-47-years-old-woman-with-obesity.html. SHA-256 of the retrieved article text: 64b02cef607d2b1988ecda03626245d948e16dfb368014f3962a59e23ea9e579. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://globaludhc07.blogspot.com/2016/01/a-47-years-old-woman-with-obesity.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

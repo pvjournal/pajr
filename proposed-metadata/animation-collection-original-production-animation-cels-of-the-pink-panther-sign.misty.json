@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "Animation Collection: Original Production Animation Cels of The Pink Panther signed by Friz Freleng & Door Cel from \"Pink S.W.A.T.,\" 1978",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://greganimationart.blogspot.com/2017/02/original-production-animation-cels-of_28.html. SHA-256 of the retrieved article text: 698cac274898a9d60c1fd88376b765d4dc0ef49e4e6cf66fe93e9fedb79cd222. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://greganimationart.blogspot.com/2017/02/original-production-animation-cels-of_28.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "Medicine Department : Making connections between different ways of knowing and doing",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://medicinedepartment.blogspot.com/2021/06/making-connections-between-different.html. SHA-256 of the retrieved article text: 3cabb031e1b47a8ca9e7a601931ebbd872d9ebb0ae85405d4820c94a7b7cf3d0. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://medicinedepartment.blogspot.com/2021/06/making-connections-between-different.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

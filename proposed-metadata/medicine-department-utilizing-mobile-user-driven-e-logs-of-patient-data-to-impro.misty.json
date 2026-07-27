@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "Medicine Department : Utilizing mobile user driven E logs of patient data to improve hospital and community healthcare services",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://medicinedepartment.blogspot.com/2019/02/utilizing-mobile-user-driven-e-logs-of.html. SHA-256 of the retrieved article text: 0551604ba05cd32c0e0bc2f6f605647231eb26d02e3d257b185a3ef701dc42d6. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://medicinedepartment.blogspot.com/2019/02/utilizing-mobile-user-driven-e-logs-of.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

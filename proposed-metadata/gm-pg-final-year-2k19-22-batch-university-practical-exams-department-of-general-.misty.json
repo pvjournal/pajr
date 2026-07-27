@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "GM PG FINAL YEAR (2K19-22 BATCH) UNIVERSITY PRACTICAL EXAMS - DEPARTMENT OF GENERAL MEDICINE",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://gmpgpracticals.blogspot.com/2022/06/gm-pg-final-year-2k19-22-batch.html. SHA-256 of the retrieved article text: 85a85532cc99142d3acc9853e0cd9cb066c5773da2ee36964e98b4f49300af28. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://gmpgpracticals.blogspot.com/2022/06/gm-pg-final-year-2k19-22-batch.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

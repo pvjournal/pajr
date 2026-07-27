@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "BIMONTHLY EXAM FOR THE MONTH OF JANUARY 2021",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://jabeenahmed300.blogspot.com/2021/01/thursday-january-7-2021medicine-paper.html. SHA-256 of the retrieved article text: 77267491948243c08011ba57ee4cde3c22a868805f5e18c0dbd618ebf3b86470. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://jabeenahmed300.blogspot.com/2021/01/thursday-january-7-2021medicine-paper.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

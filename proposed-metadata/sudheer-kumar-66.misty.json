@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "Sudheer kumar 66",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://66kvnsudheer.blogspot.com/2022/08/sudheer-kumar-66_31.html. SHA-256 of the retrieved article text: 87b9309154b1b3d24266318905232465430a3b6345c21683764d48a7f44ac1b8. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://66kvnsudheer.blogspot.com/2022/08/sudheer-kumar-66_31.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

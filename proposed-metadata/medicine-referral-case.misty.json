@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "Medicine referral case",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://alekyatummala.blogspot.com/2020/07/medicine-referral-case.html. SHA-256 of the retrieved article text: b1a5e9e45bf84083b933ec3e9bcc9a7411aef83f45f6a370ee49ee4ae29b8c86. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://alekyatummala.blogspot.com/2020/07/medicine-referral-case.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

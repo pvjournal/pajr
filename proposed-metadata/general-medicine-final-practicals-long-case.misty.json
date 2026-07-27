@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "General Medicine final practicals- long case",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://kalpanamiryala83.blogspot.com/2022/06/medicine-final-practicals-long-case.html. SHA-256 of the retrieved article text: 5f9f34be23e6ad9b0e9f8efb06c7a10b66e1f53e2dc883598fb8c3b5a3055750. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://kalpanamiryala83.blogspot.com/2022/06/medicine-final-practicals-long-case.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

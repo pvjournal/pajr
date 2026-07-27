@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "PATIENT: Name - Persicaria Glabra(Willd) - 3  Age -  28  Sex - F",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://736146.blogspot.com/2017/12/name-persicaria-glabrawilld-3-age-28.html. SHA-256 of the retrieved article text: 607b8b1f05db3eddef3ddcee0eac3c6b158ca6940d8c685410875feacc03a698. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://736146.blogspot.com/2017/12/name-persicaria-glabrawilld-3-age-28.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

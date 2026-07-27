@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "PATIENT: Name - Aburus Precatorius - 5 , Age - 50 y , Sex - M",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://736146.blogspot.com/2019/08/name-aburus-precatorius-5-age-50-y-sex-m.html. SHA-256 of the retrieved article text: 25b2961d8580454857ca14450ddd8bcaf1efd1c175762e59c20703601ab678c6. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://736146.blogspot.com/2019/08/name-aburus-precatorius-5-age-50-y-sex-m.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

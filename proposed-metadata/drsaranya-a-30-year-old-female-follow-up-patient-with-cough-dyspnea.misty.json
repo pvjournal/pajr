@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "drsaranya: A 30 year old female follow up patient with Cough & Dyspnea",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://drsaranyaroshni.blogspot.com/2022/03/a-30-year-old-female-follow-up-patient.html. SHA-256 of the retrieved article text: d22ba885e12d38d1be6dc35c77884ad0cbaab4c3c894edbbe96f85fdad41cc77. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://drsaranyaroshni.blogspot.com/2022/03/a-30-year-old-female-follow-up-patient.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

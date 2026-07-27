@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "A 55 year old man with childhood asthma and Acute exacerbation of COPD",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://bmjcaselogvivek.blogspot.com/2017/12/a-55-year-old-man-with-child-asthma-and.html. SHA-256 of the retrieved article text: 72d4f05226fa23699c86374d7cfaa29fa11525e1174df1bab3f8420a7caade51. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://bmjcaselogvivek.blogspot.com/2017/12/a-55-year-old-man-with-child-asthma-and.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

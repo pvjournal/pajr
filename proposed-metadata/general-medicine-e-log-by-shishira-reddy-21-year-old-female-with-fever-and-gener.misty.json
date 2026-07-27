@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "General Medicine E-log by Shishira Reddy: 21 year old female with fever and generalized weakness",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://02shishirareddy.blogspot.com/2021/09/21-year-old-female-with-fever-and.html. SHA-256 of the retrieved article text: 8065e8a1d43ac6f10e1c29ec7a2ad8bb6c6c631d19613f413ee4c742d441e38c. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://02shishirareddy.blogspot.com/2021/09/21-year-old-female-with-fever-and.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "A 18 y/o female with c/o of shortness of breath since 2 days,fever since 1 week and pain & swelling in perianal region since 10 days",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://meghadandge2001.blogspot.com/2023/01/a-18-yo-female-with-co-of-shortness-of.html. SHA-256 of the retrieved article text: e47c116c6d5514ad8d944e7f8c64cd022b0676a8db6e90e3657aa722ef99af68. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://meghadandge2001.blogspot.com/2023/01/a-18-yo-female-with-co-of-shortness-of.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "A65 year old female patients  came to causality with chief complaint of stomach while taking food",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://mythrikalakonda40.blogspot.com/2022/11/a65-year-old-female-patients-came-to.html. SHA-256 of the retrieved article text: 5530268e124f0cae7b4c549a9cfc5e374d3e3aee3a3f9baf084c9b5b0091e68c. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://mythrikalakonda40.blogspot.com/2022/11/a65-year-old-female-patients-came-to.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

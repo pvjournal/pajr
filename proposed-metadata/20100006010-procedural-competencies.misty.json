@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "20100006010 PROCEDURAL COMPETENCIES",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://gmpgpracticals.blogspot.com/2023/06/20100006010-procedural-competencies.html. SHA-256 of the retrieved article text: 61cd23257c6b3ce123ac679e42389f15bfb2e180120c0a4101ca13acb393f11f. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://gmpgpracticals.blogspot.com/2023/06/20100006010-procedural-competencies.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

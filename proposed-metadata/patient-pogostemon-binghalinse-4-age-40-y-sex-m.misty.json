@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "PATIENT: Pogostemon Binghalinse - 4 , Age - 40 Y , Sex - M",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://736146.blogspot.com/2019/07/pogostemon-binghalinse-4-age-40-y-sex-m.html. SHA-256 of the retrieved article text: dc54e5c100a911079209f884acf131c20825f1f7a5ec2278a55753c9bad794d3. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://736146.blogspot.com/2019/07/pogostemon-binghalinse-4-age-40-y-sex-m.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "PATIENT: Name - Pouzolziaelanica(LW) -4  Age - 24, Sex - M",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://736146.blogspot.com/2018/11/name-pouzolziaelanicalw-4-age-24-sex-m.html. SHA-256 of the retrieved article text: d61270625623f7a34f93fb59b3635274b8240513299d5759ad4383c3ea7a7ee7. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://736146.blogspot.com/2018/11/name-pouzolziaelanicalw-4-age-24-sex-m.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

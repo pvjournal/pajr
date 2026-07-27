@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "PATIENT: Name -  Ochna Squarrsal - 2     Age - 61 y    Sex   - M",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://736146.blogspot.com/2017/08/name-ochna-squarrsal-2-age-61-y-sex-m.html. SHA-256 of the retrieved article text: e9a576ed3f16ca1262b55e012315d80249d764f387003d6085f92399408f093a. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://736146.blogspot.com/2017/08/name-ochna-squarrsal-2-age-61-y-sex-m.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

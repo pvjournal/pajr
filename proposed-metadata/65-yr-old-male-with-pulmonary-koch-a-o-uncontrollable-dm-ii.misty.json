@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "65 yr old male with Pulmonary Koch a/o uncontrollable DM-II",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://jayasrujanayadavalli.blogspot.com/2022/12/wednesday-december-14-2022-65-yr-old.html. SHA-256 of the retrieved article text: 4e4ee1b16758e6278fafa864ce5a157878d6f72bc39da74eaafb30ed391aaf34. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://jayasrujanayadavalli.blogspot.com/2022/12/wednesday-december-14-2022-65-yr-old.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

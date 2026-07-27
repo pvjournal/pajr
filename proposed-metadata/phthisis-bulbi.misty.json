@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "phthisis bulbi",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://alekyatummala.blogspot.com/2023/08/phthisis-bulbi.html. SHA-256 of the retrieved article text: 2f99e0dc321e249b577b39eea4dc8c8c225d9164a76ede4e6811386f62df564b. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://alekyatummala.blogspot.com/2023/08/phthisis-bulbi.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "85 year old female with left sided weakness",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://alekyatummala.blogspot.com/2020/08/cva.html. SHA-256 of the retrieved article text: a87905ef2253e7cac911e56ce0880b41dd73381eed76be7ed0d13d0d8220aa36. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://alekyatummala.blogspot.com/2020/08/cva.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

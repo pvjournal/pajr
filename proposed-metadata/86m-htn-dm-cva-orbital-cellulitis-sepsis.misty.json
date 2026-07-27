@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "86M HTN DM CVA ORBITAL CELLULITIS SEPSIS",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://himajav.blogspot.com/2024/11/86m-htn-dm-cva-orbital-cellulitis-sepsis.html. SHA-256 of the retrieved article text: f158f89586c66dd61d7065f3887a7af0cd347823332391319e75995f9adb0b8b. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://himajav.blogspot.com/2024/11/86m-htn-dm-cva-orbital-cellulitis-sepsis.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

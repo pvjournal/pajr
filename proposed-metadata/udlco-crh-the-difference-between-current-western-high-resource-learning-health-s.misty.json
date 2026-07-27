@@ -1,0 +1,24 @@
+{
+  "_note": "PROPOSAL ONLY. Prepared for the authors of this case report. Nothing here has been minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "UDLCO CRH : The difference between current Western High resource learning health system vs low resource PaJR",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "publication_date": "2026-05-14",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://userdrivenhealthcare.blogspot.com/2026/05/udlco-crh-difference-between-current.html. SHA-256 of the retrieved text: 1024c6e8b5f6000824145425cfffc52892a899ae96d0435b5ab2596295cccd0e. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://userdrivenhealthcare.blogspot.com/2026/05/udlco-crh-difference-between-current.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

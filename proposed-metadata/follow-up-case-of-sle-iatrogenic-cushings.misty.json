@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "FOLLOW UP CASE OF SLE ? IATROGENIC CUSHINGS",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://63konakanchihyndavi.blogspot.com/2022/12/18year-old-girl-came-with-chief.html. SHA-256 of the retrieved article text: 92f94b00f11e7d38f04c5df4ab4b41857323bbb161982d8273e38e02146ee881. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://63konakanchihyndavi.blogspot.com/2022/12/18year-old-girl-came-with-chief.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

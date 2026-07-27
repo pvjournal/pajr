@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "HCV due to Dialysis??",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://bmjsanjana.blogspot.com/2019/03/hepatitis-c-pptnotes.html. SHA-256 of the retrieved article text: c838b8a1bb01362225f94530eb0f093d37b8e14e5dea680ad5fd5ab6dc671065. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://bmjsanjana.blogspot.com/2019/03/hepatitis-c-pptnotes.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

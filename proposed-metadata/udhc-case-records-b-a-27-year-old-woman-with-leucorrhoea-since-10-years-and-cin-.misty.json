@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "UDHC case records (B): A 27 year old woman with leucorrhoea since 10 years and CIN 2 on cervical biopsy",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://globaludhc07.blogspot.com/2016/01/a-27-years-old-woman-with-abdominal.html. SHA-256 of the retrieved article text: 4de85ab54f6f8b91393907c1f42bba6251e436d2c5f1f512011dc728717e1dca. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://globaludhc07.blogspot.com/2016/01/a-27-years-old-woman-with-abdominal.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

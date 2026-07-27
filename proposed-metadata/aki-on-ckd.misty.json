@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "Aki on ckd",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://kallemshivani.blogspot.com/2023/09/aki-on-ckd.html. SHA-256 of the retrieved article text: bd5b16348901e92a1d1a75c05e2025e500f4f38c7b91020c00b1eb54fddc5c6c. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://kallemshivani.blogspot.com/2023/09/aki-on-ckd.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

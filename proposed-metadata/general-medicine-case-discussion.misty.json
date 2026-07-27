@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "General medicine case discussion",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://bommakantivaishnavi.blogspot.com/2023/09/general-medicine-case-discussion.html. SHA-256 of the retrieved article text: b540469e4d57e081590c91b2b69e00731e3e90d71cf4bdb2be24ae6e7b7b4dea. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://bommakantivaishnavi.blogspot.com/2023/09/general-medicine-case-discussion.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

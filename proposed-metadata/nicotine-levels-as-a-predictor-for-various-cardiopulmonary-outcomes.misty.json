@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "Nicotine levels as a predictor for various cardiopulmonary outcomes",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://drsaicharankulkarni.blogspot.com/2024/06/nicotine-levels-as-predictor-for.html. SHA-256 of the retrieved article text: 94c257ffa5a9cbd26313a1a5ffde3ad13ee47a89d45f72a783e853318fb1eb57. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://drsaicharankulkarni.blogspot.com/2024/06/nicotine-levels-as-predictor-for.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

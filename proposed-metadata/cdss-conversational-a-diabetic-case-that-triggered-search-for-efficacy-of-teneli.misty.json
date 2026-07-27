@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "CDSS (conversational): A diabetic case that triggered search for efficacy of teneligliptin",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://bmjcaselogvivek.blogspot.com/2019/08/a-diabetic-case-that-triggered-search.html. SHA-256 of the retrieved article text: bf5f9086ee5cb2a930f09869fc83501a18c6acbd1e6f917325c4175f45051cfb. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://bmjcaselogvivek.blogspot.com/2019/08/a-diabetic-case-that-triggered-search.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

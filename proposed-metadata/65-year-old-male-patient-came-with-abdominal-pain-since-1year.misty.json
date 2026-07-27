@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "65 year old male patient came with abdominal pain since 1year",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://kavyasamudrala.blogspot.com/2023/07/blog-post.html. SHA-256 of the retrieved article text: 5fdbfce61eb1f8e92b821bea3767eab522ccd4ac6f709538bb0a15971779ef24. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://kavyasamudrala.blogspot.com/2023/07/blog-post.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

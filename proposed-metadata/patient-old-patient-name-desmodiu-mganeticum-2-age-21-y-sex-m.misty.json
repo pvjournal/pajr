@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "PATIENT: Old  Patient  Name  -  Desmodiu  Mganeticum - 2,    Age - 21 y  Sex -  M",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://736146.blogspot.com/2017/10/old-patient-name-desmodiu-mganeticum-2.html. SHA-256 of the retrieved article text: afa8c5914d4bb35854717a1f171e71079772627fd28604f011a0f01c223923e4. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://736146.blogspot.com/2017/10/old-patient-name-desmodiu-mganeticum-2.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

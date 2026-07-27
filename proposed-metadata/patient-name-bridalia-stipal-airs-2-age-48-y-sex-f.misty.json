@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "PATIENT: Name -  Bridalia Stipal Airs  - 2      Age -  48 y   Sex -  F",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://736146.blogspot.com/2017/04/name-bridalia-stipal-airs-2-age-48-y.html. SHA-256 of the retrieved article text: 753bff6d4bef25371efe885021b426f0d51086b578274c672585f80923a34551. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://736146.blogspot.com/2017/04/name-bridalia-stipal-airs-2-age-48-y.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

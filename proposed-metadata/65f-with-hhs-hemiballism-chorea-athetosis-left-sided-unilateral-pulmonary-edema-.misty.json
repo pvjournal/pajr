@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "65F with HHS ,HEMIBALLISM,CHOREA-ATHETOSIS ,LEFT SIDED UNILATERAL PULMONARY EDEMA , CHRONIC UTI ,HYPOTHYROIDISM , DIABETIC NEPHROPATHY with TYPE 2 DM AND HTN",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://drbnr.blogspot.com/2024/05/65f-with-hhs-hemiballismchorea.html. SHA-256 of the retrieved article text: 38b66ff481f375be9d9b8311081a800285dde26fb4216d5e401eb1b9300b0d59. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://drbnr.blogspot.com/2024/05/65f-with-hhs-hemiballismchorea.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

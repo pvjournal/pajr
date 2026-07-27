@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "General medicine monthly assignment",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://daddalavineeshachowdary.blogspot.com/2021/05/general-medicine-monthly-assignment.html. SHA-256 of the retrieved article text: 97b64f2abd9b92c3dfb9421832baf96e5f296f7d9ebd20ba753fee270231a168. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://daddalavineeshachowdary.blogspot.com/2021/05/general-medicine-monthly-assignment.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

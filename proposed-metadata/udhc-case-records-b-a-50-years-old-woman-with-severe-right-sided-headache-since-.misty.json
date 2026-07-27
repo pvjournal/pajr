@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "UDHC case records (B): A 50 years old woman with severe right sided headache since 5 days",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://globaludhc07.blogspot.com/2016/01/a-50-years-old-woman-with-migraine.html. SHA-256 of the retrieved article text: 011c04154016296087162bc666640c042ec1d6fbfa3c3ee5d174d8b4477c2fcd. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://globaludhc07.blogspot.com/2016/01/a-50-years-old-woman-with-migraine.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

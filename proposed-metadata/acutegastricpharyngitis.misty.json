@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "Acutegastricpharyngitis",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://adityarollno75.blogspot.com/2022/03/acutegastricpharyngitis.html. SHA-256 of the retrieved article text: 52fbd8cb9bc38f4b4cc3965abc862468777d5af5a4705f3aee5874c5f9a8329b. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://adityarollno75.blogspot.com/2022/03/acutegastricpharyngitis.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "Xxx",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://advitha25.blogspot.com/2020/05/kims-hospitals-narketpally-hello-all-im_23.html. SHA-256 of the retrieved article text: 0e164e1c2cb1e0a799cc8d6ab6181ab8e8aebd548d475c6f3cd1ff8623c5220d. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://advitha25.blogspot.com/2020/05/kims-hospitals-narketpally-hello-all-im_23.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "51 year old male with gaze palsy",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://chandanavishwanatham19.blogspot.com/2024/02/51-year-old-male-with-gaze-palsy.html. SHA-256 of the retrieved article text: 791908cbc1e4399c4c4620366f4080e7a3ce83a38c75f2078bd9558f4dcc1c92. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://chandanavishwanatham19.blogspot.com/2024/02/51-year-old-male-with-gaze-palsy.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

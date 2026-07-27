@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "45 Y/O MALE WITH COVID-19 AND COMORBIDITIES (ALTERED SENSORIUM, AZOTEMIA, HYPOKALEMIA.)",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://anuragreddy72.blogspot.com/2021/05/case-discussion-on-hypokalemic-periodic.html. SHA-256 of the retrieved article text: 058f529a9e4e336c9d11a8e3261f322e24eba0010aee158f366f92acb04403cf. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://anuragreddy72.blogspot.com/2021/05/case-discussion-on-hypokalemic-periodic.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

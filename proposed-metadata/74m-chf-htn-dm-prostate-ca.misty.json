@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "74M CHF HTN DM PROSTATE CA",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://himajav.blogspot.com/2024/06/74m-chf-htn-dm-prostate-ca.html. SHA-256 of the retrieved article text: 45f68a0f03ca6ea127decc51e5ce60ac2ca3f9600d4ffac8fef2d0d46b984c81. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://himajav.blogspot.com/2024/06/74m-chf-htn-dm-prostate-ca.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

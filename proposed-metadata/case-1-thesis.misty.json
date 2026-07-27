@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "CASE 1 THESIS",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://drshivakumar98.blogspot.com/2024/01/case-1-thesis.html. SHA-256 of the retrieved article text: 12c466beb0dd28051d0ae858050e5b57b58babc19bc553bad1c8d76306f80bfa. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://drshivakumar98.blogspot.com/2024/01/case-1-thesis.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "Collective Peer review of a Case Report- Peripheral Pulmonary Embolism",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://bmjcaselogvivek.blogspot.com/2018/10/collective-peer-review-of-case-report.html. SHA-256 of the retrieved article text: 3c37a1e7cb9498505e85bd6c53d8acfdd6270b1f08d4836c199e4ab020b9731b. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://bmjcaselogvivek.blogspot.com/2018/10/collective-peer-review-of-case-report.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

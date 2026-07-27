@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "E-log : OHA induced Hypoglycemia",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://elogformedicalcase.blogspot.com/2021/10/a-70yrs-old-female-came-to-casualty.html. SHA-256 of the retrieved article text: b6fa45d432b3d512276aec258a62e5c464bf9b5a7e8981a353b4023dbf1d156c. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://elogformedicalcase.blogspot.com/2021/10/a-70yrs-old-female-came-to-casualty.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

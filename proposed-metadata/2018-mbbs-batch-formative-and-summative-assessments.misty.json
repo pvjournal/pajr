@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "2018 MBBS BATCH FORMATIVE AND SUMMATIVE ASSESSMENTS",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://generalmedicinedepartment.blogspot.com/2021/10/2018-mbbs-batch-formative-and-summative.html. SHA-256 of the retrieved article text: f04b98856ff2e00809032e0dd5329355b9fd50b07e9842282d1cb083eb8089c8. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://generalmedicinedepartment.blogspot.com/2021/10/2018-mbbs-batch-formative-and-summative.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

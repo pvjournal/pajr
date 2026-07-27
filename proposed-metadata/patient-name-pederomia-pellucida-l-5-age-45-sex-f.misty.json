@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "PATIENT: Name - Pederomia Pellucida (L) -  5 , Age - 45, Sex - F,",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://736146.blogspot.com/2020/07/name-pederomia-pellucida-l-5-age-45-sex.html. SHA-256 of the retrieved article text: 96eaa232a40d290b5ff80f84443be9225028adf2f17b059b78b02ad4ab8de456. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://736146.blogspot.com/2020/07/name-pederomia-pellucida-l-5-age-45-sex.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

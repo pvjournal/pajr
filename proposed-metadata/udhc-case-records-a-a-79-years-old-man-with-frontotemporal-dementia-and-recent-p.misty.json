@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "UDHC case records (A): A 79 years old man with frontotemporal dementia and recent paraparesis",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://globaludhc09.blogspot.com/2016/01/a-79-years-old-man-with-frontotemporal.html. SHA-256 of the retrieved article text: e27fd362709d173a2cd3394622534b3bbb4fcba6f0227791f368e7e62670c520. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://globaludhc09.blogspot.com/2016/01/a-79-years-old-man-with-frontotemporal.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

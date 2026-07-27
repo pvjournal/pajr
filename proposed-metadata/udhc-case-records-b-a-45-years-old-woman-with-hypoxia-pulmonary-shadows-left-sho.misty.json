@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "UDHC case records (B): a 45 years old woman with hypoxia, pulmonary shadows, left shoulder discharging sinus and hand joint deformities",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://globaludhc07.blogspot.com/2016/01/a-45-years-old-woman-with.html. SHA-256 of the retrieved article text: aabbeb86a4e589dae174f6b3f29b26214dc77eb94cb287283d6b938dbe52d2d9. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://globaludhc07.blogspot.com/2016/01/a-45-years-old-woman-with.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "PATIENT: Name - Pogostemon Pnbescence - 3  Age -28 y Sex - F",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://736146.blogspot.com/2018/07/name-pogostemon-pnbescence-3-age-28-y_22.html. SHA-256 of the retrieved article text: aee2ca51258dde234e5731e15eda0999370dd61351380d2c1d36dc46eb29aa55. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://736146.blogspot.com/2018/07/name-pogostemon-pnbescence-3-age-28-y_22.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

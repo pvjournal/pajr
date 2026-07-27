@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "41 YEARS OLD MALE WITH PANCYTOPENIA",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://kalpanamiryala83.blogspot.com/2023/03/41-years-old-male-with-pancytopenia.html. SHA-256 of the retrieved article text: 110cadc54042abc39dd13930e0ba9fced2bc1bbc3f681e5ad11b738f1451b925. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://kalpanamiryala83.blogspot.com/2023/03/41-years-old-male-with-pancytopenia.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

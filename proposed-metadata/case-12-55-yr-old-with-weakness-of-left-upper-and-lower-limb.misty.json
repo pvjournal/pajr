@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "case 12 55 yr old with weakness of left upper and lower limb.",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://drkulkarnithesis.blogspot.com/2021/10/case-12-55-yr-old-with-weakness-of-left.html. SHA-256 of the retrieved article text: f4fb8096c0569a1b46239250293c98c25ccc609d97dba87e43c4611a044936eb. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://drkulkarnithesis.blogspot.com/2021/10/case-12-55-yr-old-with-weakness-of-left.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

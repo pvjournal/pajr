@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "A case of 32 yr male with Rt sided pleural effusion",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://anuragvaddadi.blogspot.com/2023/04/a-case-of-32-yr-male-with-rt-sided.html. SHA-256 of the retrieved article text: 1acd08ea3f32b62ce9a3ab1b2c023e9481493c528511a39e8cd4076469d9a697. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://anuragvaddadi.blogspot.com/2023/04/a-case-of-32-yr-male-with-rt-sided.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

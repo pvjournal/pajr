@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "Animation Collection: Original Production Animation Cel of the Headless Horseman from \"The Legend of Sleepy Hollow\" Section of \"The Adventures of Ichabod and Mr. Toad,\" 1949",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://greganimationart.blogspot.com/2020/07/original-production-animation-cel-of.html. SHA-256 of the retrieved article text: ee8ccd7c80164f28cbe50da407388bc5bab1807d1a30cdd2a1118155a40920cc. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://greganimationart.blogspot.com/2020/07/original-production-animation-cel-of.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

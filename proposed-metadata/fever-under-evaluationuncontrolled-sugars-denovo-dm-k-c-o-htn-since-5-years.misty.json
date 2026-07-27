@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "? FEVER UNDER EVALUATIONUNCONTROLLED SUGARS (DENOVO DM)K/C/O HTN SINCE 5 YEARS",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://mahithguduri63.blogspot.com/2021/08/fever-under-evaluationuncontrolled.html. SHA-256 of the retrieved article text: 8ef1ecc5f8783782c88af3d2b8bda742475d0654656d3de2e27671b4529e4e43. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://mahithguduri63.blogspot.com/2021/08/fever-under-evaluationuncontrolled.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

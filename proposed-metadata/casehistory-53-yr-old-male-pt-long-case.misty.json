@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "Casehistory  53 yr old male pt (long case)",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://afifablog1.blogspot.com/2023/01/casehistory-53-yr-old-male-pt.html. SHA-256 of the retrieved article text: 61e67811b0f9544888c430e5d86ca0b41b1db41be0d75a214d897ae902ec375c. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://afifablog1.blogspot.com/2023/01/casehistory-53-yr-old-male-pt.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

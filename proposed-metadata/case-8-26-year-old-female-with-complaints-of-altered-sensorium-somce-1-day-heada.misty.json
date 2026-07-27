@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "case 8 26 year old female with complaints of altered sensorium somce 1 day,headache since 8 days,fever and vomitings since 4 days",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://drkulkarnithesis.blogspot.com/2021/10/case-8-26-year-old-female-with.html. SHA-256 of the retrieved article text: c48adf73dee2287d1d800213460385cd06889e5d0b3bff037f11a9de2459e5bf. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://drkulkarnithesis.blogspot.com/2021/10/case-8-26-year-old-female-with.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

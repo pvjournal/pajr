@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "Animation Collection: Original Key Setup of Duchess, O'Malley, Marie, Toulouse, Berlioz, Abigail, Amelia, and Uncle Waldo from \"The Aristocats,\" 1970",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://greganimationart.blogspot.com/2022/11/original-key-setup-of-duchess-omalley.html. SHA-256 of the retrieved article text: 790f1701b688cae84a0af3847298717d32323d98361c91d893112a47c1069d08. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://greganimationart.blogspot.com/2022/11/original-key-setup-of-duchess-omalley.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

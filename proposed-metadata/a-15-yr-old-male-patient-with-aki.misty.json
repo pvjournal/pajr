@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "A 15 yr old male patient with AKI",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://laxmisri08.blogspot.com/2021/11/a-15-yr-old-male-patient-with-aki.html. SHA-256 of the retrieved article text: d6da44e61ece64c45c05a85924e309fc4bf884683217c7c50d054b715f293e18. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://laxmisri08.blogspot.com/2021/11/a-15-yr-old-male-patient-with-aki.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

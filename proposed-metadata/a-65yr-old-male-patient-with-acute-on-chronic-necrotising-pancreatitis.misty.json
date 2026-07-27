@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "A 65yr old male patient with acute on chronic necrotising pancreatitis",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://nampellialekhya2021.blogspot.com/2021/09/general-medicine-case-3.html. SHA-256 of the retrieved article text: c06b8c3a8ef5862a16a2ab8b06262c1d18245261d396f9f1602438d58fef118d. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://nampellialekhya2021.blogspot.com/2021/09/general-medicine-case-3.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

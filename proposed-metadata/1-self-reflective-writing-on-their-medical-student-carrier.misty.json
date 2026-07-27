@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "1.Self reflective writing on their medical student carrier",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://kasarabadhasampathrollno71.blogspot.com/2023/09/1self-reflective-writing-on-their.html. SHA-256 of the retrieved article text: ec6513ef3105742f2f0f29a2c66de594d71fbd50bf8b2edf1063c0187e33cd8e. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://kasarabadhasampathrollno71.blogspot.com/2023/09/1self-reflective-writing-on-their.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

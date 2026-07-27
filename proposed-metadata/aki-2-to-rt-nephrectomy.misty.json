@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "AKI 2\u00b0 to Rt nephrectomy",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://05akulavignesh.blogspot.com/2022/06/aki-2-to-rt-nephrectomy.html. SHA-256 of the retrieved article text: 9265f28ee12960213977d9810b2c33e4f6f70a414afec52f59f9ffcfd5fd7b8d. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://05akulavignesh.blogspot.com/2022/06/aki-2-to-rt-nephrectomy.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

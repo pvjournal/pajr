@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "A 60 yr old female patient with shortness of breath and anasarca.",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://krupalatha54.blogspot.com/2021/06/this-is-online-e-log-book-to-discuss.html. SHA-256 of the retrieved article text: 5b7fdbeaac739c6795e26d74ed18a6fe0071a5343daf5af9431b5127125ad113. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://krupalatha54.blogspot.com/2021/06/this-is-online-e-log-book-to-discuss.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

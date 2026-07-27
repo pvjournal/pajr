@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "A 70 year old male patient elog",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://ananyajohn94.blogspot.com/2021/06/a-70-year-old-male-patient-elog.html. SHA-256 of the retrieved article text: e08464d5e304ee4ea361874fed8e873b5a1aff22407de652fb27d48c2f6ca4d0. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://ananyajohn94.blogspot.com/2021/06/a-70-year-old-male-patient-elog.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "Animation Collection: Original Animation Production Cel of Dopey Set On A Wood Veneer Courvoisier Background from \"Snow White and the Seven Dwarfs,\" 1937",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://greganimationart.blogspot.com/2015/12/original-animation-production-cel-of_94.html. SHA-256 of the retrieved article text: af8233325bfdf832393d68620996d392ba8afd26ade4a487bc90ac7a63de7533. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://greganimationart.blogspot.com/2015/12/original-animation-production-cel-of_94.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

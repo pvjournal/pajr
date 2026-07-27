@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "HarikaKathumandirollno54: 1801006052 Long case",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://harikakathumandirollno54.blogspot.com/2023/03/1801006052-long-case.html. SHA-256 of the retrieved article text: a6a41e1898aead178af249537f672ba1c526b8afbb04e1cc850054a4fe18c024. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://harikakathumandirollno54.blogspot.com/2023/03/1801006052-long-case.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

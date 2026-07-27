@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "Animation Collection: Original Production Animation Cel of Pablo The Penguin On A Courvoisier Background from \"The Cold-Blooded Penguin\" Segment of \"The Three Caballeros,\" 1944",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://greganimationart.blogspot.com/2015/12/original-production-animation-cel-of_24.html. SHA-256 of the retrieved article text: cf10f375a3954172e5c11d44452348b7ec55cce42022b24e51de625bb478b1dd. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://greganimationart.blogspot.com/2015/12/original-production-animation-cel-of_24.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

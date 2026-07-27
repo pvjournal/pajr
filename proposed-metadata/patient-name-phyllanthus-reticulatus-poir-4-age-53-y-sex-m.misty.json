@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "PATIENT: Name - Phyllanthus Reticulatus poir - 4  Age - 53 y Sex - M",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://736146.blogspot.com/2018/11/name-phyllanthus-reticulatus-poir-4-age.html. SHA-256 of the retrieved article text: 128445138b96019bd6ddaf95a6260a90d06c3086fb6f2b6c06398ad1ab6ce5e1. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://736146.blogspot.com/2018/11/name-phyllanthus-reticulatus-poir-4-age.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

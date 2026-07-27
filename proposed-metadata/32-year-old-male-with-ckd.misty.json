@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "32 year old male with CKD",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://laharika29.blogspot.com/2021/09/32-year-old-male-with-ckd.html. SHA-256 of the retrieved article text: 7eadc31013f669b362481fc33c503a2111a27071a5d40fa7789fc96e76195ce1. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://laharika29.blogspot.com/2021/09/32-year-old-male-with-ckd.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

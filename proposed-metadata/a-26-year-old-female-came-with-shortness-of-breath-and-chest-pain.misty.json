@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "A 26 YEAR OLD FEMALE CAME WITH SHORTNESS OF BREATH AND CHEST PAIN.",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://78srimukhi.blogspot.com/2022/11/a-26-year-old-female-came-with.html. SHA-256 of the retrieved article text: d3962d21b7cc0b322b2b6ec6bc0699a153eaab9bc8d4a4b6b94310a1e5b25e3a. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://78srimukhi.blogspot.com/2022/11/a-26-year-old-female-came-with.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

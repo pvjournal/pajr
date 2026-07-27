@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "A 60 year old male patient with indigestion",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://gayathridevarakonda0111.blogspot.com/2023/07/is-online-e-log-book-to-discuss-our.html. SHA-256 of the retrieved article text: c75c625ee560f84a4782d958ec99be0a21106464d6313815117e28a9dc9d1388. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://gayathridevarakonda0111.blogspot.com/2023/07/is-online-e-log-book-to-discuss-our.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

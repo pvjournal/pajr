@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "PATIENT: Eclipta Alba ( L ) Hassk - 2    Age  - 61 y  Sex  - M",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://736146.blogspot.com/2017/07/eclipta-alba-l-hassk-2-age-61-y-sex-m.html. SHA-256 of the retrieved article text: 92842701025d012a4017f0e2d366f7f42b11d064ec5a145f6189755eb4fd8e91. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://736146.blogspot.com/2017/07/eclipta-alba-l-hassk-2-age-61-y-sex-m.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "_note": "PROPOSAL ONLY. Prepared for the authors of this case report. Nothing here has been minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "Human AI agentic PaJR case report: MTP Decompression Sign, Post-Traumatic Unmasking of Gout with Sequential First-to-Second Metatarsophalangeal Joint Involvement",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "publication_date": "2026-05-03",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://userdrivenhealthcare.blogspot.com/2026/05/pajr-case-report-mtp-decompression-sign.html. SHA-256 of the retrieved text: 029afb745ea1a941c6360ec8990c0ff2b432cf019967c19dd503ab65da517bb8. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://userdrivenhealthcare.blogspot.com/2026/05/pajr-case-report-mtp-decompression-sign.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

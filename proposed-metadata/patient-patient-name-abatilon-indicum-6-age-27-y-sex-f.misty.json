@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "PATIENT: Patient Name - Abatilon Indicum - 6 ,  Age - 27 y  , Sex - F",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://736146.blogspot.com/2021/02/patient-name-abatilon-indicum-6-age-27.html. SHA-256 of the retrieved article text: 21143eca09bf1ea877f49c5819266390a02baf2f0b8c8aa183a0ca74ea06d7c0. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://736146.blogspot.com/2021/02/patient-name-abatilon-indicum-6-age-27.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

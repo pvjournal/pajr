@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "PATIENT: Patient Name - Bauhinia Variegata L - 6,    Sex - F   , Age - 53 y",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://736146.blogspot.com/2021/09/patient-name-bauhinia-variegata-l-6-sex_9.html. SHA-256 of the retrieved article text: c91eee064d47802bdd1561ce1b303c7191f576a39b097e174674e7f8b2b35e4b. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://736146.blogspot.com/2021/09/patient-name-bauhinia-variegata-l-6-sex_9.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

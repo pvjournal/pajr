@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "The Conscious Notebook Sequel: UDLCO: Optimizing academia industry (education and practice) \"Letters of recommendation, LORs\"",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://consciousnotebooksequel.blogspot.com/2024/07/udlco-optimizing-academia-industry.html. SHA-256 of the retrieved article text: c49ec917b61f272ceb99774484c65ab3f5762fd675984272d9cf20ec88fab84e. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://consciousnotebooksequel.blogspot.com/2024/07/udlco-optimizing-academia-industry.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

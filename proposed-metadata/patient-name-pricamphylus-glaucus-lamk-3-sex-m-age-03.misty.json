@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "PATIENT: Name -  Pricamphylus Glaucus Lamk  -  3      Sex -  M     Age - 03",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://736146.blogspot.com/2017/12/name-pricamphylus-glaucus-lamk-3-sex-m.html. SHA-256 of the retrieved article text: 8d1ad7cfab38e80a953c27d358e84a9722f4b98c4ae2aa0f958f564ffa91df60. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://736146.blogspot.com/2017/12/name-pricamphylus-glaucus-lamk-3-sex-m.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

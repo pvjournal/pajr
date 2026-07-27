@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "35 male with sudden onset seizures",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://alekyatummala.blogspot.com/2020/08/35-male-with-sudden-onset-seizures.html. SHA-256 of the retrieved article text: 18a6da5e4b2b763b082e9b1339c5d60ade292661c9cb1b9680231fbe6fe116ca. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://alekyatummala.blogspot.com/2020/08/35-male-with-sudden-onset-seizures.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

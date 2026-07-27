@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "61 y/o man with SOB and involuntary movements of both upper limbs",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://manvisharma88.blogspot.com/2022/09/61-yo-man-with-sob-and-involuntary.html. SHA-256 of the retrieved article text: f8fae8ceeaa72ff1ab6971c23b3c16094794b11683460d391e82d45c5dae0030. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://manvisharma88.blogspot.com/2022/09/61-yo-man-with-sob-and-involuntary.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

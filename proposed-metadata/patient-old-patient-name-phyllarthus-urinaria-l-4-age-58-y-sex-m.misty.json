@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "PATIENT: Old  patient Name - Phyllarthus Urinaria  L  -  4  Age -  58 y , sex - M",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://736146.blogspot.com/2018/12/old-patient-name-phyllarthus-urinaria-l.html. SHA-256 of the retrieved article text: 2323cedc7a49943773cf561d8ab1bce3f125e6c9876e640a84beb98fafde62ff. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://736146.blogspot.com/2018/12/old-patient-name-phyllarthus-urinaria-l.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

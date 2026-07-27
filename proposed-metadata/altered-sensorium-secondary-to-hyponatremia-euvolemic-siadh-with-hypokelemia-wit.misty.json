@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "ALTERED SENSORIUM SECONDARY TO HYPONATREMIA EUVOLEMIC ? SIADH ? WITH HYPOKELEMIA WITH SMALL HEMORRHAGIC CONTUSION FRONTAL LOBE WITH AKI ( RESLOVING ) WITH HYPERTENSION SINCE 4 YEARS,WITH TYPE 2 DIABET",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://24prannaireddy.blogspot.com/2024/05/altered-sensorium-secondary-to_29.html. SHA-256 of the retrieved article text: bb4ba8284599d241625c6cb875d516c4ca770909f61147590009a3536441cdd8. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://24prannaireddy.blogspot.com/2024/05/altered-sensorium-secondary-to_29.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

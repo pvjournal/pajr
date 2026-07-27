@@ -1,0 +1,24 @@
+{
+  "_note": "PROPOSAL ONLY. Prepared for the authors of this case report. Nothing here has been minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "UDLCO CRH: What is \"Taking Healthcare to the last mile?\" The \"last mile\u201d is not a single place but a layered construct\u2014geographic, architectural, clinical, and epidemiological?",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "publication_date": "2026-05-03",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://userdrivenhealthcare.blogspot.com/2026/05/udlco-crh-what-is-taking-healthcare-to.html. SHA-256 of the retrieved text: 806c6467de3f1de453ea19b82242c5cfb2248745ee59b82099f01c2e6f33d279. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://userdrivenhealthcare.blogspot.com/2026/05/udlco-crh-what-is-taking-healthcare-to.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "PATIENT: Bauhinia PURPUREA - 4 ,  Age - 33 Y  , Sex - F",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://736146.blogspot.com/2019/11/bauhinia-purpurea-4-age-33-y-sex-f.html. SHA-256 of the retrieved article text: f066f4da04b064f93bb99b1c15b82b0fd02cfd1aa4fab1ca6febc28d5924b5d6. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://736146.blogspot.com/2019/11/bauhinia-purpurea-4-age-33-y-sex-f.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

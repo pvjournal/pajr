@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "My experience with general cellular and neural cellular pathology in a CBBLE",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://66kvnsudheer.blogspot.com/2023/06/my-experience-with-general-cellular-and.html. SHA-256 of the retrieved article text: 36045188be62c46963c2ef6acd2c6c2a4286b62b1866ec2f7520b63f39f80015. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://66kvnsudheer.blogspot.com/2023/06/my-experience-with-general-cellular-and.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

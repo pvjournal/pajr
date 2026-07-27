@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "G.Preethi , 1601006057, roll no :50",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://goudigamapreethi3036.blogspot.com/2021/06/gpreethi-1601006057-roll-no-50.html. SHA-256 of the retrieved article text: b8a92db339c8afa1498e90164daca9c59818afbf5741d63405def482d86b6c71. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://goudigamapreethi3036.blogspot.com/2021/06/gpreethi-1601006057-roll-no-50.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

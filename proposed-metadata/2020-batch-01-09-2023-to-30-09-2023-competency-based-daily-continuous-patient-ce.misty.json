@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "2020 Batch (01.09.2023 to 30.09.2023) Competency based daily continuous patient centered formative assessment (paper based hybrid)",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://generalmedicinedepartment.blogspot.com/2023/09/2021-batch-01092023-to-30092023.html. SHA-256 of the retrieved article text: ea3140524c6fd973fe3a82092c236fef3dca43fb274c623dd85a59512f0481ae. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://generalmedicinedepartment.blogspot.com/2023/09/2021-batch-01092023-to-30092023.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "Is there more to the story : A case of 28 y/f with burning micturition",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://decodemed.blogspot.com/2022/06/this-is-online-e-logbook-to-discuss-our.html. SHA-256 of the retrieved article text: 397ed79887f3ccd0f49e0522ee0bbe370b47c316ae8c6b6dd0f17c243b097a90. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://decodemed.blogspot.com/2022/06/this-is-online-e-logbook-to-discuss-our.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

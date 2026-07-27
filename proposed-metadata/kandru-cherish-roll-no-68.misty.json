@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "KANDRU CHERISH ROLL NO 68",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://kandrucherishrollno68.blogspot.com/2023/09/traces-of-my-work-during-my-internship.html. SHA-256 of the retrieved article text: 234be06f78d8155496e87099ed017cd8c2c4287367132f03f00e894f73afbf15. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://kandrucherishrollno68.blogspot.com/2023/09/traces-of-my-work-during-my-internship.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "PATIENT: Patient Name - Portudaca Oleracla  L - 5 , Age -37 y , Sex - F",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://736146.blogspot.com/2020/12/patient-name-portudaca-oleracla-l-5-age.html. SHA-256 of the retrieved article text: 834049c89f586b476265bb49d8f371f8361e9fdffda7e3b719c8dcea94fc3c6b. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://736146.blogspot.com/2020/12/patient-name-portudaca-oleracla-l-5-age.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

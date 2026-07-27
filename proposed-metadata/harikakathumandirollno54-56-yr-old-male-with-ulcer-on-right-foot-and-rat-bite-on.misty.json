@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "HarikaKathumandirollno54: 56 yr old Male with Ulcer on right foot and rat bite on the right index finger",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://harikakathumandirollno54.blogspot.com/2022/07/56-yr-old-male-with-ulcer-on-right-foot.html. SHA-256 of the retrieved article text: f0d9a06149e1f3ed51e939f09bc36540f4f924da1b87c763e7546fd97dfb99f5. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://harikakathumandirollno54.blogspot.com/2022/07/56-yr-old-male-with-ulcer-on-right-foot.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

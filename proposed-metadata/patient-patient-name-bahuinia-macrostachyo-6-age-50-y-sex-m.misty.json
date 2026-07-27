@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "PATIENT: Patient Name - Bahuinia Macrostachyo - 6 , Age - 50 y , Sex - M",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://736146.blogspot.com/2021/08/patient-name-bahuinia-macrostachyo-6.html. SHA-256 of the retrieved article text: 7e176b9cc0fa3a46341d28523c6ca1adeb2794c41eb5c7637e2e9e5388205118. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://736146.blogspot.com/2021/08/patient-name-bahuinia-macrostachyo-6.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

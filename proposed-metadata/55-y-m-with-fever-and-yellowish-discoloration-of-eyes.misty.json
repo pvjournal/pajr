@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "55 Y/M With Fever and yellowish discoloration of eyes",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://43preethireddygangidi.blogspot.com/2023/11/55-ym-with-fever-and-yellowish.html. SHA-256 of the retrieved article text: 41703870c05afc32eaa935ebf8eb9e9d40e79ad9116801aa65a72c129f72fcd7. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://43preethireddygangidi.blogspot.com/2023/11/55-ym-with-fever-and-yellowish.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

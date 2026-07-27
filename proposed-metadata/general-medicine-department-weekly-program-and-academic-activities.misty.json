@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "General Medicine Department weekly program and academic activities",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://generalmedicinedepartment.blogspot.com/2023/10/general-medicine-department-weekly.html. SHA-256 of the retrieved article text: a171eea678acb987e5db5eecfad27dd4d917d0f3162a47bbfd11ebf621858197. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://generalmedicinedepartment.blogspot.com/2023/10/general-medicine-department-weekly.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

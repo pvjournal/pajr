@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "40YR OLD MALE WITH SOB AND PEDAL EDEMA",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://decodemed.blogspot.com/2021/09/40yr-old-male-with-sob-and-pedal-edema.html. SHA-256 of the retrieved article text: a2ae793d0539c82dfded5caeb37a9b9ce045ae78969f730b6d4766e195483153. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://decodemed.blogspot.com/2021/09/40yr-old-male-with-sob-and-pedal-edema.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

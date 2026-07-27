@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "My experience in learning medicine in CBBLE",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://madamsneha74.blogspot.com/2023/06/my-experience-in-learning-medicine-in.html. SHA-256 of the retrieved article text: 5562a678ea1d64136de48855b0359a5501d2c669066c1113fa3c9561c85a7eaa. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://madamsneha74.blogspot.com/2023/06/my-experience-in-learning-medicine-in.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

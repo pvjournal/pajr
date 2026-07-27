@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "56M Recurrent Symptomatic Tachyarrhythmia in a 56-Year-Old Yoga Instructor with Previously Undiagnosed Non-Obstructive Hypertrophic Cardiomyopathy",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://drsaicharankulkarni.blogspot.com/2026/06/56m-recurrent-symptomatic.html. SHA-256 of the retrieved article text: 963063d054ea9231a4c541147258f87b197f127bc7e328381929541b083a236e. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://drsaicharankulkarni.blogspot.com/2026/06/56m-recurrent-symptomatic.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

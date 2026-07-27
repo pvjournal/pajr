@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "45yr old male came to OPD with complaints of constipation ,Pain in Abdomen and Vomiting",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://dnagasairohith38.blogspot.com/2023/04/this-is-online-e-log-book-to-discuss.html. SHA-256 of the retrieved article text: 2f1fed6c8fa4af4f5e772c41af71847b0cd6678f8def76d94be888b3796fc99d. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://dnagasairohith38.blogspot.com/2023/04/this-is-online-e-log-book-to-discuss.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "General Medicine E-log by Shishira Reddy: 65 year old female came with chief complaints of fever with chills",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://02shishirareddy.blogspot.com/2022/09/65-year-old-came-with-chief-complaints.html. SHA-256 of the retrieved article text: 76c1be07bccad4efb0b40a74c530749cf583ec73c5376dbd5b4a83f3e342df13. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://02shishirareddy.blogspot.com/2022/09/65-year-old-came-with-chief-complaints.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

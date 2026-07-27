@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "A CASE OF A 70YR OLD FEMALE WITH ASCITIS",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://73varunsaim.blogspot.com/2023/02/a-case-of-70yr-old-female-with-ascitis.html. SHA-256 of the retrieved article text: 3f5699f317545ea89d81cc8df0e016fabd399b4a2a40f75d1bafc4b636fc0164. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://73varunsaim.blogspot.com/2023/02/a-case-of-70yr-old-female-with-ascitis.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

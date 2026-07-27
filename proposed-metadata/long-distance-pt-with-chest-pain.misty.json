@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "long distance pt with chest pain",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://drsaicharankulkarni.blogspot.com/2022/02/long-distance-pt-with-chest-pain.html. SHA-256 of the retrieved article text: a8a9ed7e365d05e8c0ccf6bbe5927077c08747291eb78b4968b06a1becf29b52. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://drsaicharankulkarni.blogspot.com/2022/02/long-distance-pt-with-chest-pain.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

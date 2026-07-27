@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "PATIENT: Name - Borringtonia Acutangula (L) - 4 ,  Age - 38 y , Sex - F.",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://736146.blogspot.com/2019/05/name-borringtonia-acutangula-l-4-age-38.html. SHA-256 of the retrieved article text: 3ab99948ec455df0610f9854358f9901f56b0cb15e9ad95c85851fa9afd4f8ae. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://736146.blogspot.com/2019/05/name-borringtonia-acutangula-l-4-age-38.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

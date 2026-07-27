@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "Animation Collection: Original Production Animation Key Setup Cels of Pinocchio, Geppetto, and Figaro On Their Key Matching Production Background from \"Pinocchio,\" 1940",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://greganimationart.blogspot.com/2021/10/original-production-animation-key-setup.html. SHA-256 of the retrieved article text: d3d3a084e22bc40042f630cdf64d1651bfd0c03c52b877ca5c3a97cfb73d08d5. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://greganimationart.blogspot.com/2021/10/original-production-animation-key-setup.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

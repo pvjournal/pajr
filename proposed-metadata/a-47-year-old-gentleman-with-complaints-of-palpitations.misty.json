@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "A 47 year old gentleman with complaints of palpitations",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://decodemed.blogspot.com/2021/04/this-is-this-is-online-e-log-book-to.html. SHA-256 of the retrieved article text: 6ce8e037b6300c7f8c9442b15b520d198ae0812fa1fa24c359cf5c2086cb24ae. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://decodemed.blogspot.com/2021/04/this-is-this-is-online-e-log-book-to.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

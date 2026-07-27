@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "Animation Collection:  Original Production Animation Cel of Batman, Superman, Wonder Woman, and Aquaman, and Title Cels Set On A Matching Production Background From \"Rub Three Times for Disaster\" From",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://greganimationart.blogspot.com/2018/06/original-production-animation-cel-of_11.html. SHA-256 of the retrieved article text: ccb5a5fc621e0b3bf4ef730fd3f738b8fa2cd166df7acb8a6c7995b80f3e3ea6. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://greganimationart.blogspot.com/2018/06/original-production-animation-cel-of_11.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

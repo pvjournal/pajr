@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "Animation Collection: Key Setup of Fork Mice with Original Production Cels of Jaq, Gus, and Lucifer on Production Background from \"Cinderella,\" 1950",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://greganimationart.blogspot.com/2015/07/key-setup-of-fork-mice-with-original.html. SHA-256 of the retrieved article text: 8571a6602af2fdb8d35dbc39e047c494bec220682c8a35dc8ba380a4be8b4148. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://greganimationart.blogspot.com/2015/07/key-setup-of-fork-mice-with-original.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

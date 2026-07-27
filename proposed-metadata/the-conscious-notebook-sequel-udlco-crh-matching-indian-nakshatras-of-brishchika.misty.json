@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "The Conscious Notebook Sequel: UDLCO CRH: Matching indian nakshatras of brishchika with the Greek stars of Scorpius",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://consciousnotebooksequel.blogspot.com/2025/07/udlco-crh-matching-indian-nakshatras-of.html. SHA-256 of the retrieved article text: f6a2962924d2e3a95e22d3b40c8716b483a964ed5f15625741da79eecaf6f55a. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://consciousnotebooksequel.blogspot.com/2025/07/udlco-crh-matching-indian-nakshatras-of.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

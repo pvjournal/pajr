@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "65 years old female with stomach pain and vomitings since 2 days SHORT CASE",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://generalmedicine22.blogspot.com/2023/01/65-years-old-female-with-stomach-pain.html. SHA-256 of the retrieved article text: fee5eb53b53e1de8625e26384b2c3f24e249669352d64e8058aac2c7e1f5489d. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://generalmedicine22.blogspot.com/2023/01/65-years-old-female-with-stomach-pain.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

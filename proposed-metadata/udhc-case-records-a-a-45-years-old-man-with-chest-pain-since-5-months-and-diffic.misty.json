@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "UDHC case records (A): A 45 years old man with chest pain since 5 months and difficulty in breathing since 1 month (ID: TAGETES462ERECTA)",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://globaludhc09.blogspot.com/2016/02/are-45-years-old-men-with-suspected.html. SHA-256 of the retrieved article text: 06ab27853c4b32e334a4f73e7ae2cfea069afe796289c9fdcdfd6ab9d434445e. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://globaludhc09.blogspot.com/2016/02/are-45-years-old-men-with-suspected.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

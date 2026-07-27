@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "drsaranya: A 32 year old man with multisystem pathologies",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://drsaranyaroshni.blogspot.com/2022/02/a-32-year-old-man-with-multisystem.html. SHA-256 of the retrieved article text: 65cb250e2cb691775097b95a69c452598c913f0128f341584613bdbeb59c93ab. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://drsaranyaroshni.blogspot.com/2022/02/a-32-year-old-man-with-multisystem.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

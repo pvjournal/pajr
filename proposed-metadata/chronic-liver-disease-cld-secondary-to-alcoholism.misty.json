@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "CHRONIC LIVER DISEASE (CLD) SECONDARY TO ALCOHOLISM",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://keerthireddy42.blogspot.com/2021/07/chronic-liver-disease-cld-secondary-to.html. SHA-256 of the retrieved article text: 580be5632e25d294423b5d0a1cd26aa1a4e4bc58539561bf3b539a5d88e10e21. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://keerthireddy42.blogspot.com/2021/07/chronic-liver-disease-cld-secondary-to.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

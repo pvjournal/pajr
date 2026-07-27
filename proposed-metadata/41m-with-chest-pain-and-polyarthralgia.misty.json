@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "41M with chest pain and polyarthralgia",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://mahathireddybandari.blogspot.com/2020/11/41m-with-chest-pain-and-joint-pains.html. SHA-256 of the retrieved article text: 16b7c92464d0bf0e7adb03e739d40a4b76773372d918a7c267b1ed836b57b082. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://mahathireddybandari.blogspot.com/2020/11/41m-with-chest-pain-and-joint-pains.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

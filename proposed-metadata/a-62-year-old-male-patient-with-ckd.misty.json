@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "A 62 year old male patient with CKD",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://81mididoddidevisreegupta.blogspot.com/2023/11/a-62-year-old-male-patient-with-ckd.html. SHA-256 of the retrieved article text: 8bf70e1757da1779a862fcb19bb2747a38c1ca7b3a32af2b3d29a73e601be8f7. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://81mididoddidevisreegupta.blogspot.com/2023/11/a-62-year-old-male-patient-with-ckd.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

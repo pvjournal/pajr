@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "A 70 yr OLD MALE WITH IRON DEFICIENCY ANEMIA SECONDARY TO PER RECTAL BLOOD LOSS DUE TO SOLITORY RECTAL ULCER",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://47chaitanya.blogspot.com/2024/07/a-70-yr-old-male-with-iron-deficiency.html. SHA-256 of the retrieved article text: f2414ade13d9bd725b0d57bb189bf2ff0c53c15137d757c681828f5f944b416d. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://47chaitanya.blogspot.com/2024/07/a-70-yr-old-male-with-iron-deficiency.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "A CASE WITH ALTERED SENSORIUM  PRESENTED IN SUMMER 2021",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://asjad24.blogspot.com/2021/08/a-case-with-altered-sensorium-presented.html. SHA-256 of the retrieved article text: e33532b57dd79bd86695459888dc6bd67bada1350def9044d90e64ce944dc82f. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://asjad24.blogspot.com/2021/08/a-case-with-altered-sensorium-presented.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

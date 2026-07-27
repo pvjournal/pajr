@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "Final internal assessment of batch 2016 MBBS based on overall FORMATIVE AND SUMMATIVE ASSESSMENTS",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://generalmedicinedepartment.blogspot.com/2021/03/final-internal-assessment-of-batch-2016.html. SHA-256 of the retrieved article text: 353187f13ee5dee43cc2544cd4086ea69345efc1b1ef526e20203f1c1dfa7696. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://generalmedicinedepartment.blogspot.com/2021/03/final-internal-assessment-of-batch-2016.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

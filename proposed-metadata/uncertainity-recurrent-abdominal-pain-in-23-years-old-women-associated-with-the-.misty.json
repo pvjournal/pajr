@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "Uncertainity: Recurrent abdominal pain in 23 years old women associated with the diagnosis of recurrent renal stones",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://bmjcaselogvivek.blogspot.com/2017/12/uncertainity-recurrent-abdominal-pain.html. SHA-256 of the retrieved article text: b82a1fbbf176cfd775632fb32ac24cf774f06b8b72c9111238cebd3eaece9537. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://bmjcaselogvivek.blogspot.com/2017/12/uncertainity-recurrent-abdominal-pain.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "PATIENT: Name - Bauhinia Macrostochya - 4,  Age - 15+ y  , Sex -  F .",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://736146.blogspot.com/2019/05/name-bauhinia-macrostochya-4-age-15-y.html. SHA-256 of the retrieved article text: 439160eed14aaa284be0dd2fd3efeb58ab48115e61abdf42b2b6cce4ba9cb82b. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://736146.blogspot.com/2019/05/name-bauhinia-macrostochya-4-age-15-y.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

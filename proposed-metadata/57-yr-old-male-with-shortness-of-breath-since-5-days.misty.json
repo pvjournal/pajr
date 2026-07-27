@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "57 yr old male with shortness of breath since 5 days",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://haarikamarupakula172.blogspot.com/2023/04/57-yr-old-male-with-shortness-if-breath.html. SHA-256 of the retrieved article text: 52e955c6ab2492ae6613e6d91417a3994f2d9c1ab750abe062209055c85bf7dc. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://haarikamarupakula172.blogspot.com/2023/04/57-yr-old-male-with-shortness-if-breath.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

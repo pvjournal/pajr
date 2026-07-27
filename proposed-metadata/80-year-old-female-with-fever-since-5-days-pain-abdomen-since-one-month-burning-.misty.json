@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "80 year old female with fever since 5 days, pain abdomen since one month, burning micturition since one month",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://bhargavimalothu84.blogspot.com/2023/09/this-is-online-e-log-book-to-discuss.html. SHA-256 of the retrieved article text: 179ffc6de8e8a2e958ee9e5e2d4e3f5712eb105049292e849ec78742f96f8285. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://bhargavimalothu84.blogspot.com/2023/09/this-is-online-e-log-book-to-discuss.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

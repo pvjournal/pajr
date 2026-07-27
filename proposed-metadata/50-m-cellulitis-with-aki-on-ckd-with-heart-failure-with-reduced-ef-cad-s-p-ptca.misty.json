@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "50 /m cellulitis with AKI  on ? CKD with heart failure with reduced EF ,CAD - S/P PTCA",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://ajayaddula.blogspot.com/2023/10/50-m-cellulitis-with-aki-on-ckd-with.html. SHA-256 of the retrieved article text: 2cf5eecae16ce755f83c9fb01914f249a7f36dae04af63b333227f81a56a0882. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://ajayaddula.blogspot.com/2023/10/50-m-cellulitis-with-aki-on-ckd-with.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "PATIENT: Patient Name - Bauhinia Purpurea L -6 Age - 45 y, Sex - F",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://736146.blogspot.com/2021/08/patient-name-bauhinia-purpurea-l-6-age_28.html. SHA-256 of the retrieved article text: 1ebe8239ef10658b14c8cb599df89a36fd840212b9a816dc29d99000771e848a. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://736146.blogspot.com/2021/08/patient-name-bauhinia-purpurea-l-6-age_28.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

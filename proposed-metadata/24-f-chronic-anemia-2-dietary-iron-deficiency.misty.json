@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "24/F chronic anemia 2\u00b0 dietary iron deficiency ?",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://anahitabehara.blogspot.com/2023/05/24f-chronic-anemia-2-dietary-iron.html. SHA-256 of the retrieved article text: d990bd84ffd08ed6e787db7f6fb3c383a595bc669cf69cb7f48b2643d35b2b15. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://anahitabehara.blogspot.com/2023/05/24f-chronic-anemia-2-dietary-iron.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

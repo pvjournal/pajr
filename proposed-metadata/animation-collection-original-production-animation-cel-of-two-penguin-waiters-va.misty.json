@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "Animation Collection: Original Production Animation Cel of Two Penguin Waiters, Vase of Flowers, Sugar Bowl, Plates, and Silverware from \"Mary Poppins,\" 1964",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://greganimationart.blogspot.com/2018/05/original-production-animation-cel-of_13.html. SHA-256 of the retrieved article text: b643380cdec67c542b04f8eebd2cc895ba78865ccc91644bda9a1f41b852bbf8. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://greganimationart.blogspot.com/2018/05/original-production-animation-cel-of_13.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

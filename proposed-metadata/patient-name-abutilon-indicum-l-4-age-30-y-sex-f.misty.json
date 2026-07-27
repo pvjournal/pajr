@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "PATIENT: Name -  Abutilon  Indicum(L)  - 4 ,  Age - 30 y Sex - F",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://736146.blogspot.com/2019/01/name-abutilon-indicuml-4-age-30-y-sex-f_17.html. SHA-256 of the retrieved article text: 7445b032b6e54ca125a1a1beda76cd1804637a566594f7c365adf75a8b4967b6. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://736146.blogspot.com/2019/01/name-abutilon-indicuml-4-age-30-y-sex-f_17.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

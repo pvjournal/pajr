@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "A 37 Yr old male C/0 pain and swelling in Right Thigh",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://dnagasairohith38.blogspot.com/2023/05/a-37-yr-old-male-c0-pain-and-swelling.html. SHA-256 of the retrieved article text: c7ab5966b8f702696a38af565b2a292850823a8adf777e5000e967c40084bd1d. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://dnagasairohith38.blogspot.com/2023/05/a-37-yr-old-male-c0-pain-and-swelling.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

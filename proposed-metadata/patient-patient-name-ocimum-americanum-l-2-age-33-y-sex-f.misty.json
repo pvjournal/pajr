@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "PATIENT: Patient  Name  --   Ocimum  Americanum  L - 2  Age  -  33 y   Sex  -  F",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://736146.blogspot.com/2017/09/patient-name-ocimum-americanum-l-2-age.html. SHA-256 of the retrieved article text: 8c0db582fde4ca8fa4c766d5edc629ea2e0d8781c333acb3d48a1a2ef7b5653d. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://736146.blogspot.com/2017/09/patient-name-ocimum-americanum-l-2-age.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "A 53 year old male with generalised body swelling,pain abdomen since 3days ,slurring of speech since yesterday",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://anila23reddy.blogspot.com/2023/12/a-53-year-old-male-with-generalised.html. SHA-256 of the retrieved article text: acaf4061206501f5da01bae0858dd7d11d291d08b23bbb172b1c63c32b08eb8b. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://anila23reddy.blogspot.com/2023/12/a-53-year-old-male-with-generalised.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

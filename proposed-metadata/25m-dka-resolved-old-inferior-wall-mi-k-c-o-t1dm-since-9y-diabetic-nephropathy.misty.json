@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "25M DKA(Resolved); Old Inferior Wall MI; K/C/O T1DM since 9Y; Diabetic Nephropathy",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://drbnr.blogspot.com/2023/11/25m-dkaresolved-old-inferior-wall-mi.html. SHA-256 of the retrieved article text: 17bf73842a44a96e73e13173d948f3f7384e6772a44dcac6cb8b358f10638e14. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://drbnr.blogspot.com/2023/11/25m-dkaresolved-old-inferior-wall-mi.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

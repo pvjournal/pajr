@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "20M DKA with DM TYPE -1",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://hiteshvutlapally191.blogspot.com/2023/08/20m-dka-with-dm-type-1.html. SHA-256 of the retrieved article text: e30366436e9baf9d84c734f6364ec7a7b9ea063fd35d86b3e85112e0d793039e. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://hiteshvutlapally191.blogspot.com/2023/08/20m-dka-with-dm-type-1.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "Patient in India J.K. hospital: 7/30 Learn about body structure",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://hsiuan-jkhospital.blogspot.com/2015/07/730-learn-about-body-structure.html. SHA-256 of the retrieved article text: d2b69a50d8749c0b9672a19ce99d774c7b0279e161d29734ea5056bf4f8cb3e1. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://hsiuan-jkhospital.blogspot.com/2015/07/730-learn-about-body-structure.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

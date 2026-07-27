@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "84 Moovika Reddy Siddenki",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://84moovikareddy.blogspot.com/2023/11/male-with-co-abdominal-swelling-this-is.html. SHA-256 of the retrieved article text: da968cb90f0744d48c834e94986d7f48705b528e5616b8f50d69f779648382d8. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://84moovikareddy.blogspot.com/2023/11/male-with-co-abdominal-swelling-this-is.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

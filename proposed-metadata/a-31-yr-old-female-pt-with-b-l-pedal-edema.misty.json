@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "A 31 YR OLD FEMALE PT.WITH B/L PEDAL EDEMA",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://jeshmitha104.blogspot.com/2024/05/a-31-yr-old-female-ptwith-bl-pedal-edema.html. SHA-256 of the retrieved article text: 277b08aa35786e1e4a2140a878a0bcc53a7c0568f5c5baf9bfd8e41a40ab0b86. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://jeshmitha104.blogspot.com/2024/05/a-31-yr-old-female-ptwith-bl-pedal-edema.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

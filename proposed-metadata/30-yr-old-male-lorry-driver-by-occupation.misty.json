@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "30 yr old male ,lorry driver by occupation",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://keelasreevalli.blogspot.com/2021/09/30-yr-old-male-lorry-driver-by.html. SHA-256 of the retrieved article text: 6bee8aa1f89b0277e88e03f12791cb4f0c6a4d0d1ced6554fb3ce10f8d306222. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://keelasreevalli.blogspot.com/2021/09/30-yr-old-male-lorry-driver-by.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "_note": "PROPOSAL ONLY. Prepared for the authors of this case report. Nothing here has been minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "UDLCO CRH: Historical human crimes against human slaves by powerful human lords and it's modern day solutions",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "publication_date": "2026-05-14",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://userdrivenhealthcare.blogspot.com/2026/05/udlco-crh-historical-human-crimes.html. SHA-256 of the retrieved text: 28cced1be8359a596967a96274e037231a63ae9c69d9da1d0618c403193529ab. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://userdrivenhealthcare.blogspot.com/2026/05/udlco-crh-historical-human-crimes.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

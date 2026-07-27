@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "Anecdotal self reflections on my internship learning with some video\u00a0 evidence of procedures performed",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://lasyapriyacherukupalli26.blogspot.com/2023/12/anecdotal-self-reflections-on-my.html. SHA-256 of the retrieved article text: 0016044ccc2a4341c541edc0aa296e79e91b4e5f3e831ec5315a72d9923bd4e5. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://lasyapriyacherukupalli26.blogspot.com/2023/12/anecdotal-self-reflections-on-my.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

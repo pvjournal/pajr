@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "75 YEAR OLD FEMALE CAME WITH THE COMPLAINTS OF LOWER BACK ACHE AND TINGLING SENSATION IN BOTH U/L AND L/L SINCE 5MONTHS",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://mohammedwahaaj11.blogspot.com/2023/07/75-year-old-female-came-with-complaints.html. SHA-256 of the retrieved article text: 9e6b5444a1bc0f5b83cb2fc3c53d6df903f4e766c20244d7fb47bb8ed7b96f65. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://mohammedwahaaj11.blogspot.com/2023/07/75-year-old-female-came-with-complaints.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

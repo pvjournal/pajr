@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "24 yr old female patient  with fever {high grade }",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://101pallirakesh.blogspot.com/2022/09/24-yr-old-female-patient-with-fever.html. SHA-256 of the retrieved article text: dbeeabc41acd012f27c9f444f58b05fbf7e7f5a25c26126fa080ca31af4e21dd. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://101pallirakesh.blogspot.com/2022/09/24-yr-old-female-patient-with-fever.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

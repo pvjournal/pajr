@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "PATIENT: Name -  Barlira Parionitis L - 5, Age -35 y, Sex -  M,",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://736146.blogspot.com/2020/02/name-barlira-parionitis-l-5-age-35-y.html. SHA-256 of the retrieved article text: ddfc30ebae5ba58f140cd74db7abe443e0e5e0ca64a97b6a51f4f7fd423adb42. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://736146.blogspot.com/2020/02/name-barlira-parionitis-l-5-age-35-y.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

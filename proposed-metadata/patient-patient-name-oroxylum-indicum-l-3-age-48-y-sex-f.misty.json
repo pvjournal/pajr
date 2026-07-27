@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "PATIENT: Patient Name -  Oroxylum  Indicum  ( L )  - 3  Age -   48 y   Sex -  F",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://736146.blogspot.com/2017/10/patient-name-oroxylum-indicum-l-3-age_7.html. SHA-256 of the retrieved article text: 34fb925aae910f751310bc7b52fc54f26ffe51a114dff020e1ba4bf18952db52. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://736146.blogspot.com/2017/10/patient-name-oroxylum-indicum-l-3-age_7.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

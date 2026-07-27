@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "3 mths old male WB PAJR",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://24fpatient.blogspot.com/2024/12/3-mths-old-male-wb-pajr.html. SHA-256 of the retrieved article text: ebc9df1af94bf06b6bba79b77163d968bb1afb787d4d19ea878b72a22f17c3aa. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://24fpatient.blogspot.com/2024/12/3-mths-old-male-wb-pajr.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

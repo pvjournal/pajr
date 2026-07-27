@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "75M WB Hepatitis",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://24fpatient.blogspot.com/2025/06/75m-wb-hepatitis.html. SHA-256 of the retrieved article text: b49fccc94b7c5b5012b56c5f4204fbae85f6ad51cd06d2fc61ab12b3d41da23d. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://24fpatient.blogspot.com/2025/06/75m-wb-hepatitis.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

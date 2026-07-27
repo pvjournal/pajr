@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "PATIENT: Name -  Bauhinia Acuminita L -5, Sex - M , Age - 22 y ,",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://736146.blogspot.com/2020/03/name-bauhinia-acuminita-l-5-sex-m-age.html. SHA-256 of the retrieved article text: 6d3ecf9814e4efdb155e72f5a94a73eb91e838c6611b99cd74beee68dd03a485. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://736146.blogspot.com/2020/03/name-bauhinia-acuminita-l-5-sex-m-age.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

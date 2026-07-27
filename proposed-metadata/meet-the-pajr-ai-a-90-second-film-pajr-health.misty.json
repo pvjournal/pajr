@@ -1,0 +1,24 @@
+{
+  "_note": "PROPOSAL ONLY. Prepared for the authors of this case report. Nothing here has been minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "Meet the PaJR AI \u00b7 a 90-second film \u00b7 PaJR Health",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "publication_date": "",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://pajrhealth.com/pajr-ai/. SHA-256 of the retrieved text: ccbe5ababd170781a147035bd2eb23aaad9d2a89718efbffb19ac4a11987d79c. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://pajrhealth.com/pajr-ai/",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

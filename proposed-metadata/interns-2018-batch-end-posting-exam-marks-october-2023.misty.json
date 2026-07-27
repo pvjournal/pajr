@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "INTERNS 2018 Batch END POSTING EXAM MARKS OCTOBER - 2023",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://generalmedicinedepartment.blogspot.com/2023/10/interns-2018-batch-end-posting-exam.html. SHA-256 of the retrieved article text: 6113ef66f9882a6393c213336150fb87ed8360ea94a56b361e3b75fb03c94667. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://generalmedicinedepartment.blogspot.com/2023/10/interns-2018-batch-end-posting-exam.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

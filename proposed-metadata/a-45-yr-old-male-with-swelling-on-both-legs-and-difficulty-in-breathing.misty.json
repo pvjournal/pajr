@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "A 45 yr old male with swelling on both legs and difficulty in breathing",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://laharikantoju.blogspot.com/2022/09/a-45-yr-old-male-with-swelling-on-both.html. SHA-256 of the retrieved article text: 45e2e855b6e9d8b6fcb863b7849f0a64b66a1f0687d8b5629aba2b5c84de4922. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://laharikantoju.blogspot.com/2022/09/a-45-yr-old-male-with-swelling-on-both.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

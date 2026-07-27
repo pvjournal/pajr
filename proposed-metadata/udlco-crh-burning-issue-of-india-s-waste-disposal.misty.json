@@ -1,0 +1,24 @@
+{
+  "_note": "PROPOSAL ONLY. Prepared for the authors of this case report. Nothing here has been minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "UDLCO CRH: Burning issue of India's waste disposal",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "publication_date": "2026-07-24",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://userdrivenhealthcare.blogspot.com/2026/07/udlco-crh-burning-issue-of-indias-waste.html. SHA-256 of the retrieved text: d1d76d5ad25dfad327f55f12aaa5e73e7f7016b0989b45cc18fa508b3cdea6ab. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://userdrivenhealthcare.blogspot.com/2026/07/udlco-crh-burning-issue-of-indias-waste.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

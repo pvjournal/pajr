@@ -1,0 +1,24 @@
+{
+  "_note": "PROPOSAL ONLY. Prepared for the authors of this case report. Nothing here has been minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "About \u00b7 PaJR Health",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "publication_date": "",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://pajrhealth.com/about/. SHA-256 of the retrieved text: 24de208932bef84e6ad640499766c08688c735f3ffa2411f964ab699a6682a26. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://pajrhealth.com/about/",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

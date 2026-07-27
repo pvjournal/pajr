@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "A 55YR OLD FEMALE COMPLAINS OF FEVER,DECREASED APPETITE SINCE 1 MONTH ,BREATHLESSNESS SINCE 1WEEK,VOMITINGS &LOOSE STOOLS SINCE 3 DAYS.",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://httpsshivaniballepu.blogspot.com/2022/11/a-55yr-old-female-complains-of.html. SHA-256 of the retrieved article text: d57140768dd852f7d7afc3bb4863e3acab3142798c712861cdae31c1ff33d4bc. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://httpsshivaniballepu.blogspot.com/2022/11/a-55yr-old-female-complains-of.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

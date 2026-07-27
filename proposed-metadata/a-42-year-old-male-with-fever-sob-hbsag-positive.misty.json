@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "A 42 YEAR OLD MALE WITH FEVER, SOB, HBsAg POSITIVE",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://mounikagadiparthirollno46.blogspot.com/2024/06/a-42-year-old-male-with-fever-sob-hbsag.html. SHA-256 of the retrieved article text: ec77de8b404f641f305d14770e7075a9f8d4e67a8f02f34ff742383b0900d183. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://mounikagadiparthirollno46.blogspot.com/2024/06/a-42-year-old-male-with-fever-sob-hbsag.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

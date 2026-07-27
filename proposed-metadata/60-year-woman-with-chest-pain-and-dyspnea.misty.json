@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "60 year woman with Chest pain and Dyspnea",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://ashiness92.blogspot.com/2021/08/60-year-woman-with-chest-pain-and.html. SHA-256 of the retrieved article text: 87c3841292e7ab908d99f081601906649c1353cdfbe699db8dfcdba79c0bb6cf. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://ashiness92.blogspot.com/2021/08/60-year-woman-with-chest-pain-and.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

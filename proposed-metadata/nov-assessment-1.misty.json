@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "nov assessment 1",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://manikaraovinay.blogspot.com/2020/11/nov-assessment-1.html. SHA-256 of the retrieved article text: 5c4ca051ebbedafb370eb33924b01a8a72abc08b1ad9aa6c4012f04822acb427. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://manikaraovinay.blogspot.com/2020/11/nov-assessment-1.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "October 2020 Bimonthly assessment",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://meghanabonaboina.blogspot.com/2020/10/october-2020-bimonthly-assessment.html. SHA-256 of the retrieved article text: 1af1f8698fb9fe7834db4cbf155ae0fb683743509cbf7385def108992c093905. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://meghanabonaboina.blogspot.com/2020/10/october-2020-bimonthly-assessment.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

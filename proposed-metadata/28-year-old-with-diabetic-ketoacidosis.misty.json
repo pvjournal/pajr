@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "28 year old with Diabetic Ketoacidosis",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://makkenavarsha76.blogspot.com/2023/03/28-year-old-with-diabetic-ketoacidosis.html. SHA-256 of the retrieved article text: ad3ceb90aecd62403dc9f5320b55f441c700dee2405d9cc5f3ec4ca1e70554a6. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://makkenavarsha76.blogspot.com/2023/03/28-year-old-with-diabetic-ketoacidosis.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

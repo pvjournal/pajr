@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "A 22yr female with CKD ON MHD",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://durgakrishna09.blogspot.com/2021/05/a-22yr-female-with-ckd-on-mhd.html. SHA-256 of the retrieved article text: f87a16a554d4f193e1ea0cae2ee52e222b3b3f0a58b01279dcd82bf245a814c4. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://durgakrishna09.blogspot.com/2021/05/a-22yr-female-with-ckd-on-mhd.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

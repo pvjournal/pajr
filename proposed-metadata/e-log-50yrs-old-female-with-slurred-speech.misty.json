@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "E-log : 50yrs old female with slurred speech",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://elogformedicalcase.blogspot.com/2021/11/50yrs-old-female-with-giddiness.html. SHA-256 of the retrieved article text: 250f0422341756613af96e6d6ee8ae37720da2c1b79d38a116b79e7bd28ebe7f. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://elogformedicalcase.blogspot.com/2021/11/50yrs-old-female-with-giddiness.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "MBBS 2K16 BATCH GM UNIVERSITY PRACTICAL EXAM CASES",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://mbbs2k16batchgmpracticals.blogspot.com/2021/05/2k16-batch-gm-university-practical.html. SHA-256 of the retrieved article text: e7e46c1504024272c6839d8157805f5ab60fdf856e4a7f89f45f335b203731e6. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://mbbs2k16batchgmpracticals.blogspot.com/2021/05/2k16-batch-gm-university-practical.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

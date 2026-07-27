@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "70 year old male with c/o sob cough since 10 days and fever since 5 days",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://43preethireddygangidi.blogspot.com/2023/11/70-year-old-male-with-co-sob-cough.html. SHA-256 of the retrieved article text: 4ba439e82361f198026bd4f531a1515fbca545857e40360d5c03188ff4716ed5. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://43preethireddygangidi.blogspot.com/2023/11/70-year-old-male-with-co-sob-cough.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

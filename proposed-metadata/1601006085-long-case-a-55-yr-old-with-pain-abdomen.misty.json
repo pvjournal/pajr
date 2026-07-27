@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "1601006085  ( LONG CASE )A 55 yr old with pain abdomen",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://keelasreevalli.blogspot.com/2021/04/1601006085-long-case-55-yr-old-with.html. SHA-256 of the retrieved article text: f38b7f06e0412930b9df17448d4cf6eca991a4c4a8524294d9765f4a22b60f2d. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://keelasreevalli.blogspot.com/2021/04/1601006085-long-case-55-yr-old-with.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

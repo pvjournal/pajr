@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "CHETANA KETA ROLL NO. 74: 70 yr old male with acute loss of speech and left upper and lower limb weakness",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://chetanaketarollno74.blogspot.com/2022/08/70-yr-old-male-with-acute-loss-of.html. SHA-256 of the retrieved article text: c2bfb0259698217a1c0e64b5bc162bf101f2ae93ae809f2c02a5c065d6fb2cdc. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://chetanaketarollno74.blogspot.com/2022/08/70-yr-old-male-with-acute-loss-of.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

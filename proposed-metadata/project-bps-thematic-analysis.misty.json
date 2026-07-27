@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "Project BPS thematic analysis",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://himajav.blogspot.com/2024/09/project-bps-thematic-analysis.html. SHA-256 of the retrieved article text: 241aee505c4b14ad07c62fd0da9a494ffff0e012a53784a6d7d9efb0694e3a6c. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://himajav.blogspot.com/2024/09/project-bps-thematic-analysis.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

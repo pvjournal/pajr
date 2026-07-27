@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "A 63 yrs old male with bilateral knee pains since  2 yrs and lower back pain since 1 year.",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://battulapavithrarollno19.blogspot.com/2023/04/a-63-yrs-old-male-with-bilateral-knee.html. SHA-256 of the retrieved article text: 44ea47bc41a0b59ccaca61b336f73dc07c921383f4b9a58ed80d1a2ed77f27ff. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://battulapavithrarollno19.blogspot.com/2023/04/a-63-yrs-old-male-with-bilateral-knee.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "A 45 year old female came with C/O pain in left hip since 4 months",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://manvithayechuri169.blogspot.com/2023/02/a-45-years-old-female-came-with-left.html. SHA-256 of the retrieved article text: 5033d0c00fc5256230413040e7a888f58b8e35d7d79d4d9cf7b96801c461abff. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://manvithayechuri169.blogspot.com/2023/02/a-45-years-old-female-came-with-left.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

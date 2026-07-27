@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "A 48 yr old male came to OPD with bilateral pedal edema",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://170maheshmahanandi.blogspot.com/2021/12/mahesh-m.html. SHA-256 of the retrieved article text: 684628a6e9bce741e81e9c7e5709682b0d1ee83273aa6d28247879e4969f2161. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://170maheshmahanandi.blogspot.com/2021/12/mahesh-m.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

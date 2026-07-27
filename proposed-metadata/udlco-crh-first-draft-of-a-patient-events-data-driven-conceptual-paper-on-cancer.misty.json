@@ -1,0 +1,24 @@
+{
+  "_note": "PROPOSAL ONLY. Prepared for the authors of this case report. Nothing here has been minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "UDLCO CRH: First draft of a patient events data driven conceptual paper on cancer care continuity",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "publication_date": "2026-06-07",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://medicinedepartment.blogspot.com/2026/06/udlco-crh-first-draft-of-patient-events.html. SHA-256 of the retrieved text: 13295bb66f28a99d5efdf8c74ec0eda27bd381fd94ca90313de2f2630e7e8d69. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://medicinedepartment.blogspot.com/2026/06/udlco-crh-first-draft-of-patient-events.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

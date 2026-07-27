@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "A 60 Years old Male patient with a cheif complaint of pedal edema, shortness of breath",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://gurramsandhyarani2001.blogspot.com/2023/01/a-60-years-old-male-patient-with-cheif.html. SHA-256 of the retrieved article text: 71449a6b32ef3b14648b792cdea6b2643ac7ebb13c454d9bc1b8acbcb27fd49d. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://gurramsandhyarani2001.blogspot.com/2023/01/a-60-years-old-male-patient-with-cheif.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

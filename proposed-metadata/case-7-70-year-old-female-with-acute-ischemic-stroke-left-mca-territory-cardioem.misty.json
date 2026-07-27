@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "case 7 70 year old female with acute ischemic stroke(left MCA territory),? Cardioembolic stroke(heart failure with preserved ejection fraction with RBBB)",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://drkulkarnithesis.blogspot.com/2021/10/case-7-70-year-old-female-with-acute.html. SHA-256 of the retrieved article text: ddfc2a85ef0333fc5d09cc3e35c4e8c059e4a72090cdfdda322af28d7bbcbf7f. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://drkulkarnithesis.blogspot.com/2021/10/case-7-70-year-old-female-with-acute.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

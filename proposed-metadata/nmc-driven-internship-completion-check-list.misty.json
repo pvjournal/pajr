@@ -1,0 +1,24 @@
+{
+  "_note": "PROPOSAL ONLY. Prepared for the authors of this case report. Nothing here has been minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "NMC driven internship completion check list",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "publication_date": "2026-07-08",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://medicinedepartment.blogspot.com/2026/07/nmc-driven-internship-completion-check_074322368.html. SHA-256 of the retrieved text: 479ee5a66c719396721be5bce3e9c8ce532e455c9115fb8e18d8819991af2048. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://medicinedepartment.blogspot.com/2026/07/nmc-driven-internship-completion-check_074322368.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

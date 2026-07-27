@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "84 Moovika Reddy Siddenki: 45 year-old male with generalised weakness",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://84moovikareddy.blogspot.com/2023/07/this-is-a-online-e-log-book-to-discuss.html. SHA-256 of the retrieved article text: a0738e360c043ad80c2efdbf7331c4e7cde021093dedf54c74b29efd547fdb1f. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://84moovikareddy.blogspot.com/2023/07/this-is-a-online-e-log-book-to-discuss.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "35 YEAR OLD MALE WITH SLE",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://lasyareddyrollno193.blogspot.com/2023/04/35-year-old-male-with-sle.html. SHA-256 of the retrieved article text: bbd26b40a8dd2670262994ab55886243d066803b7954b9fc2aaee6d9d8985b35. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://lasyareddyrollno193.blogspot.com/2023/04/35-year-old-male-with-sle.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

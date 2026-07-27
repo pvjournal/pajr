@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "Long Case - A 44 Year Old Man with Chronic Joint Pains and New Onset Generalized Edema",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://adityasamitinjay.blogspot.com/2021/08/long-case-44-year-old-man-with-chronic.html. SHA-256 of the retrieved article text: 5427722a5d47ea2d3e9ad1b23f902ae2401e6506867095b0f026e15ab1ff4c03. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://adityasamitinjay.blogspot.com/2021/08/long-case-44-year-old-man-with-chronic.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

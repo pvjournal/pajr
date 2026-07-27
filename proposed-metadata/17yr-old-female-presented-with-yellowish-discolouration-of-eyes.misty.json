@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "17yr old Female presented with yellowish discolouration of Eyes",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://kavyasamudrala.blogspot.com/2021/11/17yr-old-female-presented-with.html. SHA-256 of the retrieved article text: db183f06958e6e5b04752262ce34fea99de3ce96785bf92688e5270fc96d8c26. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://kavyasamudrala.blogspot.com/2021/11/17yr-old-female-presented-with.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

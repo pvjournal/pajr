@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "24.prannai reddy",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://24prannaireddy.blogspot.com/2022/07/scenario-01july2022-pt-aged-45-years.html. SHA-256 of the retrieved article text: 7feb1816241ee4f902cf7d1e9c540e666c7df416836b53024459a8570bf5c344. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://24prannaireddy.blogspot.com/2022/07/scenario-01july2022-pt-aged-45-years.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

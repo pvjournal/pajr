@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "63F Urinary incontinence 4 years ,RA on DMARD 25 years",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://anahitabehara.blogspot.com/2023/09/63f-urinary-incontinence-4-years-ra-on.html. SHA-256 of the retrieved article text: 21c9e1533bd7120dbd32c03c97ceb24cb75b52cb68c18fe5a3a2497875b141b9. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://anahitabehara.blogspot.com/2023/09/63f-urinary-incontinence-4-years-ra-on.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

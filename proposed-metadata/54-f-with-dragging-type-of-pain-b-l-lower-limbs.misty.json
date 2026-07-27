@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "54/F with dragging type of pain B/L lower limbs",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://manikaraovinay.blogspot.com/2022/07/54f-with-dragging-type-of-pain-bl-lower.html. SHA-256 of the retrieved article text: b7c7cae7b3d12b26c044707b15f3a81430a365f0f40f3d226c0dd1139abc7a42. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://manikaraovinay.blogspot.com/2022/07/54f-with-dragging-type-of-pain-bl-lower.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

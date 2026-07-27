@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "SEIZURES SECONDARY TO ACUTE INFRACTS IN FRONTAL AND LT TEMPORAL LOBEACUTE INFARCT IN FRONTAL AND LEFT TEMPORAL LOBESHIO PULMONARY KOCHS (taken completemedicine course )HIO ECLAMPSIA ( 38 yrs ago\"",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://daniyamenazrollno121.blogspot.com/2024/05/seizures-secondary-to-acute-infracts-in.html. SHA-256 of the retrieved article text: 544c59767c58ba8f09e6d354b828ac7c69ad489a5b5d8462f0b02d0da730c157. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://daniyamenazrollno121.blogspot.com/2024/05/seizures-secondary-to-acute-infracts-in.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

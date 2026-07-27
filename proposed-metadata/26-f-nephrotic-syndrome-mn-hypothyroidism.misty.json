@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "26/F  nephrotic syndrome MN Hypothyroidism",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://ajayaddula.blogspot.com/2024/05/26f-nephrotic-syndrome-mn-hypothyroidism.html. SHA-256 of the retrieved article text: 10231774f5d2793900d7318fda83f30899d3b3205e7287701f90312f84c65b1e. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://ajayaddula.blogspot.com/2024/05/26f-nephrotic-syndrome-mn-hypothyroidism.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

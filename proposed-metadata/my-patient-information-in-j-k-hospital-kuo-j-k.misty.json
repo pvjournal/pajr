@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "My Patient Information in J.K hospital(Kuo): \u6211\u5728J.K\u91ab\u9662\u7684\u7b2c\u4e00\u500b\u6848\u4f8b",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://jenhungjkhospital.blogspot.com/2015/07/jk.html. SHA-256 of the retrieved article text: 28de5236c135021be1eaa8d0a109975f754a683ad20f3b503f4925ffa42a9d64. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://jenhungjkhospital.blogspot.com/2015/07/jk.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

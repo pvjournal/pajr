@@ -1,0 +1,24 @@
+{
+  "_note": "PROPOSAL ONLY. Prepared for the authors of this case report. Nothing here has been minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "Terms & Conditions \u00b7 PaJR Health",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "publication_date": "",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://pajrhealth.com/community-guidelines/. SHA-256 of the retrieved text: a0d7fd86e797b17e30f0830ff86e5536fba07da393f0673568e2b28586ac4cb6. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://pajrhealth.com/community-guidelines/",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

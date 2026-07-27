@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "68 F WITH ALETRED SENSORIUM SINCE 2 DAYS",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://battulapavithrarollno19.blogspot.com/2023/05/68-f-with-aletred-sensorium-since-2-days.html. SHA-256 of the retrieved article text: 9336330a9b333964816240a1ee07800805b2d8610344e4bd064cc2f09f27a533. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://battulapavithrarollno19.blogspot.com/2023/05/68-f-with-aletred-sensorium-since-2-days.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

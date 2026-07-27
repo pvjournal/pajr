@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "A 55 year old female with yellowish discoloration of eyes",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://38nandinigandla.blogspot.com/2022/07/a-55-year-old-female-agricultural.html. SHA-256 of the retrieved article text: 52f58daf690e0bbf786294a5b846dd854cb788605ded670dd4615061331c03d9. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://38nandinigandla.blogspot.com/2022/07/a-55-year-old-female-agricultural.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

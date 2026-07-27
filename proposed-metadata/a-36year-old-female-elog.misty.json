@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "a 36year old female elog",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://ananyapulikandala106.blogspot.com/2022/09/a-40year-old-female-with.html. SHA-256 of the retrieved article text: 9d0dacfcdb496a974cb0c9b1bb3931aa63d2041adbf66c156e204508669918cc. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://ananyapulikandala106.blogspot.com/2022/09/a-40year-old-female-with.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

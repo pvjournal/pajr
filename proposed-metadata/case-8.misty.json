@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "case 8",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://harikagunde.blogspot.com/2025/05/fathima-begum-64f-160124.html. SHA-256 of the retrieved article text: 407d8dfb578e53f0bd4187581ad84a54510fcc8b1d4b6e9006a526c2d5e01fda. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://harikagunde.blogspot.com/2025/05/fathima-begum-64f-160124.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

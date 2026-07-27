@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "58year old female suffering from headachesince 20years",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://jyothsna113.blogspot.com/2021/10/58year-old-female-suffering-from.html. SHA-256 of the retrieved article text: 0e17a38cfe4b5861ed250916314fdd3de119955e37c3902f25426fa50f3bcaa0. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://jyothsna113.blogspot.com/2021/10/58year-old-female-suffering-from.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

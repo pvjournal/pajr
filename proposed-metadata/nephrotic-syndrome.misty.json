@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "NEPHROTIC SYNDROME",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://maheshakula06.blogspot.com/2022/12/nephrotic-syndrome.html. SHA-256 of the retrieved article text: baa3a98bf8c6e09362bf2d0ee15745273f8c2597c0cf5cf681f6547377b9d53d. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://maheshakula06.blogspot.com/2022/12/nephrotic-syndrome.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

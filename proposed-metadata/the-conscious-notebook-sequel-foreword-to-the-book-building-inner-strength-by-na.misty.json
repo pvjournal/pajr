@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "The Conscious Notebook Sequel: Foreword to the book \"Building inner strength\" by Narmeen Shah and Avinash Gupta",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://consciousnotebooksequel.blogspot.com/2023/09/foreword-to-book-building-inner.html. SHA-256 of the retrieved article text: 0680d32c85ddb1030128b938fb8d0fc23ce878b443f0b56ddd49fb92030f64e8. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://consciousnotebooksequel.blogspot.com/2023/09/foreword-to-book-building-inner.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

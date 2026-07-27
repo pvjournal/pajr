@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "MEDICINE ELOG: 13 YEAR OLD WITH GROSS HAEMATURIA AND ANASARCA",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://166sasirakasinadhuni.blogspot.com/2022/12/13-year-old-with-gross-haematuria-and.html. SHA-256 of the retrieved article text: e1d132182892463eb4e41868d315ffc15dca2b98a0d28aeacb216fc0e532930d. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://166sasirakasinadhuni.blogspot.com/2022/12/13-year-old-with-gross-haematuria-and.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

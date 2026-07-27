@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "35 year old female SOB,fever, generalized weakness",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://manishkumarollno129.blogspot.com/2023/04/35-year-old-female-sobfever-generalized.html. SHA-256 of the retrieved article text: 97ad7755d7b1c7d44a36d4c1b2d0e031d793d33d67111a28275e8b40d4d07370. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://manishkumarollno129.blogspot.com/2023/04/35-year-old-female-sobfever-generalized.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

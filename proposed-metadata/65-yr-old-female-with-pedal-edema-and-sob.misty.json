@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "65 yr old female with pedal edema and SOB...",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://87tharunkumar.blogspot.com/2022/03/65-yr-old-female-with-pedal-edema-and.html. SHA-256 of the retrieved article text: bc17a03ccf922258ff7b213e67068adac9e46cffbdfdc87626b5cf57b9156aa4. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://87tharunkumar.blogspot.com/2022/03/65-yr-old-female-with-pedal-edema-and.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

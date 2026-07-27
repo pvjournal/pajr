@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "28 yrs old female with diarrhoea",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://basanisravanthirollno18.blogspot.com/2022/06/28-yrs-old-female-with-diarrhoea.html. SHA-256 of the retrieved article text: 3145f8e8ad8946496c79fc3ff068e15f2c9532b327af41853050996c8f4a3e9e. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://basanisravanthirollno18.blogspot.com/2022/06/28-yrs-old-female-with-diarrhoea.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

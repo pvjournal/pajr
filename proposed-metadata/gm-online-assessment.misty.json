@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "Gm online assessment",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://167kothakavya.blogspot.com/2023/12/gm-online-assessment.html. SHA-256 of the retrieved article text: 6190f16cc7c4fbe6619af0d9dc4553c58ed74b72ad2a489119ecad8210786bd0. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://167kothakavya.blogspot.com/2023/12/gm-online-assessment.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

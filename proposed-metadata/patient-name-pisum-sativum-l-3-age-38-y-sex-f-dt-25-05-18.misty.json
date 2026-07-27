@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "PATIENT: Name -  Pisum Sativum L - 3  Age - 38 y  Sex -  F       Dt.  25/05/18",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://736146.blogspot.com/2018/05/name-pisum-sativum-l-3-age-38-y-sex-f.html. SHA-256 of the retrieved article text: 5a3040c065e3c005ffe70d4b1e6489fc5d5ddf3712f59cb4ee891edb540f81f7. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://736146.blogspot.com/2018/05/name-pisum-sativum-l-3-age-38-y-sex-f.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

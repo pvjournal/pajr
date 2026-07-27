@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "70M with acute Ischemic stroke with DM",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://drbnr.blogspot.com/2024/05/70m-with-acute-ischemic-stroke-with-dm.html. SHA-256 of the retrieved article text: cdbdd661b3fbeaac77aeacb6a2ba8da20a89f9c66d6225a1b369b9bf239a5d20. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://drbnr.blogspot.com/2024/05/70m-with-acute-ischemic-stroke-with-dm.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

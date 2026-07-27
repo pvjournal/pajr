@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "Rejected Lancet Correspondence: Workplace health promotion in India",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://bmjcaselogvivek.blogspot.com/2019/02/rejected-lancet-correspondence.html. SHA-256 of the retrieved article text: 0269f4303f0da88531c5d85a63bf7b4cc4ee869dd711da50fb707e18e7223a28. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://bmjcaselogvivek.blogspot.com/2019/02/rejected-lancet-correspondence.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "PATIENT: Name - phyllanthus Acidus(L) - 3  Sex - F  Age - 48 y",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://736146.blogspot.com/2018/02/name-phyllanthus-acidusl-3-sex-f-age-48.html. SHA-256 of the retrieved article text: 58f38c2161a4ad0d90cbc26f003094bbf601daf1b1a9fa8baebe9d1fe9f4235c. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://736146.blogspot.com/2018/02/name-phyllanthus-acidusl-3-sex-f-age-48.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

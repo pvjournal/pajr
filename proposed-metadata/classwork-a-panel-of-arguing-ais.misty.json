@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "classwork: A Panel of Arguing AIs",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://classworkdecjan.blogspot.com/2026/07/a-panel-of-arguing-ais.html. SHA-256 of the retrieved article text: 04c9da5f05f03e71c5aa071daa460343bfd6fd8d8ae4ab5a86c5e949ed9f1a6b. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://classworkdecjan.blogspot.com/2026/07/a-panel-of-arguing-ais.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "51M with Foot Drop, Loss of Sensation and Swelling in Left Foot",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://96sanjanapalakodeti.blogspot.com/2022/09/51m.html. SHA-256 of the retrieved article text: 45cc11d68419a7f7a71b5542ba09f930ccfa02f2e9157c804ab7ec1bd868fffe. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://96sanjanapalakodeti.blogspot.com/2022/09/51m.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

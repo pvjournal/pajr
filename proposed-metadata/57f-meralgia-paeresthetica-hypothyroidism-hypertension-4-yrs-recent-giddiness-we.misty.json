@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "57F Meralgia paeresthetica Hypothyroidism, Hypertension, 4 yrs Recent Giddiness weakness WB PaJR",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://24fpatient.blogspot.com/2025/02/57f-meralgia-paeresthetica.html. SHA-256 of the retrieved article text: 9d5c0560b6efb5ebfcceb806455a249fa3c376441538eebac2201e50333d5fc3. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://24fpatient.blogspot.com/2025/02/57f-meralgia-paeresthetica.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

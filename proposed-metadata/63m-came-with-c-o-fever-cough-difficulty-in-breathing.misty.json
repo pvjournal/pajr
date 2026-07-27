@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "63M came with c/o fever,cough,difficulty in breathing",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://34vijayaratnadande.blogspot.com/2023/10/63m-came-with-co-fevercoughdifficulty.html. SHA-256 of the retrieved article text: f95023a576d32ffce7f5cf97c2c995df6cca426852d5ca8254bdeda9534fe187. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://34vijayaratnadande.blogspot.com/2023/10/63m-came-with-co-fevercoughdifficulty.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

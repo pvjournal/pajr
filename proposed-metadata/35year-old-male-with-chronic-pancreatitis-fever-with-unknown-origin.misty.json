@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "35year old male with chronic pancreatitis,fever with unknown origin",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://jyothsna113.blogspot.com/2021/11/35year-old-male-with-chronic.html. SHA-256 of the retrieved article text: aef9709e4822790350817965cc531e37c8d4ff22c0836a86c64b5fcb6956bdc3. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://jyothsna113.blogspot.com/2021/11/35year-old-male-with-chronic.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "A 45 year Old Man Came To Casualty with Complaints of Bilateral loin area pain and Fever with Chills and Shortness of Breath",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://ankurkumar14.blogspot.com/2022/07/a-45-year-old-man-came-to-casualty-with.html. SHA-256 of the retrieved article text: c1f379a90b92e3dde26b17acf4235ad5f367b22c6f4619281534134d6b0d19da. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://ankurkumar14.blogspot.com/2022/07/a-45-year-old-man-came-to-casualty-with.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

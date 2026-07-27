@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "01/06/2023 : 55 year old female came with pain in abdomen from 10 days , altered sensorium since 1 week",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://madamsneha74.blogspot.com/2023/06/01062023.html. SHA-256 of the retrieved article text: eb5a16d215ffc268eefa180b4d7907b04e6a4b1259c7161ba0b993359e35e5cb. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://madamsneha74.blogspot.com/2023/06/01062023.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

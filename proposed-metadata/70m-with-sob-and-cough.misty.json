@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "70M with SOB and cough",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://gouthajagadeesh37.blogspot.com/2023/11/70m-with-sob-and-cough.html. SHA-256 of the retrieved article text: e7391a39a11a9d08a4739a2ad4ad7edfc284bd191b0747f914e76aa3f239f982. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://gouthajagadeesh37.blogspot.com/2023/11/70m-with-sob-and-cough.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "A 60 YEAR OLD MALE WITH FEVER AND DIFFICULTY IN SWALLOWING",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://laxmisowmya71.blogspot.com/2021/08/a-60-year-old-male-with-fever-and.html. SHA-256 of the retrieved article text: 60e2aae92f3da9c33bf0fc3eec7d5778f6638bfa87556456ff69dcd1f3c0da8a. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://laxmisowmya71.blogspot.com/2021/08/a-60-year-old-male-with-fever-and.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

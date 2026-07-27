@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "The Conscious Notebook Sequel: UDLCO CRH: Temple driven education and healthcare ecosystems in ancient India",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://consciousnotebooksequel.blogspot.com/2025/09/udlco-crh-temple-driven-education-and.html. SHA-256 of the retrieved article text: 973a3c38bc99c0ce2102ba8133cb560ae0a38d5ead373c4c21b1f25e5e859fb8. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://consciousnotebooksequel.blogspot.com/2025/09/udlco-crh-temple-driven-education-and.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

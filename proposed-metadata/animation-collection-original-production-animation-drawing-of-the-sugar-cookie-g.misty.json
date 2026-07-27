@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "Animation Collection: Original Production Animation Drawing of The Sugar Cookie Girl (aka Miss Bonbon and The Cookie Queen) from \"The Cookie Carnival,\" 1935",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://greganimationart.blogspot.com/2016/03/original-production-animation-drawing_78.html. SHA-256 of the retrieved article text: 54daf0e9647b8965bdc75ae8fe2691a3bf3aa7eb6d398659c9e02e29a1399164. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://greganimationart.blogspot.com/2016/03/original-production-animation-drawing_78.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

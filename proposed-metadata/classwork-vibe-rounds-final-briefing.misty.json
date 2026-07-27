@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "classwork: Vibe Rounds - Final Briefing",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://classworkdecjan.blogspot.com/2026/06/vibe-rounds-final-briefing.html. SHA-256 of the retrieved article text: c34a82e1c8650fc5e8e4a4bccb1513a9265406cae946c3197dfbb22b401d8b91. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://classworkdecjan.blogspot.com/2026/06/vibe-rounds-final-briefing.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

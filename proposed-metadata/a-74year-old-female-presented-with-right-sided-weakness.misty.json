@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "A 74year old female presented with right sided  weakness",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://appalaaishwaryareddy.blogspot.com/2020/12/a-74year-old-female-presented-with.html. SHA-256 of the retrieved article text: 0f647add8f94a8de45696433bf101c76150519698aa5ed8a051c6a94780b3fcd. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://appalaaishwaryareddy.blogspot.com/2020/12/a-74year-old-female-presented-with.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

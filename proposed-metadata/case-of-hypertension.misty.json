@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "Case of hypertension",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://adarshanarayana04.blogspot.com/2022/12/case-of-hypertension.html. SHA-256 of the retrieved article text: f1d3f6a4471ede82cc2fc49794ab80a804afb2927b9f4dc06bd3e3e651c6dfba. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://adarshanarayana04.blogspot.com/2022/12/case-of-hypertension.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

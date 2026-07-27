@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "17 y/o female with complaints of sudden fever",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://89aishwaryamuttamsetty.blogspot.com/2022/09/17-yo-female-with-complaints-of-sudden.html. SHA-256 of the retrieved article text: df6608a441a9407b200664f592c24fb9565a487e4318b812a8a76242cb96bc17. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://89aishwaryamuttamsetty.blogspot.com/2022/09/17-yo-female-with-complaints-of-sudden.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

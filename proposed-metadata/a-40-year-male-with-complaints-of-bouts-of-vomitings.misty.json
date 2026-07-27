@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "A 40 YEAR MALE WITH COMPLAINTS OF BOUTS OF VOMITINGS",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://07042002.blogspot.com/2023/12/a-40-year-male-with-complaints-of-bouts.html. SHA-256 of the retrieved article text: 0fd4fc8f98127589d6043bee5d0d52d47af2c5b69f856d2c186801c20044aa95. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://07042002.blogspot.com/2023/12/a-40-year-male-with-complaints-of-bouts.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

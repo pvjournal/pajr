@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "37 year old male came to the casualty with the chief complaints of shortness of breath since 6 days and generalised swelling of the body since 15 days.",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://93nlavanya.blogspot.com/2022/09/n.html. SHA-256 of the retrieved article text: 408102cae59d9e6bc8faf15caad9cd6511b2cc781655e347c0227c4982775ddb. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://93nlavanya.blogspot.com/2022/09/n.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

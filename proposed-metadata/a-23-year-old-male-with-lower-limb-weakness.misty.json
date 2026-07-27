@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "A 23 year old male with lower limb weakness",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://gtejaswini61.blogspot.com/2020/05/a-23-year-old-male-with-lower-limb.html. SHA-256 of the retrieved article text: 0ccd429c496cd84d5c9cd8ca0d991e69de0b6d3b9f09787a2ba0d4c37c3500ce. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://gtejaswini61.blogspot.com/2020/05/a-23-year-old-male-with-lower-limb.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

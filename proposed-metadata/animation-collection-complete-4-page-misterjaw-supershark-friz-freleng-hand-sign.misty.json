@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "Animation Collection: Complete 4 Page MisterJaw-Supershark Friz Freleng Hand Signed Storyboards from a \"20 Second Bridge\"",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://greganimationart.blogspot.com/2017/03/complete-4-page-misterjaw-supershark.html. SHA-256 of the retrieved article text: 0f7a4592172c86a435f2d1dd0da0edde4b6d20387b99130322719851441a1ddd. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://greganimationart.blogspot.com/2017/03/complete-4-page-misterjaw-supershark.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

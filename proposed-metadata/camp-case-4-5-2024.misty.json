@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "Camp case 4/5/2024",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://kpremsaipavankumar96.blogspot.com/2024/06/camp-case-452024.html. SHA-256 of the retrieved article text: f2a0de8e8e6ab0507c08da53e7048402d61b55bd62435558cedbcb752a3b0b0a. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://kpremsaipavankumar96.blogspot.com/2024/06/camp-case-452024.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

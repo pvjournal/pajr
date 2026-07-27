@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "PATIENT: Old Patient Name - BAROCANDOL  WILL  (L) - 6 , Age - 51 Y ,Sex - M ,   03.03.2021",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://736146.blogspot.com/2021/03/old-patient-name-barocandol-will-l-6.html. SHA-256 of the retrieved article text: c7503b75500f19711a9619b40509b5f2518b579362d4d3664c04596b6156d897. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://736146.blogspot.com/2021/03/old-patient-name-barocandol-will-l-6.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

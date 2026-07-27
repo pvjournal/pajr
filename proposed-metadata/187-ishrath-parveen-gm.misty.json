@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "187 Ishrath parveen Gm",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://187ishrathparveen.blogspot.com/2021/10/187-ishrath-parveen-gm.html. SHA-256 of the retrieved article text: 522c91bb3478888dff4a9e51e64fbfc6a6a47630f9974d6461f21c92921b2dca. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://187ishrathparveen.blogspot.com/2021/10/187-ishrath-parveen-gm.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

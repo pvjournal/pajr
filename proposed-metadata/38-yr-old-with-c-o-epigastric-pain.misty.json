@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "38 yr old with c/o epigastric pain",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://manaswinibhootharaju153.blogspot.com/2023/02/38y-old-male-came-to-causality-with-clo.html. SHA-256 of the retrieved article text: 3830a09d909e19aaafedfb730f98110d4f5f8f9a06abab0e858bfd6a8d88ab51. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://manaswinibhootharaju153.blogspot.com/2023/02/38y-old-male-came-to-causality-with-clo.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

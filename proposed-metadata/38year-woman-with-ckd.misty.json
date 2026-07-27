@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "38year woman With CKD",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://ashiness92.blogspot.com/2020/07/38-year-old-woman-currently-on.html. SHA-256 of the retrieved article text: 8d0c0bb570fd65af48c902c040bdb85649095b0b46c495fca6d8d24773f197cb. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://ashiness92.blogspot.com/2020/07/38-year-old-woman-currently-on.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "PATIENT: Name - Barlaria Strigosa Willd - 5 , Age - 56 y , Sex - M,",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://736146.blogspot.com/2020/02/name-barlaria-strigosa-willd-5-age-56-y.html. SHA-256 of the retrieved article text: 86b1c17e044f69b01e0cc5914021e5fb6e94c4eac7a650a0914e41d3d4411e15. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://736146.blogspot.com/2020/02/name-barlaria-strigosa-willd-5-age-56-y.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

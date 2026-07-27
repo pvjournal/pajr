@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "60/F with shortness of breath, decreased urine output, facial puffiness , b/l pedal edema",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://ajayaddula.blogspot.com/2023/01/60f-with-shortness-of-breath-decreased.html. SHA-256 of the retrieved article text: dc985c50ff66a9d452d0e17e9ede3c58a1f138821570d8fcae942e0dfbac5de6. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://ajayaddula.blogspot.com/2023/01/60f-with-shortness-of-breath-decreased.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

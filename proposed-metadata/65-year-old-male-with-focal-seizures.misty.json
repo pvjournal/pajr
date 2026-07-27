@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "65 year old male with focal seizures",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://maheen01.blogspot.com/2023/01/65-year-old-male-with-focal-seizures.html. SHA-256 of the retrieved article text: c09128b9624bda2a9ea06ebfb671f62183306249a5aa7cffeb44e3a0b1cc6e7e. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://maheen01.blogspot.com/2023/01/65-year-old-male-with-focal-seizures.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

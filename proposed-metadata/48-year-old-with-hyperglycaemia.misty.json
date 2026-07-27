@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "48 year old with hyperglycaemia",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://98chandanapadi.blogspot.com/2023/11/48-year-old-with-hyperglycaemia.html. SHA-256 of the retrieved article text: f6dd3afdd4a04d186df8e148d80e147a26e73590dfc2f66c474c7972f53ecf1e. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://98chandanapadi.blogspot.com/2023/11/48-year-old-with-hyperglycaemia.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

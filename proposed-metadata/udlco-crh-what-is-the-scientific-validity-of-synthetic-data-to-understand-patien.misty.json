@@ -1,0 +1,24 @@
+{
+  "_note": "PROPOSAL ONLY. Prepared for the authors of this case report. Nothing here has been minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "UDLCO CRH: What is the scientific validity of synthetic data to understand patient centred research questions around their illness interventions and outcomes?",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "publication_date": "2026-07-23",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://userdrivenhealthcare.blogspot.com/2026/07/udlco-crh-what-is-scientific-validity.html. SHA-256 of the retrieved text: 163e317e0953362b17396a99615d0b3f9ce5e5bef31a0d9431420843bb80ec60. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://userdrivenhealthcare.blogspot.com/2026/07/udlco-crh-what-is-scientific-validity.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "Animation Collection: Original model/publicity animation cel of John Lennon, Paul McCartney, George Harrison, and Ringo Star from \"The Beatles,\" 1965-67",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://greganimationart.blogspot.com/2024/03/original-modelpublicity-animation-cel.html. SHA-256 of the retrieved article text: 9ffb7570444db7f7685c8c74b56404fd37eec2aeef8f190e0baf76ff5f095e43. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://greganimationart.blogspot.com/2024/03/original-modelpublicity-animation-cel.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "MEDICINE ELOG: 1701006077 - long case final mbbs practical",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://166sasirakasinadhuni.blogspot.com/2022/06/80-year-old-female-presenting-with.html. SHA-256 of the retrieved article text: 24d1559f0d54b17f1b6472cb3a7e04c323cf5e11a2ac64732b563b637dbcd246. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://166sasirakasinadhuni.blogspot.com/2022/06/80-year-old-female-presenting-with.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

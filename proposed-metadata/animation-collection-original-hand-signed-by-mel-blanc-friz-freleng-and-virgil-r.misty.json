@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "Animation Collection: Original Hand Signed by Mel Blanc, Friz Freleng, and Virgil Ross Production Animation Cels of Sylvester and Tweety From A Cartoon Short, 1945-1956",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://greganimationart.blogspot.com/2017/01/original-hand-signed-by-mel-blanc-friz.html. SHA-256 of the retrieved article text: 7098c928f2d839721468a9370f02c8204091269a172147445f8d002394adc260. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://greganimationart.blogspot.com/2017/01/original-hand-signed-by-mel-blanc-friz.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

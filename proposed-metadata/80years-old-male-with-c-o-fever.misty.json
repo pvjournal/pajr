@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "80YEARS OLD MALE WITH C/O FEVER",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://187ishrathparveen.blogspot.com/2023/11/80years-old-male-with-co-fever.html. SHA-256 of the retrieved article text: 5b510a5938f4a4a6e5e6cafd84101a272da6149bf588bad8b451a41832ba1577. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://187ishrathparveen.blogspot.com/2023/11/80years-old-male-with-co-fever.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

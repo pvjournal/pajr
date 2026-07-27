@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "60 y/o male with Shortness of breath",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://caseopinionsbyrollno156.blogspot.com/2022/04/60-yo-male-with-shortness-of-breath.html. SHA-256 of the retrieved article text: c4ef6e0a12fe4b8609e889d4475be056a130e268edd224af7b308063f733f926. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://caseopinionsbyrollno156.blogspot.com/2022/04/60-yo-male-with-shortness-of-breath.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

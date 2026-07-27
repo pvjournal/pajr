@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "58 YEAR OLD FEMALE WITH SHORTNESS OF BREATH AND PEDAL EDEMA",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://aishwaryagannoji35.blogspot.com/2022/10/58-year-old-female-with-fever-and.html. SHA-256 of the retrieved article text: 92596fbca8174c23853bec7bc84a7ea5f2fec1421c45fb6df23fcd884fb6a268. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://aishwaryagannoji35.blogspot.com/2022/10/58-year-old-female-with-fever-and.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

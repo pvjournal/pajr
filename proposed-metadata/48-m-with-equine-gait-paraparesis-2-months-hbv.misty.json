@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "48/M WITH EQUINE GAIT PARAPARESIS 2 MONTHS HBV+",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://dineshperamrollno162.blogspot.com/2023/06/48m-with-equine-gait-paraparesis-2.html. SHA-256 of the retrieved article text: 18480ed1f8229f1bfdd4209df54c46cfe3d63069920f9806b3498ac4292d155a. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://dineshperamrollno162.blogspot.com/2023/06/48m-with-equine-gait-paraparesis-2.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

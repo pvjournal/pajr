@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "57 YEARS OLD MALE PRESENTED WITH C/O PEDAL EDEMA AND SOB",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://ailanibyogita.blogspot.com/2021/12/chronic-renal-failure.html. SHA-256 of the retrieved article text: cf017e41ba0c817f63ddbb1245c7372d3937b83488c059e6b9a16a3aa4c0d4fe. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://ailanibyogita.blogspot.com/2021/12/chronic-renal-failure.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

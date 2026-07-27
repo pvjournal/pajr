@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "Inavolu Akhila",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://inavoluakhila.blogspot.com/2021/08/inavolu-akhila.html. SHA-256 of the retrieved article text: fada8e6bbca479b4561442828dea080d9e1be0c025275add61fe8d02264d3c1f. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://inavoluakhila.blogspot.com/2021/08/inavolu-akhila.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

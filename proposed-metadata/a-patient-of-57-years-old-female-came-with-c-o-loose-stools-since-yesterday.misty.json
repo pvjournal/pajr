@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "A patient of 57 years old female came with C/O loose stools since yesterday",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://manvithayechuri169.blogspot.com/2023/03/a-patient-of-57-years-old-female-came.html. SHA-256 of the retrieved article text: 4d2f3265e531808f5ae8238f32392d459bf53ea8ecf39b361dc767496830ae3d. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://manvithayechuri169.blogspot.com/2023/03/a-patient-of-57-years-old-female-came.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

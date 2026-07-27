@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "60 year old female with CKD on maintenance haemodialysis",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://divyasreevanka.blogspot.com/2023/12/60-year-old-female-with-ckd-on.html. SHA-256 of the retrieved article text: e1a62264adf631159c32ccbe5b45a7f79c1278d3239049dfd9e433c77ce35f87. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://divyasreevanka.blogspot.com/2023/12/60-year-old-female-with-ckd-on.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

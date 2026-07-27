@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "SEPTEMBER 2024 - 3 Years Old child, Type1 Diabetes, Insulin Hypoglycemia, Intermittent, Bloating 1 Month",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://narmeenshah.blogspot.com/2024/10/september-3-years-old-child-type1.html. SHA-256 of the retrieved article text: 44b2e82bca93430346135aa9f97e5799bd731314e9ae6c8fc338d33fd2bce142. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://narmeenshah.blogspot.com/2024/10/september-3-years-old-child-type1.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

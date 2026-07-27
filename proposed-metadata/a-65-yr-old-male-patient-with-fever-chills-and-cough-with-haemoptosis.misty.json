@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "A 65 yr old male patient with fever, chills and cough with haemoptosis",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://bollusreechandana.blogspot.com/2022/12/a-65-yr-old-male-patient-with-fever.html. SHA-256 of the retrieved article text: 87564c8ca27e5523db93ae679ea21fc29fa66c1df80cde0b0ce284b8b53903b7. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://bollusreechandana.blogspot.com/2022/12/a-65-yr-old-male-patient-with-fever.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "A 45 year old female patient presented with chief complaints of fever and shortness of breath",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://kammampatiuharollno65.blogspot.com/2021/12/a-45-year-old-female-patient-presented.html. SHA-256 of the retrieved article text: d0e1d449cdcd53979b1faea1ca73a25624a9f01b0629a099fef55996b46d5588. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://kammampatiuharollno65.blogspot.com/2021/12/a-45-year-old-female-patient-presented.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

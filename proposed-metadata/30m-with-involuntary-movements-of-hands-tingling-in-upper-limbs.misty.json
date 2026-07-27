@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "30M with involuntary movements of hands,tingling in upper limbs",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://nadipisneha.blogspot.com/2023/07/30year-old-male.html. SHA-256 of the retrieved article text: c33cc6dc6e01148451cc81c2ab7ac236ca63959c73d692c79285cd3ac64e91db. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://nadipisneha.blogspot.com/2023/07/30year-old-male.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

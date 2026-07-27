@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "PATIENT: Name - Phyllanthus  Virgatus Forst   - 3  Age - 58 y  Sex - M",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://736146.blogspot.com/2018/04/name-phyllanthus-virgatus-forst-3-age_7.html. SHA-256 of the retrieved article text: 90e21d06ae8b430af95abe0f2eabe2ffbbece71c5040438e3a2b9c66428f923c. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://736146.blogspot.com/2018/04/name-phyllanthus-virgatus-forst-3-age_7.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

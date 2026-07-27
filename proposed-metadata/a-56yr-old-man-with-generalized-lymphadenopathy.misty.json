@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "A 56yr old man with generalized lymphadenopathy",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://meghanaraomuddada.blogspot.com/2022/06/a-56yr-old-man-with-generalized.html. SHA-256 of the retrieved article text: ee3058ce2bc7ceba9fa741758955630ecfc293655e28d9f97bd2d80c03fbbb99. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://meghanaraomuddada.blogspot.com/2022/06/a-56yr-old-man-with-generalized.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

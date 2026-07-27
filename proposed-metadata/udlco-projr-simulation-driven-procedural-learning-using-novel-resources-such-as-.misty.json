@@ -1,0 +1,24 @@
+{
+  "_note": "PROPOSAL ONLY. Prepared for the authors of this case report. Nothing here has been minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "UDLCO ProJR: Simulation driven procedural learning using novel resources such as offline cadavers and online patients",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "publication_date": "2026-06-06",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://medicinedepartment.blogspot.com/2026/06/udlco-projr-simulation-driven.html. SHA-256 of the retrieved text: 49c449b0d07ef5289165cbe457bf13e8e902e14e747345e74ca07fe5e5eb3b2e. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://medicinedepartment.blogspot.com/2026/06/udlco-projr-simulation-driven.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

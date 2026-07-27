@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "gm e-mail log",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://51mounikajella.blogspot.com/2022/07/gm-e-mail-log.html. SHA-256 of the retrieved article text: 7426c02f8603fc9ec0727c4deb64ea6a48b22107d2f965d8128fba909c09d367. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://51mounikajella.blogspot.com/2022/07/gm-e-mail-log.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

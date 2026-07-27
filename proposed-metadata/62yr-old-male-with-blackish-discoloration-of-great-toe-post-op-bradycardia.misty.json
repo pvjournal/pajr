@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "62yr old male with blackish discoloration of great toe,( post op  bradycardia)",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://bhavanag39.blogspot.com/2023/10/a-62-yrs-old-pt-came-to-gs-opd-with.html. SHA-256 of the retrieved article text: d10c69ebc42d6fcec42c801aec19a64916febd8c5a8d5d98c201c24b2c72f528. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://bhavanag39.blogspot.com/2023/10/a-62-yrs-old-pt-came-to-gs-opd-with.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

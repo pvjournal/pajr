@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "Imama Muhmeen : 88/F with RECURRENT HYPOGLYCEMIA AND ADRENAL INSUFFICIENCY. HYPOVOLEMIC SHOCK 2\u00b0 TO ACUTE GE(VIRAL TOXIN)",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://imamamuhmeen.blogspot.com/2023/03/88f-with-recurrent-hypoglycemia-and.html. SHA-256 of the retrieved article text: 0de77b31a2b40f39d4dbd8958e919d81b8183e76e3c3c386464548069f1b9b21. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://imamamuhmeen.blogspot.com/2023/03/88f-with-recurrent-hypoglycemia-and.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

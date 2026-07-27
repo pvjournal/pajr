@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "CHETANA KETA ROLL NO. 74: A 68 year old male with pedal edema, palpitations and shortness of breath",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://chetanaketarollno74.blogspot.com/2022/08/a-68-year-old-male-with-pedal-edema.html. SHA-256 of the retrieved article text: 82f0901bd31dbf00d80803cf50d678465b508b8f1e22fb8f2da8dc307dcf7bf4. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://chetanaketarollno74.blogspot.com/2022/08/a-68-year-old-male-with-pedal-edema.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "case 30 - 60F with Acute stroke",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://drkulkarnithesis.blogspot.com/2022/03/case-30-60f-with-acute-stroke.html. SHA-256 of the retrieved article text: fd5aa9360c152e98e4c79568db92717eef88583d0e6ff3026a15e2f28865d8ba. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://drkulkarnithesis.blogspot.com/2022/03/case-30-60f-with-acute-stroke.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

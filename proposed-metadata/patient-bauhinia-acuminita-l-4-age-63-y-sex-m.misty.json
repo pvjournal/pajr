@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "PATIENT: Bauhinia Acuminita L - 4 , Age - 63 y ,  Sex -  M .",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://736146.blogspot.com/2019/05/bauhinia-acuminita-l-4-age-63-y-sex-m.html. SHA-256 of the retrieved article text: 8ec6e309ff52a875ce2753ca6f33fbfc5695f8d84a48efd520101c1a93add4e9. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://736146.blogspot.com/2019/05/bauhinia-acuminita-l-4-age-63-y-sex-m.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

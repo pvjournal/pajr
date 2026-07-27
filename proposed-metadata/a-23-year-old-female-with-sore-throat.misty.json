@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "A 23 Year Old Female With Sore Throat",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://96sanjanapalakodeti.blogspot.com/2021/07/a-23-year-old-female-with-sore-throat.html. SHA-256 of the retrieved article text: d8c6c30538224310f4d1f3b5bf7918869c233bd14623ea92b70cc8d4402206fb. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://96sanjanapalakodeti.blogspot.com/2021/07/a-23-year-old-female-with-sore-throat.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

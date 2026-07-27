@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "PATIENT: Name -  Parsonia Spiralis  Well  - 3    Sex - M   Age - 45 y",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://736146.blogspot.com/2017/11/name-parsonia-spiralis-well-3-sex-m-age.html. SHA-256 of the retrieved article text: ddfe07b949b69f40cc5fbc2286216525d5ab7988b12d5bcaa03eb9b8a8d96f9a. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://736146.blogspot.com/2017/11/name-parsonia-spiralis-well-3-sex-m-age.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

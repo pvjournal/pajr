@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "58M with burning micturition",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://gouthajagadeesh37.blogspot.com/2023/10/58m-with-burning-micturition.html. SHA-256 of the retrieved article text: d6f7c36322e7f3b436683b9e8fe8f24d31134eb77084a99a01a4e6d0f6f362ed. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://gouthajagadeesh37.blogspot.com/2023/10/58m-with-burning-micturition.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

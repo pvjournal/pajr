@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "A 13 YEAR OLD BOY WITH YELLOWISH DISCOLORATION",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://animisha172.blogspot.com/2022/01/a-13-year-old-boy-with-yellowish.html. SHA-256 of the retrieved article text: ffb93b4c472c3ace36b1e51068c545faf0cae80f91731b866fef8786a3fad3d5. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://animisha172.blogspot.com/2022/01/a-13-year-old-boy-with-yellowish.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

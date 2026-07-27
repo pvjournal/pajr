@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "Tb meningitis",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://keerthireddy42.blogspot.com/2021/07/a-45-yr-old-male-is-chronic-alcoholic.html. SHA-256 of the retrieved article text: a238ae138ca83d6732d06d537650c3f51b42331948e1d591dc2869a556544162. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://keerthireddy42.blogspot.com/2021/07/a-45-yr-old-male-is-chronic-alcoholic.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

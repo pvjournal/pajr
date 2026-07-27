@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "65F DKA ; DM Since 20Y",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://drbnr.blogspot.com/2024/06/65f-dka-dm-since-20y.html. SHA-256 of the retrieved article text: d4d29f4185fd891dd6a3cdd6beac7ec7d68bb9c0658e17b728b4b59ad4c30005. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://drbnr.blogspot.com/2024/06/65f-dka-dm-since-20y.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

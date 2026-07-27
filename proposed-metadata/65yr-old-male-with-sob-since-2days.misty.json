@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "65yr old male with SOB since 2days",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://gayathrirollno22.blogspot.com/2023/06/65yr-old-male-with-sob-since-2days.html. SHA-256 of the retrieved article text: d6ad9499d079c63bb681792bc37a4abe5fa50289cedbbe944a9cf1f5a623e835. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://gayathrirollno22.blogspot.com/2023/06/65yr-old-male-with-sob-since-2days.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "A 65 year old male with weakness of left upper and lower limb",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://gsuhithagnaneswar.blogspot.com/2022/11/blog-post_27.html. SHA-256 of the retrieved article text: 121a658a39a7c447c8a5b99849ce1ed60049cf76acee76a39aa0fc29b362f085. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://gsuhithagnaneswar.blogspot.com/2022/11/blog-post_27.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

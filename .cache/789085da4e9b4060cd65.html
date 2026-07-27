@@ -1,0 +1,655 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <title>Terms &amp; Conditions · PaJR Health</title>
+  <meta name="description" content="Community Guidelines of PaJR Health Pvt Ltd. — the terms governing patients, doctors and volunteers on the platform, across India and the United Kingdom." />
+  <link rel="canonical" href="https://pajrhealth.com/community-guidelines/" />
+  <link rel="icon" type="image/svg+xml" href="/assets/submark%203.svg" />
+  <link rel="apple-touch-icon" href="/assets/favicon.png" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Plus+Jakarta+Sans:ital,wght@0,500;0,600;0,700;0,800;1,500;1,600&display=swap" />
+  <!-- Google Analytics 4 + Consent Mode v2 — same property + stored choice as the main app. -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-KH6CDJTY5Y"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    var _pjc=null; try{_pjc=localStorage.getItem('pajr_consent');}catch(e){}
+    gtag('consent','default',{
+      ad_storage:'denied', ad_user_data:'denied', ad_personalization:'denied',
+      analytics_storage:(_pjc==='granted')?'granted':'denied',
+      wait_for_update:500
+    });
+    gtag('js', new Date());
+    gtag('config', 'G-KH6CDJTY5Y');
+  </script>
+  <!-- Cookie decision banner — shown once, never again after a choice. Reopen via the footer link. -->
+  <script>
+  (function(){
+    var KEY='pajr_consent', stored=null;
+    try{stored=localStorage.getItem(KEY);}catch(e){}
+    function g(){ if(window.gtag) window.gtag.apply(null,arguments); }
+    function update(granted){ g('consent','update',{analytics_storage:granted?'granted':'denied'}); }
+    function save(v){ try{localStorage.setItem(KEY,v);}catch(e){} }
+    function style(){
+      if(document.getElementById('pjc-style')) return;
+      var s=document.createElement('style'); s.id='pjc-style';
+      s.textContent="#pajr-consent .pjc-card{position:fixed;left:16px;bottom:16px;z-index:58;max-width:min(420px,calc(100vw - 32px));background:var(--surface,#fff);color:var(--ink,#15212B);border:1px solid var(--line,#E7E3DA);border-radius:14px;box-shadow:0 8px 30px rgba(21,33,43,.16);padding:16px 18px;font-family:'Inter',system-ui,sans-serif;font-size:13.5px;line-height:1.5}"
+        +"#pajr-consent .pjc-txt strong{font-size:14.5px}"
+        +"#pajr-consent .pjc-txt a{color:var(--blue-deep,#0C4A7E);font-weight:600}"
+        +"#pajr-consent .pjc-btns{display:flex;gap:10px;margin-top:14px}"
+        +"#pajr-consent .pjc-btn{flex:1;padding:9px 14px;border-radius:10px;font-size:13.5px;font-weight:600;cursor:pointer;border:1px solid transparent;font-family:inherit}"
+        +"#pajr-consent .pjc-btn-primary{background:var(--coral,#FF6B5B);color:#fff}"
+        +"#pajr-consent .pjc-btn-ghost{background:transparent;color:var(--ink,#15212B);border-color:var(--line,#E7E3DA)}";
+      document.head.appendChild(s);
+    }
+    function banner(){
+      if(document.getElementById('pajr-consent')) return;
+      style();
+      var w=document.createElement('div'); w.id='pajr-consent';
+      w.innerHTML='<div class="pjc-card" role="dialog" aria-live="polite" aria-label="Cookie consent">'
+        +'<div class="pjc-txt"><strong>Cookies &amp; analytics</strong><br>'
+        +'We use Google Analytics to measure site traffic. It stays off until you accept. '
+        +'<a href="/community-guidelines/">Learn more</a>.</div>'
+        +'<div class="pjc-btns">'
+        +'<button type="button" id="pjc-reject" class="pjc-btn pjc-btn-ghost">Decline</button>'
+        +'<button type="button" id="pjc-accept" class="pjc-btn pjc-btn-primary">Accept</button>'
+        +'</div></div>';
+      document.body.appendChild(w);
+      function done(granted,v){ update(granted); save(v); if(w.parentNode)w.parentNode.removeChild(w); }
+      document.getElementById('pjc-accept').onclick=function(){done(true,'granted');};
+      document.getElementById('pjc-reject').onclick=function(){done(false,'denied');};
+    }
+    window.pajrOpenCookieSettings = banner;
+    function init(){ style(); if(stored!=='granted' && stored!=='denied'){ banner(); } }
+    if(document.body){ init(); } else { document.addEventListener('DOMContentLoaded',init); }
+  })();
+  </script>
+  <script>(function(){try{var t=localStorage.getItem('pajr_theme');if(t!=='dark'&&t!=='light'){t=(window.matchMedia&&window.matchMedia('(prefers-color-scheme: dark)').matches)?'dark':'light';}document.documentElement.setAttribute('data-theme',t);}catch(e){}})();</script>
+  <style>
+    :root{
+      --blue:#0284C7;--blue-deep:#0C4A7E;--blue-soft:#E8F5FC;
+      --coral:#FF6B5B;--coral-soft:#FFF1EF;--coral-deep:#E04A39;
+      --ink:#15212B;--ink1:#1E293B;--ink2:#475569;--ink3:#94A3B8;--teal:#0d9488;
+      --paper:#FBFAF7;--paper2:#F2F0EA;--line:#E7E3DA;
+      --brand-mark:#0C4A7E;
+      --surface:#ffffff;--surface2:#fafbfc;
+      --r:14px;
+    }
+    [data-theme="dark"]{
+      --blue:#4AA6E6;--blue-deep:#CFE6F7;--blue-soft:#15293B;
+      --coral:#FF7D6F;--coral-soft:#2C1B18;--coral-deep:#FF8A7B;
+      --ink:#E8EEF4;--ink1:#D8E2EC;--ink2:#A6B3C1;--ink3:#74838F;--teal:#2DD4BF;
+      --paper:#0E1621;--paper2:#172230;--line:#27333F;
+      --brand-mark:#E8EEF4;
+      --surface:#172230;--surface2:#1D2937;
+    }
+    *{box-sizing:border-box;margin:0;padding:0}
+    html{scroll-behavior:smooth}
+    body{font-family:'Inter',system-ui,sans-serif;background:var(--paper);color:var(--ink);
+      -webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility;font-size:16px;line-height:1.65;min-height:100vh;display:flex;flex-direction:column}
+    a{color:var(--blue);text-decoration:none}
+    a:hover{text-decoration:underline}
+    ::selection{background:var(--coral-soft);color:var(--coral-deep)}
+
+    /* ── pill nav (mirrors the app's hero-nav) ─────────────────────── */
+    .pnav{position:sticky;top:0;z-index:50;display:flex;justify-content:center;padding:14px 16px 6px;pointer-events:none}
+    .pnav-inner{pointer-events:auto;display:flex;align-items:center;gap:6px;background:rgba(255,255,255,.88);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);border:1px solid rgba(12,74,126,.1);border-radius:100px;padding:6px 8px;box-shadow:0 2px 16px rgba(12,74,126,.08);max-width:calc(100vw - 32px)}
+    [data-theme="dark"] .pnav-inner{background:rgba(23,34,48,.92);border-color:rgba(255,255,255,.08);box-shadow:0 2px 16px rgba(0,0,0,.35)}
+    .pnav-logo{display:flex;align-items:center;padding:0 10px 0 6px}
+    .pnav-logo img{height:34px;width:auto;display:block}
+    .hn-link{color:var(--ink2);text-decoration:none;font-size:13.5px;font-weight:500;padding:7px 14px;border-radius:100px;white-space:nowrap;transition:all .15s;letter-spacing:-.01em;border:none;background:none;cursor:pointer;font-family:inherit}
+    .hn-link:hover{background:var(--blue-soft);color:var(--blue-deep);text-decoration:none}
+    .hn-link.on{background:var(--blue-soft);color:var(--blue-deep);font-weight:600}
+    .hn-pro-ribbon{display:inline-flex;align-items:center;gap:8px;background:linear-gradient(135deg,#F59E0B,#D97706);color:#fff !important;font-weight:800;font-size:17px;letter-spacing:.04em;padding:7px 15px;border-radius:99px;box-shadow:0 2px 10px rgba(217,119,6,.4);border:1.5px solid #fff;text-decoration:none;flex-shrink:0;font-family:inherit;transition:all .15s}
+    .hn-pro-ribbon:hover{background:linear-gradient(135deg,#D97706,#B45309);color:#fff !important;box-shadow:0 4px 16px rgba(217,119,6,.44)}
+    .hn-m-item.hn-m-pro{display:flex;align-items:center;padding:11px 22px}
+    .hn-ext::after{content:"↗";font-size:11px;margin-left:4px;opacity:.6}
+    /* "The Database" — wordmark image instead of text (light/dark pair) */
+    .db-word-light{display:block}
+    .db-word-dark{display:none}
+    [data-theme="dark"] .db-word-light{display:none}
+    [data-theme="dark"] .db-word-dark{display:block}
+    .hn-db{display:inline-flex;align-items:center}
+    .hn-db img{height:13px;width:auto}
+    .hn-m-item.hn-m-db{display:flex;align-items:center;gap:6px}
+    .hn-m-db img{height:14px;width:auto}
+    .hn-m-db .hn-m-ext{font-size:12px;opacity:.6}
+    .hn-lang-btn{display:inline-flex;align-items:center;gap:6px;background:transparent;border:1px solid rgba(12,74,126,.12);border-radius:100px;padding:6px 12px;cursor:pointer;color:var(--ink1);font-family:inherit;font-size:12.5px;font-weight:600;flex-shrink:0;margin-left:2px;transition:all .15s}
+    .hn-lang-btn:hover{background:var(--blue-soft)}
+    [data-theme="dark"] .hn-lang-btn{border-color:rgba(255,255,255,.14)}
+    .hn-lang-globe{font-size:13px}
+    .hn-lang-card{max-height:70vh;overflow:auto;min-width:220px}
+    .hn-lang-head{padding:14px 22px 10px;font-size:12px;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:var(--ink3);border-bottom:1px solid var(--line)}
+    .hn-lang-item{display:flex;justify-content:space-between;align-items:center;width:100%;text-align:left;padding:13px 22px;background:none;border:none;border-bottom:1px solid var(--line);font-size:15px;font-weight:500;color:var(--ink1);cursor:pointer;font-family:inherit}
+    .hn-lang-item:last-child{border-bottom:none}
+    .hn-lang-item:hover{background:var(--blue-soft)}
+    .hn-lang-item.active{color:var(--blue-deep);font-weight:700}
+    .theme-toggle{background:transparent;border:1px solid rgba(12,74,126,.12);display:flex;align-items:center;justify-content:center;width:34px;height:34px;border-radius:100px;cursor:pointer;color:var(--ink1);transition:all .15s;flex-shrink:0;margin-left:4px}
+    [data-theme="dark"] .theme-toggle{border-color:rgba(255,255,255,.14)}
+    .hn-menu-btn{display:none;background:transparent;border:none;width:38px;height:38px;border-radius:100px;align-items:center;justify-content:center;color:var(--ink1);cursor:pointer;flex-shrink:0}
+    .hn-mobile-sheet{position:fixed;inset:0;z-index:60;background:rgba(21,33,43,.35);display:flex;align-items:flex-start;justify-content:center;padding-top:70px}
+    .hn-mobile-card{background:var(--surface);border-radius:18px;box-shadow:0 20px 60px rgba(12,74,126,.25);min-width:240px;max-width:calc(100vw - 32px);overflow:hidden}
+    .hn-m-item{display:block;padding:15px 22px;color:var(--ink1);text-decoration:none;font-size:15px;font-weight:500;border-bottom:1px solid var(--line)}
+    .hn-m-item:last-child{border-bottom:none}
+    .hn-m-item:hover{background:var(--blue-soft);text-decoration:none}
+    .hn-m-item.on{color:var(--blue-deep);font-weight:700}
+    @media(max-width:900px){
+      .pnav-links{display:none}
+      .hn-menu-btn{display:flex}
+    }
+
+    /* ── article ───────────────────────────────────────────────────── */
+    .page{flex:1;width:100%;max-width:780px;margin:0 auto;padding:46px 22px 90px}
+    .page-kicker{font-size:12.5px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:var(--coral-deep);margin-bottom:14px}
+    h1{font-family:'Plus Jakarta Sans',sans-serif;font-weight:800;font-size:clamp(32px,6vw,46px);line-height:1.14;letter-spacing:-.01em;margin-bottom:8px}
+    .doc-org{font-family:'Plus Jakarta Sans',sans-serif;font-weight:700;font-size:20px;color:var(--ink1);margin-bottom:14px}
+    .doc-meta{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:26px}
+    .meta-chip{background:var(--surface2);border:1px solid var(--line);border-radius:100px;padding:5px 14px;font-size:12.5px;font-weight:600;color:var(--ink2)}
+    .intro{background:var(--blue-soft);border:1px solid var(--line);border-radius:var(--r);padding:18px 22px;font-size:15.5px;color:var(--ink1);margin-bottom:28px;line-height:1.7}
+    .toc{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:18px 22px;margin-bottom:34px}
+    .toc-h{font-size:12.5px;font-weight:800;letter-spacing:.1em;text-transform:uppercase;color:var(--ink3);margin-bottom:10px}
+    .toc ol{margin:0 0 0 20px;columns:2;column-gap:28px;font-size:14px}
+    .toc li{margin-bottom:6px;break-inside:avoid}
+    .toc a{color:var(--ink1);font-weight:500}
+    .toc a:hover{color:var(--blue-deep)}
+    @media(max-width:640px){.toc ol{columns:1}}
+    .prose p{margin:0 0 16px;color:var(--ink1);font-size:15.5px}
+    .prose h2{font-family:'Plus Jakarta Sans',sans-serif;font-weight:700;font-size:clamp(21px,3.4vw,26px);line-height:1.3;margin:42px 0 14px;letter-spacing:-.01em;scroll-margin-top:80px}
+    .prose h2 .num{color:var(--coral-deep);margin-right:10px}
+    .prose h3{font-size:16.5px;font-weight:700;margin:24px 0 10px;color:var(--ink)}
+    .prose strong{color:var(--ink);font-weight:700}
+    .prose ul{margin:0 0 16px 22px;color:var(--ink1);font-size:15.5px}
+    .prose li{margin-bottom:8px}
+    .emergency{background:var(--coral-soft);border:1px solid var(--coral);border-radius:var(--r);padding:16px 20px;margin:20px 0;font-size:15px;color:var(--ink);font-weight:500;line-height:1.65}
+    .emergency strong{color:var(--coral-deep)}
+    .ai-note{background:var(--blue-soft);border:1px solid var(--blue);border-radius:var(--r);padding:16px 20px;margin:20px 0;font-size:15px;color:var(--ink);line-height:1.65}
+    .ai-note strong{color:var(--blue-deep)}
+
+    /* ── footer (mirrors the app's site-footer) ─────────────────────── */
+    .site-footer{width:100%;background:var(--paper2);border-top:1px solid var(--line);padding:22px 24px 18px;text-align:center;font-size:12.5px;color:var(--ink3);line-height:1.7}
+    [data-theme="dark"] .site-footer{background:var(--surface)}
+    .site-footer a{color:var(--ink2);text-decoration:none;font-weight:500}
+    .site-footer a:hover{color:var(--blue-deep);text-decoration:underline}
+    .site-footer-row{display:flex;flex-wrap:wrap;justify-content:center;align-items:center;gap:6px 18px;margin-bottom:10px}
+    .site-footer-divider{color:var(--line)}
+    .footer-badges{display:flex;flex-wrap:wrap;justify-content:center;gap:10px;margin-bottom:12px}
+    .footer-badge{display:inline-flex;align-items:center;gap:7px;background:var(--surface2);border:1px solid var(--line);border-radius:100px;padding:6px 14px;font-size:12px;font-weight:600;color:var(--ink2)}
+    @media(max-width:820px){.site-footer{padding:18px 16px 14px;font-size:12px}}
+  
+    /* ── watch-the-film menu item + on-page lightbox (2026-07-21) ── */
+    .hn-m-watch{display:flex;align-items:center;width:100%;background:none;border:none;border-bottom:1px solid var(--line);padding:13px 22px;font-size:15px;font-weight:500;color:var(--ink1);cursor:pointer;font-family:inherit;text-align:start}
+    .hn-m-watch:hover{background:var(--blue-soft)}
+    .hn-m-watch b{font-weight:800;margin:0 .28em}
+    .hn-m-min{margin-left:auto;padding-left:14px;font-size:11.5px;font-weight:800;color:var(--ink3);letter-spacing:.03em}
+    .hn-m-watch .hn-m-favbox{width:26px;height:26px;border-radius:7px;background:#EAF4FE;display:inline-flex;align-items:center;justify-content:center;margin-right:10px;flex-shrink:0}
+    [data-theme="dark"] .hn-m-watch .hn-m-favbox{background:rgba(29,155,240,.16)}
+    .hn-m-watch .hn-m-favbox svg{width:16px;height:auto;display:block}
+    .film-lightbox{position:fixed;inset:0;z-index:80;background:rgba(10,20,32,.88);backdrop-filter:blur(6px);-webkit-backdrop-filter:blur(6px);display:flex;align-items:center;justify-content:center;padding:14px}
+    .film-frame{width:min(1100px,96vw);height:min(680px,90vh);background:var(--paper);border-radius:20px;overflow:hidden;box-shadow:0 30px 90px rgba(0,0,0,.5);position:relative}
+    .film-frame iframe{width:100%;height:100%;border:none;display:block}
+    .film-close{position:absolute;top:12px;right:12px;z-index:5;width:38px;height:38px;border-radius:50%;background:rgba(255,255,255,.92);border:1px solid #E7E3DA;cursor:pointer;display:flex;align-items:center;justify-content:center;color:#15212B;box-shadow:0 4px 16px rgba(0,0,0,.3);font-size:15px;font-weight:700}
+  
+    /* ── unified film button in the menu (same as the app's, 2026-07-21) ── */
+    .hn-m-unitwrap{padding:10px 14px;border-bottom:1px solid var(--line)}
+    .gdu{display:inline-flex;align-items:center;justify-content:center;width:100%;gap:11px;height:44px;box-sizing:border-box;padding-inline:14px;border-radius:12px;background:var(--surface);border:1.5px solid var(--line);box-shadow:0 1px 2px rgba(9,30,44,.05),0 4px 14px rgba(12,74,126,.06);cursor:pointer;text-decoration:none;transition:transform .15s ease,box-shadow .15s ease,border-color .15s ease;font-family:inherit}
+    .gdu:hover{transform:translateY(-1px);box-shadow:0 2px 4px rgba(9,30,44,.05),0 9px 24px rgba(12,74,126,.11)}
+    .gdu:active{transform:translateY(0) scale(.985)}
+    .gdu-watch{background:#FFF6EF;border-color:#F2CFC0}
+    .gdu-watch:hover{border-color:#EFC3B2}
+    [data-theme="dark"] .gdu-watch{background:#2E2420;border-color:#4A382F}
+    [data-theme="dark"] .gdu-watch:hover{border-color:#5C463C}
+    .gdx-tx{display:inline-flex;align-items:baseline;gap:.34em;text-transform:uppercase;letter-spacing:.05em;font-family:'Plus Jakarta Sans','Inter','Figtree',system-ui,sans-serif;font-size:14.5px;font-weight:700;color:var(--ink);line-height:1.2;white-space:nowrap}
+    .gdx-brand{font-weight:800}
+    [data-theme="dark"] .gdx-tx{color:#F1F5F9}
+    .wf-play{width:26px;height:26px;border-radius:8px;background:#EAF4FE;display:inline-flex;align-items:center;justify-content:center;flex-shrink:0}
+    [data-theme="dark"] .wf-play{background:rgba(29,155,240,.16)}
+    .wf-menu-min{font-size:11px;color:var(--ink3);font-weight:800;margin-left:4px}
+
+    /* ── film pop-up tabs — EXACT replicas of the hamburger-menu film buttons,
+       centred side-by-side at every width; the active film is marked subtly ── */
+    .film-frame{display:flex;flex-direction:column}
+    .film-frame iframe{flex:1;min-height:0}
+    .film-tabs{display:flex;gap:clamp(7px,1.6vw,10px);padding:10px 52px;background:var(--paper,#FBFAF7);border-bottom:1px solid var(--line,#E7E3DA);flex-wrap:nowrap;align-items:center;justify-content:center}
+    [data-theme="dark"] .film-tabs{background:#0E1621;border-color:#27333F}
+    .film-tabs .gdu{position:relative;flex:0 1 auto;min-width:0;display:inline-flex;align-items:center;justify-content:center;width:auto;height:44px;box-sizing:border-box;padding-inline:clamp(9px,1.8vw,14px);gap:clamp(6px,1.4vw,11px);border-radius:12px;border:1.5px solid var(--line,#E7E3DA);background:var(--surface,#fff);box-shadow:0 1px 2px rgba(9,30,44,.05),0 4px 14px rgba(12,74,126,.06);cursor:pointer;font-family:inherit;text-decoration:none;opacity:.72;transition:transform .15s ease,opacity .15s ease,box-shadow .15s ease,border-color .15s ease}
+    .film-tabs .gdu:hover{opacity:.92;transform:translateY(-1px);box-shadow:0 2px 4px rgba(9,30,44,.05),0 9px 24px rgba(12,74,126,.11)}
+    .film-tabs .gdu:active{transform:translateY(0) scale(.985)}
+    .film-tabs .gdu.on{opacity:1;box-shadow:0 2px 4px rgba(9,30,44,.05),0 9px 24px rgba(12,74,126,.11)}
+    .film-tabs .gdu.on::after{content:"";position:absolute;left:50%;transform:translateX(-50%);bottom:4px;width:20px;height:2.5px;border-radius:2px;background:var(--coral,#FF6B5B);opacity:.85}
+    [data-theme="dark"] .film-tabs .gdu{background:#232933;border-color:#3A414B;box-shadow:0 1px 2px rgba(0,0,0,.45),0 6px 18px rgba(0,0,0,.3)}
+    .film-tabs .gdu-watch-grp{background:#F2FAF6;border-color:#CFE8DC}
+    .film-tabs .gdu-watch-grp:hover,.film-tabs .gdu-watch-grp.on{border-color:#BBDCCB}
+    .film-tabs .gdu-watch-ai{background:#F5FAFF;border-color:#CBE3F7}
+    .film-tabs .gdu-watch-ai:hover,.film-tabs .gdu-watch-ai.on{border-color:#B5D6F0}
+    [data-theme="dark"] .film-tabs .gdu-watch-grp{background:#14312B;border-color:#245B4E}
+    [data-theme="dark"] .film-tabs .gdu-watch-grp:hover,[data-theme="dark"] .film-tabs .gdu-watch-grp.on{border-color:#2E7362}
+    [data-theme="dark"] .film-tabs .gdu-watch-ai{background:#152A42;border-color:#28455F}
+    [data-theme="dark"] .film-tabs .gdu-watch-ai:hover,[data-theme="dark"] .film-tabs .gdu-watch-ai.on{border-color:#33587A}
+    .film-tabs .wf-play{width:clamp(20px,4vw,26px);height:clamp(20px,4vw,26px);border-radius:8px;background:#EAF4FE;display:inline-flex;align-items:center;justify-content:center;flex-shrink:0}
+    [data-theme="dark"] .film-tabs .wf-play{background:rgba(29,155,240,.16)}
+    .film-tabs .wf-play svg{width:clamp(12px,3vw,16px);height:auto;display:block}
+    .film-tabs .gdx-tx{display:inline-flex;align-items:baseline;gap:.34em;min-width:0;overflow:hidden;text-overflow:ellipsis;text-transform:uppercase;letter-spacing:.05em;font-family:'Plus Jakarta Sans','Inter','Figtree',system-ui,sans-serif;font-size:clamp(11px,2.6vw,14.5px);font-weight:700;color:var(--ink,#15212B);line-height:1.2;white-space:nowrap}
+    .film-tabs .gdx-brand{font-weight:800}
+    [data-theme="dark"] .film-tabs .gdx-tx{color:#F1F5F9}
+    .film-tabs .wf-menu-min{font-size:clamp(9px,1.9vw,11px);color:var(--ink3,#94A3B8);font-weight:800;margin-left:4px}
+    @media(max-width:640px){
+      .film-lightbox .film-close{width:30px;height:30px;top:6px;right:6px}
+      .film-tabs{padding:38px 10px 8px;gap:8px}
+      .film-tabs .gdu{height:38px;padding-inline:clamp(7px,2vw,10px);gap:5px}
+      .film-tabs .gdu.on::after{bottom:3px;width:16px;height:2px}
+      .film-tabs .gdx-tx{font-size:clamp(8.6px,2.72vw,10.6px);letter-spacing:.04em}
+      .film-tabs .wf-play{width:20px;height:20px}
+      .film-tabs .wf-play svg{width:13px}
+      .film-tabs .wf-menu-min{display:none}
+    }
+    @media(max-width:352px){
+      .film-tabs .gdu{padding-inline:6px;gap:4px}
+      .film-tabs .gdx-tx{letter-spacing:.02em}
+    }
+    /* the two menu film buttons keep their gentle matching tints */
+    .gdu-watch-grp{background:#F2FAF6;border-color:#CFE8DC}
+    .gdu-watch-grp:hover{border-color:#BBDCCB}
+    .gdu-watch-ai{background:#F5FAFF;border-color:#CBE3F7}
+    .gdu-watch-ai:hover{border-color:#B5D6F0}
+    [data-theme="dark"] .gdu-watch-grp{background:#14312B;border-color:#245B4E}
+    [data-theme="dark"] .gdu-watch-grp:hover{border-color:#2E7362}
+    [data-theme="dark"] .gdu-watch-ai{background:#152A42;border-color:#28455F}
+    [data-theme="dark"] .gdu-watch-ai:hover{border-color:#33587A}
+    /* after-film steps read down the left column first, then the right */
+    .af-steps ol{grid-template-columns:1fr 1fr;grid-template-rows:repeat(3,auto);grid-auto-flow:column}
+    @media(max-width:640px){.af-steps ol{grid-template-columns:1fr;grid-template-rows:none;grid-auto-flow:row}}
+
+  </style>
+  <style>
+    /* round 16: nav condensed to burger-logo-lang-theme on every width; the
+       Get PRO and Database links live in the hamburger sheet. */
+    .pnav .pnav-links{display:none!important}
+    .pnav .hn-menu-btn{display:flex!important}
+    .pnav-inner>.hn-menu-btn{order:1}.pnav-inner>.pnav-logo{order:2}.pnav-inner>.hn-lang-btn{order:3}.pnav-inner>.theme-toggle{order:4}
+    .pnav .hn-mobile-sheet,.hn-mobile-sheet{pointer-events:auto}
+    .hn-m-favbox{width:26px;height:26px;border-radius:7px;background:#EAF4FE;display:inline-flex;align-items:center;justify-content:center;margin-right:10px;vertical-align:-7px}
+    .hn-m-favbox img{width:16px;height:16px;display:block}
+    [data-theme="dark"] .hn-m-favbox{background:rgba(29,155,240,.16)}
+    .hn-m-create b{font-weight:800}
+  </style>
+  <style>
+    /* round 22: sheet lockup units + bottom-flush PRO badge */
+    .hn-m-units{display:grid;gap:9px;padding:12px 14px 13px;border-bottom:1px solid var(--line)}
+    .gdu{display:flex;align-items:center;justify-content:center;gap:9px;height:42px;box-sizing:border-box;padding:0 12px;border-radius:11px;background:var(--surface,#fff);border:1.5px solid var(--line);text-decoration:none;cursor:pointer}
+    .gdu:hover{text-decoration:none}
+    .gdu-db{background:#F5FAFF;border-color:#CBE3F7}
+    .gdu-mark{display:flex;align-items:center;flex-shrink:0}
+    .gdx-tx{font-family:'Plus Jakarta Sans','Inter',system-ui,sans-serif;font-size:14.5px;font-weight:700;color:var(--ink1);line-height:1.2;white-space:nowrap}
+    .gdx-brand{font-weight:800}
+    .gdu-dbmark{height:15px;width:auto;display:block}
+    .gdx-word{height:18px;width:auto;display:block}
+    .db-mark-dark,.gdw-dark{display:none}
+    [data-theme="dark"] .gdu{background:#232933;border-color:#3A414B}
+    [data-theme="dark"] .gdu-db{background:#152A42;border-color:#28455F}
+    [data-theme="dark"] .gdx-tx{color:#F1F5F9}
+    [data-theme="dark"] .db-mark-light{display:none}
+    [data-theme="dark"] .db-mark-dark{display:block}
+    [data-theme="dark"] .gdw-light{display:none}
+    [data-theme="dark"] .gdw-dark{display:block}
+    .hn-m-item.hn-m-pro{align-items:center}
+    .hn-m-probadge{background:linear-gradient(135deg,#F59E0B,#D97706);color:#fff;font-size:10.5px;font-weight:800;letter-spacing:.05em;padding:3px 8px;border-radius:99px;line-height:1.15;transform:translateY(-1.6px)}
+    .hn-m-protx{line-height:1;display:inline-block}
+    .gdu-page{height:52px;border-radius:14px;padding:0 22px;gap:11px}
+    .gdu-page .gdx-tx{font-size:17px}
+    .gdu-page .gdu-dbmark{height:19px}
+    .gdu-page .gdx-word{height:23px}
+    .gdx-row-page{display:flex;flex-wrap:wrap;gap:14px;align-items:center;margin:26px 0 8px}
+    @media(max-width:640px){.gdx-row-page{flex-direction:column;align-items:stretch}.gdu-page{width:100%}}
+  </style>
+  <style>
+    /* round 26: bar + lockups = exact app-hero replicas (hardcoded app values) */
+    .pnav{padding:14px 16px}
+    .pnav .hn-menu-btn{display:flex!important;width:38px;height:38px;border-radius:100px;color:#1E293B}
+    .pnav .hn-menu-btn:hover{background:rgba(12,74,126,.06)}
+    .pnav .hn-lang-btn{font-family:'Inter','DM Sans',system-ui,sans-serif;height:30px;box-sizing:border-box;line-height:1;font-size:13px;padding:6px 12px 6px 10px;margin-left:4px;gap:5px;border:1px solid rgba(12,74,126,.12);border-radius:100px;color:#1E293B}
+    .pnav .theme-toggle{width:34px;height:34px;border:1px solid rgba(12,74,126,.12);border-radius:100px;color:#1E293B}
+    [data-theme="dark"] .pnav .hn-menu-btn,[data-theme="dark"] .pnav .hn-lang-btn,[data-theme="dark"] .pnav .theme-toggle{color:#D8E2EC}
+    [data-theme="dark"] .pnav .hn-lang-btn,[data-theme="dark"] .pnav .theme-toggle{border-color:rgba(255,255,255,.14)}
+    .hn-lang-globe{font-size:14px;line-height:1}
+    .hn-lang-code{max-width:80px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+    .pnav-logo{padding:0 8px 0 5px}
+    .pnav-logo img{height:34px;width:auto;display:block}
+    .gdu{background:#fff;border:1.5px solid #E7E3DA;box-shadow:0 1px 2px rgba(9,30,44,.05),0 4px 14px rgba(12,74,126,.06);transition:transform .15s ease,filter .15s ease,box-shadow .15s ease}
+    .gdu:hover{transform:translateY(-1px);box-shadow:0 2px 4px rgba(9,30,44,.05),0 9px 24px rgba(12,74,126,.11);text-decoration:none}
+    .gdu:active{transform:translateY(0) scale(.985)}
+    .gdu-db{background:#F5FAFF;border-color:#CBE3F7}
+    .gdx-tx{color:#15212B;font-family:'Plus Jakarta Sans','Inter','Figtree',system-ui,sans-serif}
+    [data-theme="dark"] .gdu{background:#232933;border-color:#3A414B;box-shadow:0 1px 2px rgba(0,0,0,.45),0 6px 18px rgba(0,0,0,.3)}
+    [data-theme="dark"] .gdu-db{background:#152A42;border-color:#28455F}
+    [data-theme="dark"] .gdx-tx{color:#F1F5F9}
+    .hn-pro-ribbon{font-size:17px;gap:8px;padding:6px 16px}
+    @media(max-width:640px){.pnav-inner{padding:5px 7px;gap:4px}.pnav .theme-toggle{width:32px;height:32px}.pnav .hn-lang-code{display:none}}
+  </style>
+</head>
+<body>
+  <nav class="pnav" aria-label="Main">
+    <div class="pnav-inner">
+      <button class="hn-menu-btn" id="menuBtn" aria-label="Menu" title="Menu">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+      </button>
+      <a class="pnav-logo" href="/" aria-label="PaJR Health home">
+        <img src="/assets/favicon.svg" alt="PaJR Health" />
+      </a>
+      <span class="pnav-links">
+        <a class="hn-link hn-ext hn-db" href="https://research.pajrhealth.com" target="_blank" rel="noopener noreferrer" title="The Database" aria-label="The Database"><img class="db-word-light" src="/assets/for%20white%20bg%20without%20logo.svg" alt="The Database"><img class="db-word-dark" src="/assets/for%20black%20bg%20without%20logo.svg" alt="The Database"></a>
+        <a class="hn-pro-ribbon" href="/?pro=1"><svg width="26" height="12" viewBox="0 0 239 111" fill="none" style="display:inline-block;vertical-align:middle;flex-shrink:0"><path d="M0 0V111H23.5379L64.5783 0H0Z" fill="#fff"/><path d="M82.6843 0L41.6439 111H68.803L86.5973 61.5326H173.818L197.356 0H82.6843Z" fill="#fff"/><path d="M141.227 111H86.9091L101.394 76.0109H169.593L158.126 111H147.866L150.28 104.364H143.641L141.227 111Z" fill="#fff"/><path d="M239 111H175.025L215.789 0H239V111Z" fill="#fff"/></svg>PRO</a>
+        <a class="hn-link" href="/about/">About</a>
+        <a class="hn-link" href="/consent-form/">Consent Forms</a>
+        <a class="hn-link on" href="/community-guidelines/" aria-current="page">Terms</a>
+        <a class="hn-link" href="/cdn-cgi/l/email-protection#8ffcfaffffe0fdfbcfffeee5fde7eaeee3fbe7a1ece0e2">Contact</a>
+      </span>
+      <button class="hn-lang-btn" id="langBtn" aria-label="Language" title="Language / भाषा">
+        <span class="hn-lang-globe">🌐</span><span class="hn-lang-code" id="langCode">English</span>
+      </button>
+      <button class="theme-toggle" id="themeBtn" aria-label="Toggle theme" title="Toggle theme">
+        <svg id="iconMoon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>
+        <svg id="iconSun" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:none"><circle cx="12" cy="12" r="4"/><line x1="12" y1="2" x2="12" y2="4"/><line x1="12" y1="20" x2="12" y2="22"/><line x1="4.2" y1="4.2" x2="5.6" y2="5.6"/><line x1="18.4" y1="18.4" x2="19.8" y2="19.8"/><line x1="2" y1="12" x2="4" y2="12"/><line x1="20" y1="12" x2="22" y2="12"/><line x1="4.2" y1="19.8" x2="5.6" y2="18.4"/><line x1="18.4" y1="5.6" x2="19.8" y2="4.2"/></svg>
+      </button>
+    </div>
+    <div class="hn-mobile-sheet" id="mobileSheet" style="display:none">
+      <div class="hn-mobile-card">
+        <div class="hn-m-units"><a class="gdu gdu-create gdu-menu" href="/consent-form/"><span class="gdu-mark"><svg width="32" height="15" viewBox="0 0 239 111" fill="none"><path d="M0 0V111H23.5379L64.5783 0H0Z" fill="#1D9BF0"/><path d="M82.6843 0L41.6439 111H68.803L86.5973 61.5326H173.818L197.356 0H82.6843Z" fill="#1D9BF0"/><path d="M141.227 111H86.9091L101.394 76.0109H169.593L158.126 111H147.866L150.28 104.364H143.641L141.227 111Z" fill="#1D9BF0"/><path d="M239 111H175.025L215.789 0H239V111Z" fill="#1D9BF0"/></svg></span><span class="gdx-tx">Create Your <b class="gdx-brand">PaJR</b></span></a><a class="gdu gdu-db gdu-menu" href="https://research.pajrhealth.com" target="_blank" rel="noopener noreferrer"><span class="gdu-mark"><img class="gdu-dbmark db-mark-light" src="/assets/black%20logo.svg" alt=""><img class="gdu-dbmark db-mark-dark" src="/assets/white%20logo.svg" alt=""></span><img class="gdx-word gdw-light" src="/assets/for%20white%20bg%20without%20logo.svg" alt="PaJR Health Database"><img class="gdx-word gdw-dark" src="/assets/for%20black%20bg%20without%20logo.svg" alt="PaJR Health Database"></a></div>
+                <div class="hn-m-unitwrap"><button class="gdu gdu-watch gdu-watch-grp gdu-menu" id="hnWatchFilm" type="button"><span class="wf-play"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><circle cx="12" cy="12" r="10" stroke="#1D9BF0" stroke-width="1.8"/><path d="M10 8.6v6.8c0 .5.55.8.98.53l5.02-3.4c.4-.27.4-.86 0-1.13l-5.02-3.4c-.43-.27-.98.03-.98.6z" fill="#1D9BF0"/></svg></span><span class="gdx-tx">How <b class="gdx-brand">PaJR</b> works<span class="wf-menu-min">· 1 min</span></span></button></div>
+                <div class="hn-m-unitwrap"><button class="gdu gdu-watch gdu-watch-ai gdu-menu" id="hnWatchFilm2" type="button"><span class="wf-play"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><circle cx="12" cy="12" r="10" stroke="#1D9BF0" stroke-width="1.8"/><path d="M10 8.6v6.8c0 .5.55.8.98.53l5.02-3.4c.4-.27.4-.86 0-1.13l-5.02-3.4c-.43-.27-.98.03-.98.6z" fill="#1D9BF0"/></svg></span><span class="gdx-tx">Meet the <b class="gdx-brand">PaJR</b> AI<span class="wf-menu-min">· 90 sec</span></span></button></div>
+         <a class="hn-m-item hn-m-pro" href="/?pro=1"><span class="hn-pro-ribbon"><svg width="26" height="12" viewBox="0 0 239 111" fill="none" style="display:inline-block;vertical-align:middle;flex-shrink:0"><path d="M0 0V111H23.5379L64.5783 0H0Z" fill="#fff"/><path d="M82.6843 0L41.6439 111H68.803L86.5973 61.5326H173.818L197.356 0H82.6843Z" fill="#fff"/><path d="M141.227 111H86.9091L101.394 76.0109H169.593L158.126 111H147.866L150.28 104.364H143.641L141.227 111Z" fill="#fff"/><path d="M239 111H175.025L215.789 0H239V111Z" fill="#fff"/></svg>PRO</span></a>
+        <a class="hn-m-item" href="/about/">About</a>
+        
+        <a class="hn-m-item on" href="/community-guidelines/">Terms &amp; Conditions</a>
+        <a class="hn-m-item" href="/cdn-cgi/l/email-protection#97e4e2e7e7f8e5e3d7e7f6fde5fff2f6fbe3ffb9f4f8fa">Contact</a>
+      </div>
+    </div>
+    <div class="hn-mobile-sheet" id="langSheet" style="display:none">
+      <div class="hn-mobile-card hn-lang-card">
+        <div class="hn-lang-head">Choose your language</div>
+        <div id="langList"></div>
+      </div>
+    </div>
+  </nav>
+
+  <main class="page">
+    <div class="page-kicker">Community Guidelines</div>
+    <h1>Terms &amp; Conditions</h1>
+    <div class="doc-org">PaJR Health Pvt Ltd.</div>
+    <div class="doc-meta">
+      <span class="meta-chip">Applicable Jurisdictions: India &amp; United Kingdom</span>
+      <span class="meta-chip">Last Updated: May 1, 2026</span>
+      <span class="meta-chip">Version: 1.0</span>
+    </div>
+
+    <div class="intro">These Community Guidelines govern all users of PaJR Health Pvt Ltd. (the "Platform"), including Patients (individuals submitting health information), Doctors (registered medical professionals), and Volunteers. By using this Platform, you explicitly agree to be bound by these Guidelines. Violation of these terms may result in suspension, termination, or legal action.</div>
+
+    <div class="toc">
+      <div class="toc-h">On this page</div>
+      <ol>
+        <li><a href="#s1">Purpose and Mission</a></li>
+        <li><a href="#s2">User Categories and Roles</a></li>
+        <li><a href="#s3">Acceptable Use — Patients</a></li>
+        <li><a href="#s4">Acceptable Use — Doctors and Volunteers</a></li>
+        <li><a href="#s5">Health Data Standards</a></li>
+        <li><a href="#s6">Content Standards</a></li>
+        <li><a href="#s7">Enforcement and Sanctions</a></li>
+        <li><a href="#s8">Intellectual Property</a></li>
+        <li><a href="#s9">Medical Disclaimers</a></li>
+        <li><a href="#s10">Special Provisions — Minors</a></li>
+        <li><a href="#s11">Amendments</a></li>
+        <li><a href="#s12">Governing Law</a></li>
+      </ol>
+    </div>
+
+    <article class="prose">
+      <h2 id="s1"><span class="num">1.</span>PURPOSE AND MISSION</h2>
+      <p>The Platform exists to provide a space where individuals can share health data in a conversational, narrative-driven manner. Users can receive information from qualified doctors and volunteers while contributing de-identified health data to broader public health research. Our community is built on the principles of dignity, accuracy, safety, and mutual respect.</p>
+      <p>These Guidelines apply to all users in India and the United Kingdom. They are designed to ensure compliance with applicable laws, including the UK Online Safety Act 2023, the Information Technology Act 2000 (India), consumer protection legislation, and healthcare professional regulatory requirements.</p>
+
+      <h2 id="s2"><span class="num">2.</span>USER CATEGORIES AND ROLES</h2>
+      <h3>2.1 Patients / Data Principals</h3>
+      <p>Patients or Patient Advocates are individuals who register to upload their patient's deidentified personal health data and seek guidance from doctors and volunteers. Patients must:</p>
+      <ul>
+        <li>Be at least 18 years of age, or have the explicit consent of a parent or legal guardian.</li>
+        <li>Provide accurate and honest symptom descriptions to the best of their ability.</li>
+        <li>Understand and accept that responses provided on this Platform <strong>may not constitute a formal medical diagnosis or establish a doctor-patient relationship</strong>.</li>
+        <li><strong>Not use the Platform as a substitute for emergency medical services.</strong> In the event of a medical emergency, call 999 (UK) or 112 (India) immediately.</li>
+      </ul>
+      <h3>2.2 Registered Doctors</h3>
+      <p>Doctors are medical professionals who hold active registration with the General Medical Council (GMC) in the UK or the National Medical Commission (NMC) / Medical Council of India (MCI). Doctors must:</p>
+      <ul>
+        <li>Maintain current and valid professional registration at all times.</li>
+        <li>Provide guidance consistent with their professional obligations under GMC Good Medical Practice or the MCI Code of Medical Ethics.</li>
+        <li>Not establish themselves as the primary doctor through the Platform.</li>
+        <li>Clearly indicate the limitations of their digital responses and recommend in-person consultations where clinically appropriate.</li>
+        <li>Maintain strict patient confidentiality in all interactions.</li>
+      </ul>
+      <h3>2.3 Volunteers</h3>
+      <p>Volunteers are non-medical community members approved by PaJR Health Pvt Ltd. to provide general support, health literacy information, and signposting. Volunteers must:</p>
+      <ul>
+        <li>Not hold themselves out as medical professionals or provide medical advice.</li>
+        <li>Clearly identify their volunteer status in all interactions.</li>
+        <li>Refer patients to appropriate professional medical resources when necessary.</li>
+        <li>Comply strictly with the Platform's volunteer training and conduct standards.</li>
+      </ul>
+
+      <h2 id="s3"><span class="num">3.</span>ACCEPTABLE USE — PATIENTS</h2>
+      <h3>What You May Do</h3>
+      <ul>
+        <li>Submit honest, accurate descriptions of your patient's symptoms and health concerns.</li>
+        <li>Attach photographs of visible symptoms where relevant, ensuring images do not contain identifiable personal information unless explicit consent is provided.</li>
+        <li>Ask follow-up questions in a respectful manner.</li>
+        <li>Provide feedback on the responses received.</li>
+        <li>Request the erasure of your personal data in accordance with our Privacy Policy.</li>
+      </ul>
+      <h3>What You Must Not Do</h3>
+      <ul>
+        <li>Submit false, misleading, or fabricated symptom information.</li>
+        <li>Upload content that is defamatory, abusive, threatening, harassing, or discriminatory toward any individual or group.</li>
+        <li>Impersonate any other person, medical professional, or entity.</li>
+        <li>Post content that infringes upon the intellectual property rights of any third party.</li>
+        <li>Use the Platform for commercial solicitation, advertising, or spam.</li>
+        <li>Attempt to identify, contact, or solicit other patients outside the Platform.</li>
+        <li>Submit content that promotes self-harm, suicide, eating disorders, or non-prescribed drug use.</li>
+      </ul>
+      <div class="emergency"><strong>⚠️ EMERGENCY DISCLAIMER:</strong> The Platform is NOT an emergency service. If you are experiencing a medical emergency, chest pain, difficulty breathing, or are at risk of harming yourself or others, please call 999 (UK) or 112 (India) immediately.</div>
+
+      <h2 id="s4"><span class="num">4.</span>ACCEPTABLE USE — DOCTORS AND VOLUNTEERS</h2>
+      <h3>Professional Standards</h3>
+      <ul>
+        <li>All responses must be accurate, evidence-based, and consistent with current clinical guidelines.</li>
+        <li>Responses should be clearly marked as general health information and not a clinical diagnosis.</li>
+        <li>Doctors must recommend an in-person consultation where there is any clinical uncertainty or risk.</li>
+        <li>Volunteers must clearly state they are not providing medical advice.</li>
+        <li>Prescribing medications, controlled substances, or issuing medical certificates through the Platform.</li>
+      </ul>
+      <h3>Prohibited Conduct</h3>
+      <ul>
+        <li>Establishing a formal doctor-patient relationship without the patient's full informed consent and strict compliance with applicable telemedicine regulations.</li>
+        <li>Disclosing patient information to any third party not involved in the patient's care.</li>
+        <li>Providing responses while impaired by alcohol, drugs, or other substances.</li>
+        <li>Engaging in any conduct that could bring the medical profession or PaJR Health Pvt Ltd. into disrepute.</li>
+        <li><strong>UK Compliance:</strong> Doctors should refer to the GMC's guidance on remote consultations and the Telemedicine Guidelines of the UK.</li>
+        <li><strong>India Compliance:</strong> Doctors must comply with the Telemedicine Practice Guidelines 2020 issued by the Board of Governors, NMC.</li>
+      </ul>
+
+      <h2 id="s5"><span class="num">5.</span>HEALTH DATA STANDARDS</h2>
+      <p>Users acknowledge and agree that:</p>
+      <ul>
+        <li>Health data submitted on the Platform will be de-identified and made publicly available in anonymised form for research and public health purposes.</li>
+        <li>Personal identifiers will be removed prior to any public disclosure.</li>
+        <li>The Platform is not liable for any re-identification of data that results from information you voluntarily choose to include in your submission beyond what is reasonably required.</li>
+        <li>You must not include sensitive financial information, passwords, or government identification numbers in your symptom descriptions.</li>
+      </ul>
+
+      <h2 id="s6"><span class="num">6.</span>CONTENT STANDARDS</h2>
+      <p>All content submitted to the Platform (including symptom descriptions, comments, images, and communications) must:</p>
+      <ul>
+        <li>Be in English or applicable regional languages supported by the platform.</li>
+        <li>Not contain profanity, sexual content, or graphic imagery unrelated to the medical query.</li>
+        <li>Not contain hate speech or discrimination based on race, ethnicity, religion, gender, sexual orientation, disability, or any other protected characteristic.</li>
+        <li>Comply with the Online Safety Act 2023 (UK) standards for user-generated content.</li>
+        <li>Not violate the IT Act 2000 (India) provisions regarding obscene, defamatory, or harmful content.</li>
+      </ul>
+
+      <h2 id="s7"><span class="num">7.</span>ENFORCEMENT AND SANCTIONS</h2>
+      <h3>Reporting Violations</h3>
+      <p>Users may report violations of these Guidelines by contacting <a href="/cdn-cgi/l/email-protection#14676164647b66605464757e667c717578607c3a777b79"><span class="__cf_email__" data-cfemail="9ae9efeaeaf5e8eedaeafbf0e8f2fffbf6eef2b4f9f5f7">[email&#160;protected]</span></a>. All reports are treated confidentially and will be investigated in good faith.</p>
+      <h3>Sanctions</h3>
+      <p>The Platform reserves the right to take the following actions in response to violations, at its sole discretion:</p>
+      <ul>
+        <li>Issuing a formal warning to the user's registered account/group.</li>
+        <li>Temporary suspension of account access (1–30 days).</li>
+        <li>Permanent termination of the account without refund of any fees.</li>
+        <li>Removal or editing of content that violates these Guidelines.</li>
+        <li>Referral to the relevant regulatory body (GMC, NMC, etc.) for professional misconduct.</li>
+        <li>Reporting to law enforcement or regulatory authorities where required by law.</li>
+      </ul>
+      <h3>Appeals</h3>
+      <p>Users who wish to appeal a sanctions decision may submit a written appeal to <a href="/cdn-cgi/l/email-protection#77040207071805033707161d051f12161b031f5914181a"><span class="__cf_email__" data-cfemail="8efdfbfefee1fcfacefeefe4fce6ebefe2fae6a0ede1e3">[email&#160;protected]</span></a> within 14 days of the decision. The Platform will respond within 30 days, and the Platform's decision on appeal shall be final.</p>
+
+      <h2 id="s8"><span class="num">8.</span>INTELLECTUAL PROPERTY</h2>
+      <p>By submitting content to the Platform, you grant PaJR Health Pvt Ltd. a non-exclusive, worldwide, royalty-free, perpetual licence to use, reproduce, modify, adapt, and display your content solely for the purposes of operating the Platform, de-identifying data, and making anonymised data available for public health purposes.</p>
+      <p>You retain ownership of your original content, subject to the aforementioned licence. You must not submit content that infringes the intellectual property rights of any third party, including copyrighted medical literature, images, or proprietary information.</p>
+
+      <h2 id="s9"><span class="num">9.</span>MEDICAL DISCLAIMERS</h2>
+      <ul>
+        <li>The Platform does not guarantee the accuracy, completeness, or suitability of any health information provided by doctors or volunteers.</li>
+        <li>The Platform is not responsible for any action taken or not taken by a user in reliance on information obtained through the Platform.</li>
+        <li>The Platform does not endorse or recommend any specific treatment, medication, or healthcare provider.</li>
+      </ul>
+      <div class="ai-note"><strong>🤖 AI &amp; LARGE LANGUAGE MODEL (LLM) DISCLOSURE:</strong> The Platform uses large language models (LLMs) to help process, summarise, search and present health information, and this is explicitly acknowledged in our consent process. LLM-generated output can be wrong: there is always a risk of <strong>hallucination</strong> (plausible-sounding but false content) and of <strong>data misinterpretation or misrepresentation</strong>. AI-assisted content is not a medical opinion, must be verified against the primary record and with qualified professionals, and never replaces clinical judgement.</div>
+
+      <h2 id="s10"><span class="num">10.</span>SPECIAL PROVISIONS — MINORS</h2>
+      <p>The Platform is not intended for use by individuals under the age of 18. We do not knowingly collect personal data from minors. If a parent or guardian becomes aware that their child has submitted information to the Platform without consent, they should contact us immediately at <a href="/cdn-cgi/l/email-protection#fd8e888d8d928f89bd8d9c978f95989c918995d39e9290"><span class="__cf_email__" data-cfemail="42313732322d303602322328302a27232e362a6c212d2f">[email&#160;protected]</span></a>, and we will delete such data promptly. In India, parental consent is expressly required for persons under 18 as prescribed under the Digital Personal Data Protection Act (DPDPA) 2023, Section 9.</p>
+
+      <h2 id="s11"><span class="num">11.</span>AMENDMENTS</h2>
+      <p>The Platform reserves the right to update these Guidelines at any time. Users will not be notified of any material changes and a general notice may be put out on the Platform. Continued use of the Platform after the effective date of any changes constitutes acceptance of the revised Guidelines.</p>
+
+      <h2 id="s12"><span class="num">12.</span>GOVERNING LAW</h2>
+      <p>These Guidelines are governed by the laws of England and Wales. For Indian users, applicable provisions of the IT Act 2000 and the DPDPA 2023 shall apply concurrently. Disputes shall be subject to the dispute resolution mechanism set out in our Terms of Service / Licence Policy.</p>
+          <div class="cta-row gdx-row-page">
+        <a class="gdu gdu-create gdu-page" href="/consent-form/"><span class="gdu-mark"><svg width="41" height="19" viewBox="0 0 239 111" fill="none"><path d="M0 0V111H23.5379L64.5783 0H0Z" fill="#1D9BF0"/><path d="M82.6843 0L41.6439 111H68.803L86.5973 61.5326H173.818L197.356 0H82.6843Z" fill="#1D9BF0"/><path d="M141.227 111H86.9091L101.394 76.0109H169.593L158.126 111H147.866L150.28 104.364H143.641L141.227 111Z" fill="#1D9BF0"/><path d="M239 111H175.025L215.789 0H239V111Z" fill="#1D9BF0"/></svg></span><span class="gdx-tx">Create Your <b class="gdx-brand">PaJR</b></span></a>
+        <a class="gdu gdu-db gdu-page" href="https://research.pajrhealth.com" target="_blank" rel="noopener noreferrer"><span class="gdu-mark"><img class="gdu-dbmark db-mark-light" src="/assets/black%20logo.svg" alt=""><img class="gdu-dbmark db-mark-dark" src="/assets/white%20logo.svg" alt=""></span><img class="gdx-word gdw-light" src="/assets/for%20white%20bg%20without%20logo.svg" alt="PaJR Health Database"><img class="gdx-word gdw-dark" src="/assets/for%20black%20bg%20without%20logo.svg" alt="PaJR Health Database"></a>
+      </div>
+    </article>
+  </main>
+
+  <footer class="site-footer">
+    <div class="site-footer-row">
+      <a href="/">PaJR Health</a>
+      <span class="site-footer-divider">·</span>
+      <a href="/about/">About</a>
+      <span class="site-footer-divider">·</span>
+      <a href="/consent-form/">Consent Forms</a>
+      <span class="site-footer-divider">·</span>
+      <a href="/community-guidelines/">Terms &amp; Privacy</a>
+      <span class="site-footer-divider">·</span>
+      <a href="/cdn-cgi/l/email-protection#582b2d2828372a2c182839322a303d39342c30763b3735">Contact us</a>
+      <span class="site-footer-divider">·</span>
+      <a href="#" onclick="if(window.pajrOpenCookieSettings){window.pajrOpenCookieSettings();}return false;">Cookie settings</a>
+    </div>
+    <div class="footer-badges">
+      <span class="footer-badge">
+        <svg width="22" height="15" viewBox="0 0 30 20" style="border-radius:2px;display:block;box-shadow:0 0 0 .5px rgba(0,0,0,.15)"><rect width="30" height="6.667" y="0" fill="#FF9933"/><rect width="30" height="6.667" y="6.667" fill="#fff"/><rect width="30" height="6.666" y="13.333" fill="#138808"/><circle cx="15" cy="10" r="2.5" fill="none" stroke="#000080" stroke-width=".45"/><circle cx="15" cy="10" r=".55" fill="#000080"/><line x1="15" y1="7.6" x2="15" y2="12.4" stroke="#000080" stroke-width=".3"/><line x1="12.6" y1="10" x2="17.4" y2="10" stroke="#000080" stroke-width=".3"/><line x1="13.3" y1="8.3" x2="16.7" y2="11.7" stroke="#000080" stroke-width=".3"/><line x1="13.3" y1="11.7" x2="16.7" y2="8.3" stroke="#000080" stroke-width=".3"/></svg>
+        Made in India
+      </span>
+      <span class="footer-badge">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#0d9488" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+        DPDP Act 2023
+      </span>
+    </div>
+    <div class="site-footer-copy">
+      © PaJR Health Private Limited. All rights reserved.<br>
+      Registered in India · CIN: U62012TS2026PTC214706<br>
+      Set up in Singapore as PAJR HEALTH PTE. LTD. · UEN: 202630827D
+    </div>
+  </footer>
+
+  <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+    (function(){
+      var btn=document.getElementById('themeBtn'), moon=document.getElementById('iconMoon'), sun=document.getElementById('iconSun');
+      function paint(){ var d=document.documentElement.getAttribute('data-theme')==='dark'; moon.style.display=d?'none':'block'; sun.style.display=d?'block':'none'; }
+      btn.onclick=function(){ var d=document.documentElement.getAttribute('data-theme')==='dark'?'light':'dark';
+        document.documentElement.setAttribute('data-theme',d); try{localStorage.setItem('pajr_theme',d);}catch(e){} paint(); };
+      paint();
+      var mb=document.getElementById('menuBtn'), sheet=document.getElementById('mobileSheet');
+      mb.onclick=function(){ sheet.style.display='flex'; };
+      sheet.onclick=function(e){ if(e.target===sheet) sheet.style.display='none'; };
+      /* watch-the-film menu item — plays in an on-page lightbox (no navigation) */
+      /* the two films share one pop-up with gently tinted tabs */
+      function openFilms(which){
+        sheet.style.display='none';
+        var w=document.createElement('div'); w.className='film-lightbox';
+        w.innerHTML='<div class="film-frame">'
+          +'<div class="film-tabs">'
+          +'<button type="button" class="gdu gdu-watch gdu-watch-grp film-tab" data-f="0"><span class="wf-play"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><circle cx="12" cy="12" r="10" stroke="#1D9BF0" stroke-width="1.8"/><path d="M10 8.6v6.8c0 .5.55.8.98.53l5.02-3.4c.4-.27.4-.86 0-1.13l-5.02-3.4c-.43-.27-.98.03-.98.6z" fill="#1D9BF0"/></svg></span><span class="gdx-tx">How <b class="gdx-brand">PaJR</b> works<span class="wf-menu-min" data-notx="1">· 1 min</span></span></button>'
+          +'<button type="button" class="gdu gdu-watch gdu-watch-ai film-tab" data-f="1"><span class="wf-play"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><circle cx="12" cy="12" r="10" stroke="#1D9BF0" stroke-width="1.8"/><path d="M10 8.6v6.8c0 .5.55.8.98.53l5.02-3.4c.4-.27.4-.86 0-1.13l-5.02-3.4c-.43-.27-.98.03-.98.6z" fill="#1D9BF0"/></svg></span><span class="gdx-tx">Meet the <b class="gdx-brand">PaJR</b> AI<span class="wf-menu-min" data-notx="1">· 90 sec</span></span></button>'
+          +'</div>'
+          +'<button class="film-close" aria-label="Close">✕</button>'
+          +'<iframe title="PaJR films" allow="fullscreen"></iframe></div>';
+        var fr=w.querySelector('iframe'), tabs=w.querySelectorAll('.film-tab');
+        function setF(i){
+          fr.src = i===1 ? '/pajr-ai/?embed=1' : '/how-it-works/?embed=1';
+          fr.title = i===1 ? 'Meet the PaJR AI — a 90-second film' : 'How PaJR works — one minute film';
+          tabs[0].classList.toggle('on',i===0); tabs[1].classList.toggle('on',i===1);
+        }
+        tabs[0].onclick=function(){setF(0);}; tabs[1].onclick=function(){setF(1);};
+        setF(which);
+        function closeW(){ if(w.parentNode)w.parentNode.removeChild(w); document.removeEventListener('keydown',escW); }
+        function escW(e){ if(e.key==='Escape')closeW(); }
+        w.addEventListener('click',function(e){ if(e.target===w)closeW(); });
+        w.querySelector('.film-close').addEventListener('click',closeW);
+        document.addEventListener('keydown',escW);
+        document.body.appendChild(w);
+      }
+      var wfi=document.getElementById('hnWatchFilm');
+      if(wfi){ wfi.onclick=function(){ openFilms(0); }; }
+      var wfi2=document.getElementById('hnWatchFilm2');
+      if(wfi2){ wfi2.onclick=function(){ openFilms(1); }; }
+
+
+
+      /* language picker — same list + storage key (pajr_lang) as the main app */
+      var LANGS=[['en','English'],['hi','हिन्दी'],['te','తెలుగు'],['ta','தமிழ்'],['mr','मराठी'],['bn','বাংলা'],['kn','ಕನ್ನಡ'],['gu','ગુજરાતી'],['ml','മലയാളം'],['pa','ਪੰਜਾਬੀ'],['ur','اردو'],['ar','العربية']];
+      var lb=document.getElementById('langBtn'), lc=document.getElementById('langCode'),
+          ls=document.getElementById('langSheet'), ll=document.getElementById('langList');
+      function curLang(){ var v=null; try{v=localStorage.getItem('pajr_lang');}catch(e){} return v||'en'; }
+      function paintLang(){
+        var c=curLang(), m=LANGS.filter(function(x){return x[0]===c;})[0]||LANGS[0];
+        lc.textContent=m[1];
+        Array.prototype.forEach.call(ll.children,function(el){ el.classList.toggle('active', el.getAttribute('data-code')===c); });
+      }
+      /* ── on-page translation engine — same mechanism as the research site:
+         POST /api/translate (Google Cloud Translation, Supabase-cached), applied
+         to the page's text nodes, re-applied on DOM changes, cached per language. */
+      function langName(c){ var m=LANGS.filter(function(x){return x[0]===c;})[0]; return m?m[1]:c; }
+      var TX={lang:'en',busy:false,obs:null,timer:null,toastT:null};
+      function txToast(msg,ms){ try{ var el=document.getElementById('tx-toast'); if(!el){ el=document.createElement('div'); el.id='tx-toast'; el.setAttribute('data-notx','1'); el.style.cssText='position:fixed;left:50%;bottom:20px;transform:translateX(-50%);z-index:200;background:#15212B;color:#fff;padding:10px 16px;border-radius:10px;font-size:13px;box-shadow:0 8px 30px rgba(0,0,0,.25);max-width:90vw;text-align:center'; document.body.appendChild(el); } el.textContent=msg; el.style.display='block'; if(TX.toastT)clearTimeout(TX.toastT); if(ms)TX.toastT=setTimeout(function(){el.style.display='none';},ms); }catch(e){} }
+      function txLoad(l){ try{ return JSON.parse(localStorage.getItem('pajr_tx_'+l)||'{}'); }catch(e){ return {}; } }
+      function txSave(l,c){ try{ localStorage.setItem('pajr_tx_'+l,JSON.stringify(c)); }catch(e){} }
+      function txNodes(){ var out=[]; var w=document.createTreeWalker(document.body,NodeFilter.SHOW_TEXT,null); var skip=/^(SCRIPT|STYLE|INPUT|TEXTAREA|SELECT|OPTION|CODE|PRE)$/; var n; while((n=w.nextNode())){ var v=n.nodeValue; if(!v||!/[A-Za-z]{2}/.test(v))continue; var el=n.parentElement; if(!el||skip.test(el.tagName))continue; if(el.closest&&el.closest('[data-notx],.hn-lang-btn,.hn-lang-item'))continue; out.push(n); } return out; }
+      function txBatch(texts,l){ return fetch('/api/translate',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({texts:texts,target:l})}).then(function(r){ if(!r.ok) throw new Error('http '+r.status); return r.json(); }).then(function(d){ return d.translations||[]; }); }
+      function txRun(l){ if(TX.busy)return Promise.resolve(); TX.busy=true; var cache=txLoad(l); var missing=[],seen={}; txNodes().forEach(function(n){ var t=n.nodeValue.trim(); if(t.length<2||cache[t]!==undefined||seen[t])return; seen[t]=1; missing.push(t); }); if(missing.length)txToast('Translating to '+langName(l)+'…'); var chunks=[]; for(var i=0;i<missing.length&&i<1500;i+=90) chunks.push(missing.slice(i,i+90)); var p=Promise.resolve(),failed=false; chunks.forEach(function(chunk){ p=p.then(function(){ return txBatch(chunk,l).then(function(tr){ chunk.forEach(function(t,ix){ if(tr[ix])cache[t]=tr[ix]; }); }); }).catch(function(){ failed=true; }); }); return p.then(function(){ txSave(l,cache); var applied=0; txNodes().forEach(function(n){ var t=n.nodeValue.trim(); if(cache[t]&&cache[t]!==t){ n.nodeValue=n.nodeValue.replace(t,cache[t]); applied++; } }); if(failed&&!applied)txToast('⚠ Translation unavailable right now',5000); else if(applied)txToast('✓ '+langName(l),1600); TX.busy=false; }); }
+      function startTranslate(l){ TX.lang=l; try{ document.documentElement.lang=l; document.documentElement.dir=(l==='ur'||l==='ar')?'rtl':'ltr'; }catch(e){} txRun(l); if(!TX.obs){ TX.obs=new MutationObserver(function(){ if(!TX.lang||TX.lang==='en')return; if(TX.timer)clearTimeout(TX.timer); TX.timer=setTimeout(function(){ txRun(TX.lang); },600); }); try{ TX.obs.observe(document.body,{childList:true,subtree:true}); }catch(e){} } }
+      function setLang(l){ try{localStorage.setItem('pajr_lang',l);}catch(e){} paintLang(); var tab=document.querySelector('.lang-tab[data-lang="'+l+'"]'); if(tab)tab.click(); if(l==='en'){ location.reload(); return; } startTranslate(l); }
+      LANGS.forEach(function(x){
+        var bta=document.createElement('button'); bta.type='button'; bta.className='hn-lang-item'; bta.setAttribute('data-code',x[0]); bta.setAttribute('data-notx','1');
+        bta.innerHTML='<span>'+x[1]+'</span>';
+        bta.onclick=function(){ ls.style.display='none'; setLang(x[0]); };
+        ll.appendChild(bta);
+      });
+      lb.setAttribute('data-notx','1');
+      lb.onclick=function(e){ e.stopPropagation(); ls.style.display=(ls.style.display==='flex'?'none':'flex'); };
+      ls.onclick=function(e){ if(e.target===ls) ls.style.display='none'; };
+      document.addEventListener('click',function(e){ if(ls.style.display==='flex' && e.target.closest && !e.target.closest('.hn-lang-card') && !e.target.closest('.hn-lang-btn')) ls.style.display='none'; });
+      document.addEventListener('keydown',function(e){ if(e.key==='Escape'||e.keyCode===27) ls.style.display='none'; });
+      paintLang();
+      if(curLang()!=='en'){ startTranslate(curLang()); }
+    })();
+  </script>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"e94770f25a7c4b47bbaa2f2d2f81da51","r":1}' crossorigin="anonymous"></script>
+</body>
+</html>

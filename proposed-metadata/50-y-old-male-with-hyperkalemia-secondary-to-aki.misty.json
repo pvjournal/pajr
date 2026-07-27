@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "50 Y OLD MALE WITH HYPERKALEMIA SECONDARY TO AKI",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://kattekolasathwik.blogspot.com/2023/02/50-y-old-male-with-hyperkalemia.html. SHA-256 of the retrieved article text: 0a47a1f5017ff2052c4388d842cda1159ba7c2db2089312124b353b5019acebf. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://kattekolasathwik.blogspot.com/2023/02/50-y-old-male-with-hyperkalemia.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

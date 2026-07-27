@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "57 year old female patient with throat pain since 1 week",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://manishkumarollno129.blogspot.com/2022/12/57-year-old-female-patient-with-throat.html. SHA-256 of the retrieved article text: 46c11c702542b2bb8adfd2d908e07845bf78b0d1fa17376ebc4b26e797bebec3. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://manishkumarollno129.blogspot.com/2022/12/57-year-old-female-patient-with-throat.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

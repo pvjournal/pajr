@@ -1,0 +1,24 @@
+{
+  "_note": "PROPOSAL ONLY. Prepared for the authors of this case report. Nothing here has been minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "Layer 2 PaJR case report: 50F with Clinician's Trilemma: on Antivenom Anaphylaxis and its Efficacy in Snakebite Management with links to layer 1 and 3",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "publication_date": "2026-06-27",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://medicinedepartment.blogspot.com/2026/06/layer-2-pajr-case-report-50f-with.html. SHA-256 of the retrieved text: b52f96bdb8035cf940079295d3915ef8cbdd4be70eedf4ca964c0d6a8dec5966. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://medicinedepartment.blogspot.com/2026/06/layer-2-pajr-case-report-50f-with.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

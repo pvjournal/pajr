@@ -1,0 +1,24 @@
+{
+  "_note": "PROPOSAL ONLY. Prepared for the authors of this case report. Nothing here has been minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "PaJR Health \u00b7 Learning for Caring",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "publication_date": "",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://pajrhealth.com/. SHA-256 of the retrieved text: 2c16e46e1ec8743547dd826a99d2528c8befe175b846161ab4ec5501e04e4eb6. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://pajrhealth.com/",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

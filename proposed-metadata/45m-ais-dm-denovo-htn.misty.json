@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "45M AIS ; DM ; Denovo HTN",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://drbnr.blogspot.com/2024/06/45m-ais-dm-denovo-htn.html. SHA-256 of the retrieved article text: 0ac6f915fb7ca7c2e03396bc53a8864fd842d0100d77373cfd99787d19f959b6. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://drbnr.blogspot.com/2024/06/45m-ais-dm-denovo-htn.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

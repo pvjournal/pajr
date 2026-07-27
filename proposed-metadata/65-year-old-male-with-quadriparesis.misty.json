@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "65 YEAR OLD MALE WITH QUADRIPARESIS",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://gsuhithagnaneswar.blogspot.com/2021/09/65-year-old-male-with-compressive.html. SHA-256 of the retrieved article text: e965248bbf11abc0324e7ebae78e588462b1841ed17699819da2fd0b7737c083. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://gsuhithagnaneswar.blogspot.com/2021/09/65-year-old-male-with-compressive.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

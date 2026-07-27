@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "A case of 55 year old female with fever and generalized body pains",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://chandanaracharollno128.blogspot.com/2022/01/a-case-of-55-year-old-with-fever-and.html. SHA-256 of the retrieved article text: e0bac921ee311f7b673bf4050a25a3c93b91dfa3e7c82dac9de9449d5edb6e43. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://chandanaracharollno128.blogspot.com/2022/01/a-case-of-55-year-old-with-fever-and.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

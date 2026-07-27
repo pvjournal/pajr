@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "04 lasya",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://lasyaakula25.blogspot.com/2021/08/04-lasya.html. SHA-256 of the retrieved article text: 2da733fc96143b20ef9726b9a68088527bb62c6f0a90c7054eb0df10d78dba22. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://lasyaakula25.blogspot.com/2021/08/04-lasya.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

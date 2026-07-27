@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "21 year old woman with paraplegia",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://ashiness92.blogspot.com/2021/08/21-year-old-woman-with-paraplegia.html. SHA-256 of the retrieved article text: 8da0f2303667de4f1d8143dc229a4376b055d39a7f8b33a7eadab7d87bde623a. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://ashiness92.blogspot.com/2021/08/21-year-old-woman-with-paraplegia.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

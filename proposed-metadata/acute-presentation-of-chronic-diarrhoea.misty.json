@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "ACUTE PRESENTATION OF CHRONIC DIARRHOEA",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://keerthiereddy.blogspot.com/2024/05/acute-presentation-of-chronic-diarrhoea.html. SHA-256 of the retrieved article text: ebf534ea87eef661d750c4429d3a67b8e58fa038587f5d749d4a892859d34fef. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://keerthiereddy.blogspot.com/2024/05/acute-presentation-of-chronic-diarrhoea.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+<!doctype html><meta charset="utf-8">
+<title>PaJR Reader — seed a conversation from any selection</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<style>
+:root{--ink:#1a2730;--mut:#6b7f8d;--acc:#0a6a5c;--warm:#b4531f;--line:#e4dfd5;--bg:#faf8f4;--paper:#fffdf9}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);
+ font:17px/1.7 "Iowan Old Style",Palatino,Georgia,serif}
+.top{position:sticky;top:0;z-index:9;background:rgba(250,248,244,.95);backdrop-filter:blur(8px);
+ border-bottom:1px solid var(--line);padding:12px 20px;display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+.top h1{font-size:16px;margin:0;white-space:nowrap}
+.top input{flex:1;min-width:200px;padding:9px 13px;border:1px solid var(--line);border-radius:9px;font:inherit;font-size:15px}
+.top button{font:13px system-ui;padding:8px 13px;border:1px solid var(--line);background:#fff;border-radius:8px;cursor:pointer}
+.top button:hover{border-color:var(--acc);color:var(--acc)}
+main{max-width:760px;margin:0 auto;padding:26px 22px 90px}
+.hint{color:var(--mut);font-size:14px;background:var(--paper);border:1px solid var(--line);
+ border-left:3px solid var(--acc);border-radius:8px;padding:12px 15px;margin-bottom:22px}
+article{background:var(--paper);border:1px solid var(--line);border-radius:12px;padding:30px 34px;
+ box-shadow:0 1px 0 rgba(0,0,0,.03)}
+article h2{font-size:23px;line-height:1.25;margin:0 0 6px}
+.src{font:12px ui-monospace;color:var(--mut);margin-bottom:20px;word-break:break-all}
+article p{margin:0 0 15px}
+::selection{background:#bfe3db}
+#pop{position:absolute;display:none;z-index:20;background:#fff;border:1px solid var(--acc);
+ border-radius:10px;box-shadow:0 8px 24px rgba(0,0,0,.16);padding:5px;white-space:nowrap}
+#pop button{font:12px system-ui;border:0;background:none;cursor:pointer;padding:6px 11px;color:var(--acc);border-radius:6px}
+#pop button:hover{background:#eef5f3}
+.loading{color:var(--mut)}
+footer{color:var(--mut);font-size:12.5px;margin-top:30px;border-top:1px solid var(--line);padding-top:14px}
+</style>
+<div class="top">
+  <h1>PaJR Reader</h1>
+  <input id="url" placeholder="Paste a case-report URL, or pick one below">
+  <button id="load">Open</button>
+  <select id="pick" style="font:13px system-ui;padding:8px;border:1px solid var(--line);border-radius:8px"></select>
+</div>
+<main>
+<div class="hint">Select any passage to seed an AI conversation about it — explain, differential,
+or critique. Nothing is stored or posted; the text belongs to its authors, and each seed opens
+in a new tab against the assistant of your choice. On a static host the app fetches the post
+through a public read-only proxy; if that is blocked, it hands you a copyable prompt instead.</div>
+<article id="doc">
+  <h2 id="ttl">Choose a case report</h2>
+  <div class="src" id="src"></div>
+  <div id="body"><p class="loading">Pick a report from the dropdown, or paste a URL above.</p></div>
+</article>
+<footer id="ft">PaJR Reader · reads public case reports · stores nothing · seeds on your command</footer>
+</main>
+<div id="pop">
+  <button data-a="explain">Explain</button>
+  <button data-a="diff">Differential</button>
+  <button data-a="critique">Critique</button>
+  <button data-a="copy">Copy prompt</button>
+</div>
+<script>
+// Populate the picker from index.json if it is alongside; otherwise the URL box works alone.
+let CUR={url:'',title:''};
+fetch('index.json').then(r=>r.json()).then(D=>{
+  const s=document.getElementById('pick');
+  s.innerHTML='<option value="">— pick a report —</option>'+
+   (D.records||[]).slice(0,400).map(r=>'<option value="'+r.url+'">'+
+    (r.title||r.url).replace(/</g,'&lt;').slice(0,80)+'</option>').join('');
+  s.onchange=()=>{if(s.value){document.getElementById('url').value=s.value;load(s.value)}};
+}).catch(()=>{});
+
+// read-only text proxies, tried in order. All are public CORS relays that return page text.
+const PROXIES=[u=>'https://r.jina.ai/'+u,
+               u=>'https://api.allorigins.win/raw?url='+encodeURIComponent(u)];
+async function fetchText(u){
+  for(const p of PROXIES){try{const r=await fetch(p(u));if(r.ok)return await r.text();}catch(e){}}
+  throw new Error('no proxy reachable');
+}
+function extract(html){
+  // strip chrome, keep the post body — the same principle as the harvester
+  const d=new DOMParser().parseFromString(html,'text/html');
+  d.querySelectorAll('script,style,nav,header,footer,noscript,iframe,svg,form').forEach(n=>n.remove());
+  const body=d.querySelector('.post-body,.entry-content,article')||d.body;
+  const ttl=(d.querySelector('title')||{}).textContent||CUR.url;
+  return {title:ttl.trim(),
+          paras:[...body.querySelectorAll('p,li,h3')].map(n=>n.textContent.trim())
+                 .filter(x=>x.length>25)};
+}
+async function load(u){
+  CUR.url=u;
+  document.getElementById('ttl').textContent='Loading…';
+  document.getElementById('src').textContent=u;
+  document.getElementById('body').innerHTML='<p class="loading">Fetching through a public proxy…</p>';
+  try{
+    const {title,paras}=extract(await fetchText(u));
+    CUR.title=title;
+    document.getElementById('ttl').textContent=title;
+    document.getElementById('body').innerHTML=
+      paras.length?paras.map(p=>'<p>'+p.replace(/</g,'&lt;')+'</p>').join('')
+                  :'<p class="loading">No readable body found.</p>';
+  }catch(e){
+    document.getElementById('ttl').textContent=CUR.title||'Could not fetch';
+    document.getElementById('body').innerHTML=
+      '<p class="loading">The proxy is blocked here. Open the original directly: '+
+      '<a href="'+u+'" target="_blank" rel="noopener">'+u+'</a><br><br>'+
+      'You can still seed a conversation — paste your own selection into the assistant with '+
+      'this preamble:</p><pre style="white-space:pre-wrap;background:#f3efe7;padding:12px;'+
+      'border-radius:8px;font:12px ui-monospace">Reading the case report at '+u+
+      ' (belongs to its authors). Explain the clinical reasoning and differential.</pre>';
+  }
+}
+document.getElementById('load').onclick=()=>{const u=document.getElementById('url').value.trim();
+  if(u)load(u);};
+
+// selection -> seed. Keyless; opens the reader's chosen assistant with a prompt.
+const pop=document.getElementById('pop');
+function preamble(sel,mode){
+  const base='From the clinical case report "'+(CUR.title||'')+'" at '+CUR.url+
+    ' (published by its authors; this is a selected passage, not the full text).';
+  const ask={explain:'Explain this passage plainly, for a clinician-in-training:',
+             diff:'What differential diagnosis does this passage suggest, and why?',
+             critique:'What would an informed sceptic question about this reasoning?'}[mode];
+  return base+'\n\n'+ask+'\n\n"'+sel+'"';
+}
+document.addEventListener('mouseup',()=>{const s=(window.getSelection()+'').trim();
+  if(s.length<12){pop.style.display='none';return}
+  const r=window.getSelection().getRangeAt(0).getBoundingClientRect();
+  pop.style.left=Math.max(8,Math.min(r.left,innerWidth-300))+'px';
+  pop.style.top=(window.scrollY+r.bottom+8)+'px';pop.style.display='block';pop.dataset.s=s;});
+pop.querySelectorAll('button').forEach(b=>b.onclick=async()=>{
+  const s=pop.dataset.s||'',a=b.dataset.a;
+  if(a==='copy'){const p=preamble(s,'explain');
+    try{await navigator.clipboard.writeText(p);b.textContent='Copied';
+      setTimeout(()=>b.textContent='Copy prompt',1200);}catch(e){}
+    return;}
+  window.open('https://claude.ai/new?q='+encodeURIComponent(preamble(s,a)),'_blank');
+  pop.style.display='none';});
+document.addEventListener('mousedown',e=>{if(!pop.contains(e.target))pop.style.display='none';});
+</script>

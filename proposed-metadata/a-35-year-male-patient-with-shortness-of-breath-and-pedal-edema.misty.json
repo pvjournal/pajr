@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "A 35 year male patient with shortness of breath and pedal edema",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://gtejaswini61.blogspot.com/2020/05/a-35-year-male-patient-with-shortness.html. SHA-256 of the retrieved article text: 8c9937a03a99b57916a1bb4ce3f005b8bdde44359db35cb038438bb51ad5b25f. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://gtejaswini61.blogspot.com/2020/05/a-35-year-male-patient-with-shortness.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

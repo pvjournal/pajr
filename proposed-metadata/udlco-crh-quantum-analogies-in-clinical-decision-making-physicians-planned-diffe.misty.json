@@ -1,0 +1,24 @@
+{
+  "_note": "PROPOSAL ONLY. Prepared for the authors of this case report. Nothing here has been minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "UDLCO CRH: Quantum analogies in clinical decision making, physicians planned differential diagnostic and therapeutic trajectories collapsing onto the patient's real world choices!",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "publication_date": "2026-07-12",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://medicinedepartment.blogspot.com/2026/07/udlco-crh-quantum-analogies-in-clinical.html. SHA-256 of the retrieved text: 763655db29b906fadf184dfdfeabc9dfda3d2c9d4b2c38595052f5c9ea9838a2. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://medicinedepartment.blogspot.com/2026/07/udlco-crh-quantum-analogies-in-clinical.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

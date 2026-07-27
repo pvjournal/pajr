@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "UDHC case records (A): A 70 years old man with painless paralysis of both legs since age of 7 and fall from a height while climbing a tree at the age of 14 and diabetes since the last 7 years",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://globaludhc09.blogspot.com/2016/02/a-66-years-old-man-with-dm-2-since.html. SHA-256 of the retrieved article text: 6765ba4b876f378a438f9b8963d0f43136e6e5dd1ad5a1602aed27b9fdb2fed6. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://globaludhc09.blogspot.com/2016/02/a-66-years-old-man-with-dm-2-since.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

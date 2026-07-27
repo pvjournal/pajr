@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "HarikaKathumandirollno54: 46 yr old male with Shortness of Breath, Abdominal distension, pedal Edema.",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://harikakathumandirollno54.blogspot.com/2022/07/46-yr-old-male-with-shortness-of-breath.html. SHA-256 of the retrieved article text: 609fa9c90766341d371879865c7626f51da18721a83523d177c165a24bfd4c7e. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://harikakathumandirollno54.blogspot.com/2022/07/46-yr-old-male-with-shortness-of-breath.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

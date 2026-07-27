@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "PATIENT: patient   Name  ;- Portudaca Oleracea L - 7 ,  Sex - F  ,  Age - 52 y",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://736146.blogspot.com/2022/01/patient-name-portudaca-oleracea-l-7-sex.html. SHA-256 of the retrieved article text: 0eb8ba116b45b02988cf222d245c56d5b7fe2d9367ff9e90255ce5ae133899a0. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://736146.blogspot.com/2022/01/patient-name-portudaca-oleracea-l-7-sex.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

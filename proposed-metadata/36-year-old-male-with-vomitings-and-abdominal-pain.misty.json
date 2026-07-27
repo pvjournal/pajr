@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "36 Year Old Male with vomitings and Abdominal pain",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://dineshperamrollno162.blogspot.com/2023/06/36-year-old-male-with-vomitings-and.html. SHA-256 of the retrieved article text: d48dead11ded7048fdabb7ad8465dc08694b82e46974bb101196012cca658ae6. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://dineshperamrollno162.blogspot.com/2023/06/36-year-old-male-with-vomitings-and.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

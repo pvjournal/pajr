@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "Bimonthly assessment- Gen Medicine",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://10anusri.blogspot.com/2021/08/bimonthly-assessment-gen-medicine.html. SHA-256 of the retrieved article text: 4ada6cefcb3095513826d588bece58918cb3152714954267b124a1bce3ccc924. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://10anusri.blogspot.com/2021/08/bimonthly-assessment-gen-medicine.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

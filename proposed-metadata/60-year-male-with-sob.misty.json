@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "60 YEAR MALE WITH SOB",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://186akshithareddy.blogspot.com/2022/01/60-yr-old-male-who-is-daily-wage.html. SHA-256 of the retrieved article text: c0569e8501f6862cc3a48e37e296792de4b52bd3a43705b77c09f3ec4f7b3d32. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://186akshithareddy.blogspot.com/2022/01/60-yr-old-male-who-is-daily-wage.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

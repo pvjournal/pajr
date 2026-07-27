@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "A 37 y/o male came with complaints of pain in epigastrium",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://89aishwaryamuttamsetty.blogspot.com/2021/11/a-37-yo-male-came-with-complaints-of.html. SHA-256 of the retrieved article text: aee171377e16d868d416e0e0d38eb1b918228ac219cd3d7e21ed13b48be23228. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://89aishwaryamuttamsetty.blogspot.com/2021/11/a-37-yo-male-came-with-complaints-of.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

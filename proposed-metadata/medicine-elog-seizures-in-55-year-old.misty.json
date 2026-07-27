@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "MEDICINE ELOG: seizures in 55 year old",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://166sasirakasinadhuni.blogspot.com/2021/11/seizures-in-55-year-old.html. SHA-256 of the retrieved article text: 193a68e38b555f62026b72d7f3a0723e83ecb82d4d48f68a6d69e122a15476b1. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://166sasirakasinadhuni.blogspot.com/2021/11/seizures-in-55-year-old.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

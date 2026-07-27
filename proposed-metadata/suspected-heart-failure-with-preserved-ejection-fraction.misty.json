@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "SUSPECTED HEART FAILURE WITH PRESERVED EJECTION FRACTION",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://drvaishnavi.blogspot.com/2020/06/suspected-heart-failure-with-preserved.html. SHA-256 of the retrieved article text: 164343d7225ef65d7382e0dfca3a470557c85c675328e8200d21b29121a67dd4. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://drvaishnavi.blogspot.com/2020/06/suspected-heart-failure-with-preserved.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "K. Manasa",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://kmanasa20.blogspot.com/2020/12/harshini-reddy-december-22-2020-this-is.html. SHA-256 of the retrieved article text: 9d30263861b24d9f300c59de02382321ba37220a775d702c3c5b330272da98e6. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://kmanasa20.blogspot.com/2020/12/harshini-reddy-december-22-2020-this-is.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

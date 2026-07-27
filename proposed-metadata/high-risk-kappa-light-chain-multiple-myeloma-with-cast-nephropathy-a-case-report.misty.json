@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "High-Risk Kappa Light Chain Multiple Myeloma with Cast Nephropathy: A Case Report",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://medicineprudence.blogspot.com/2025/01/high-risk-kappa-light-chain-multiple.html. SHA-256 of the retrieved article text: dae35bb9cff3aa67789ce048d3159c5f7e1886e918ff7719b596d1bc8d7583e0. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://medicineprudence.blogspot.com/2025/01/high-risk-kappa-light-chain-multiple.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

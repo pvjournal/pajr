@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "A 26 yr old male with ANAEMIA SECONDARY TO IRON DEFECIENCY ANAEMIA WITH FISSURE IN ANO",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://47chaitanya.blogspot.com/2024/07/a-26-yr-old-male-with-anaemia-secondary.html. SHA-256 of the retrieved article text: fb8c69d56d27860b486aa9da66fb7a2245cccc5e804f4718205e852127a93bc0. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://47chaitanya.blogspot.com/2024/07/a-26-yr-old-male-with-anaemia-secondary.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

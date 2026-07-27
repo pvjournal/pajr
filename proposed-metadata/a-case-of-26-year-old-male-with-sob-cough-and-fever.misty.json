@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "A CASE OF 26 YEAR OLD MALE WITH SOB, COUGH AND FEVER",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://laxmisowmya71.blogspot.com/2022/01/a-case-of-26-year-old-male-with-sob.html. SHA-256 of the retrieved article text: 871f9ad0cf66845260d9fe96ab513bb5d5cc7d7cd135a55a9314468f6a72fcb3. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://laxmisowmya71.blogspot.com/2022/01/a-case-of-26-year-old-male-with-sob.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

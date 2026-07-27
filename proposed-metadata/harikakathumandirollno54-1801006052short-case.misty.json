@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "HarikaKathumandirollno54: 1801006052short case",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://harikakathumandirollno54.blogspot.com/2022/08/a-25-year-old-male-with-abdominal.html. SHA-256 of the retrieved article text: 83c8937a65d35024f1f958cf473345fb75c338e1da86c8fff48886f636651f0e. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://harikakathumandirollno54.blogspot.com/2022/08/a-25-year-old-male-with-abdominal.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

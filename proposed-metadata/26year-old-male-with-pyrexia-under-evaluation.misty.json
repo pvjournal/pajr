@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "26year old male with pyrexia under evaluation",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://93deepanandikonda.blogspot.com/2023/06/26year-old-male-with-pyrexia-under.html. SHA-256 of the retrieved article text: dd1ff7ec525a2fb555d158d6b54a693400e5d514fe048a1e075460b149bd3dcb. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://93deepanandikonda.blogspot.com/2023/06/26year-old-male-with-pyrexia-under.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "50 years old female with fever and chills following       Day care dialysis(MHD)",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://navyasrirollno111.blogspot.com/2022/12/this-is-online-e-log-book-to-discuss.html. SHA-256 of the retrieved article text: 7661af02e284b39a52fc8117fd88b03a7a8f3831f8c85d7e5505ebe880eef58e. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://navyasrirollno111.blogspot.com/2022/12/this-is-online-e-log-book-to-discuss.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "General medical e log",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://99vaishnavipakker.blogspot.com/2023/06/general-medical-e-log.html. SHA-256 of the retrieved article text: b8e11d871405801093c173f57a895e9503440fdbe60e142f07a56c81ef43ff05. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://99vaishnavipakker.blogspot.com/2023/06/general-medical-e-log.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

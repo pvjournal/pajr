@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "A 27 YEAR OLD FEMALE WITH MYALGIA AND ARTHRALGIA",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://daddalavineeshachowdary.blogspot.com/2022/11/a-27-year-old-female-with-myalgia-and.html. SHA-256 of the retrieved article text: eb8e020e165f52cba5164f4b0a7b4bbb8aa27a21c6195e29131a482fa3170709. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://daddalavineeshachowdary.blogspot.com/2022/11/a-27-year-old-female-with-myalgia-and.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "47 year old male with pain abdomen and constipation",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://mounikagadiparthirollno46.blogspot.com/2023/01/medical-case-discussion-january-22023.html. SHA-256 of the retrieved article text: fd9a7353488fbb9c02ae6cbf303fef31e22c8032fafa6b404c75e389a52446f1. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://mounikagadiparthirollno46.blogspot.com/2023/01/medical-case-discussion-january-22023.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "UNRAVELING THE SKEIN",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://decodemed.blogspot.com/2020/05/unraveling-skein.html. SHA-256 of the retrieved article text: 8b9617bc89fce351e63e6ae829567edc40ee46f39724a4d07f7880bee277c9db. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://decodemed.blogspot.com/2020/05/unraveling-skein.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

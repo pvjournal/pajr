@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "202349563",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://kpremsaipavankumar96.blogspot.com/2024/06/202349563.html. SHA-256 of the retrieved article text: 59337c8417f15cd84071a8b0736ac2de9c38f449a87b7edd9dd4dc24b3e6d4ef. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://kpremsaipavankumar96.blogspot.com/2024/06/202349563.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

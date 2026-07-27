@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "CHETANA KETA ROLL NO. 74",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://chetanaketarollno74.blogspot.com/2023/09/case-1-1028-rakesh-biswas-corresponding.html. SHA-256 of the retrieved article text: 51e4a71fd0942453cd717bdda114898fe333b95f0d9d0e89bb924eb91db7c642. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://chetanaketarollno74.blogspot.com/2023/09/case-1-1028-rakesh-biswas-corresponding.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "57 YR male with Fever since 1 month",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://kasarabadhasampathrollno71.blogspot.com/2023/09/is-online-e-log-book-to-discuss-our.html. SHA-256 of the retrieved article text: 115682d0e08f14a21aefb11731b00cd2d7a35b3ac9f875ccfd192587aa5de272. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://kasarabadhasampathrollno71.blogspot.com/2023/09/is-online-e-log-book-to-discuss-our.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

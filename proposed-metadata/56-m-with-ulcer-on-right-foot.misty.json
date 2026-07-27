@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "56/M with ulcer on right foot",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://manikaraovinay.blogspot.com/2022/07/56m-with-ulcer-on-right-foot.html. SHA-256 of the retrieved article text: 1c4e78b288324dd5d26ecfa1bee6d9a788101eb860889b02d0c4170b50f1b218. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://manikaraovinay.blogspot.com/2022/07/56m-with-ulcer-on-right-foot.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

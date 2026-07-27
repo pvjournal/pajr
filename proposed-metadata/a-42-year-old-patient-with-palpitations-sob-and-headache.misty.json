@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "A 42 YEAR OLD PATIENT WITH PALPITATIONS, SOB AND HEADACHE.",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://maheshakula06.blogspot.com/2022/12/a-42-year-old-patient-with-palpitations.html. SHA-256 of the retrieved article text: 73e3a1bc40126e963e2398f97a277e9866cd4dfd7e7be033514ebd5abe1b10bb. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://maheshakula06.blogspot.com/2022/12/a-42-year-old-patient-with-palpitations.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

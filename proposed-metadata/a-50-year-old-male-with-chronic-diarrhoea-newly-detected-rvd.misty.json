@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "A 50 year old male with Chronic diarrhoea (Newly detected RVD+)",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://keerthykasa80.blogspot.com/2021/09/a-50-year-old-male-with-chronic.html. SHA-256 of the retrieved article text: 8b6739f165c1fe6daa689d957ef324a2b3f2178f815109557b728465c253196f. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://keerthykasa80.blogspot.com/2021/09/a-50-year-old-male-with-chronic.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

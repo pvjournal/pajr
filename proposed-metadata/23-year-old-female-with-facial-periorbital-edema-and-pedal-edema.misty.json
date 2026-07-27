@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "23 year old female with facial periorbital edema  and pedal edema.",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://chittireddyasritha32.blogspot.com/2022/11/23-year-old-female-with-facial.html. SHA-256 of the retrieved article text: d09ad29702976fe2c8bb750c5ff6a0469b0b685892dfa1119e2505658ce3084a. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://chittireddyasritha32.blogspot.com/2022/11/23-year-old-female-with-facial.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

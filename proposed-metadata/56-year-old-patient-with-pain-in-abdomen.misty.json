@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "56 year old patient with pain in abdomen",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://meghadandge2001.blogspot.com/2022/11/56-year-old-patient-with-pain-in-abdomen.html. SHA-256 of the retrieved article text: 1daa6969aa3f1645ddd4b99f09348a35a7e1ad1f3c0f9a57be52ce4ffeba31d3. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://meghadandge2001.blogspot.com/2022/11/56-year-old-patient-with-pain-in-abdomen.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

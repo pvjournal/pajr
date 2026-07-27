@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "50 year female with fever, vomiting, Nausea",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://madamsneha74.blogspot.com/2022/09/50-year-female-with-fever-vomiting.html. SHA-256 of the retrieved article text: f635fc908f50fae93be1f382671932acd6b4e57975567370746120284e4751d7. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://madamsneha74.blogspot.com/2022/09/50-year-female-with-fever-vomiting.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

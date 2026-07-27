@@ -1,0 +1,24 @@
+{
+  "_note": "PROPOSAL ONLY. Prepared for the authors of this case report. Nothing here has been minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "UDLCO CRH: Analysis of Case 1 in the patient events data driven conceptual paper focused on the premise: in complex, multi-system cases, it is critical to separate documented physiologic or anatomical",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "publication_date": "2026-06-08",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://medicinedepartment.blogspot.com/2026/06/udlco-crh-analysis-of-case-1-in-patient.html. SHA-256 of the retrieved text: 96889422d942db469246ae0d63f29bc1b998affa2bcd853156f74a5b54505b62. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://medicinedepartment.blogspot.com/2026/06/udlco-crh-analysis-of-case-1-in-patient.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

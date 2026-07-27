@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "77Y M with swelling on the left leg",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://187ishrathparveen.blogspot.com/2023/08/77y-m-with-swelling-on-left-leg.html. SHA-256 of the retrieved article text: c1ec6c6f23d57bb713599a5e372395a821ccbdbea5c67bc7a1fb6c7ddbb67d80. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://187ishrathparveen.blogspot.com/2023/08/77y-m-with-swelling-on-left-leg.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "Alcoholic liver disease",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://kallemshivani.blogspot.com/2023/09/alcoholic-liver-disease.html. SHA-256 of the retrieved article text: b0e467e61bf7fee2e58c97811f7102843916b2cad3fbd1a83d995acf5aec1bc4. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://kallemshivani.blogspot.com/2023/09/alcoholic-liver-disease.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

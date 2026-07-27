@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "37 G Jagadeesh",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://gouthajagadeesh37.blogspot.com/2023/10/hello-all-this-is-g-jagadeesha-eight.html. SHA-256 of the retrieved article text: 69df49da5a5a7691451b0e380dc9da7325e44b6374e5cf2420b4d67c89d3733b. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://gouthajagadeesh37.blogspot.com/2023/10/hello-all-this-is-g-jagadeesha-eight.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

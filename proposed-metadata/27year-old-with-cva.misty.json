@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "27year old with CVA",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://makkenavarsha76.blogspot.com/2023/03/27year-old-with-cva.html. SHA-256 of the retrieved article text: 418baba5eff7b4a1f857d61e413fb54b82b020ecc2f1c3effb741706877ed67c. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://makkenavarsha76.blogspot.com/2023/03/27year-old-with-cva.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

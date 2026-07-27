@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "A  42 YEAR OLD LADY WITH MULTIPLE EVENTS SINCE BIRTH",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://achalram1512.blogspot.com/2020/05/let-me-introduce-myself-i-am-g.html. SHA-256 of the retrieved article text: d60f3e8df076aa51d0f14503159a8950322174d9fb59600a7e3a5f00d2f1597e. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://achalram1512.blogspot.com/2020/05/let-me-introduce-myself-i-am-g.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

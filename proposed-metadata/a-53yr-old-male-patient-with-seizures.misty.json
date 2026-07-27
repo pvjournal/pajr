@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "A 53yr old male patient with seizures",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://nampellialekhya2021.blogspot.com/2021/10/general-medicine-case-6.html. SHA-256 of the retrieved article text: 8013d8f88e74242567a9eaaa3787d0d04e587245689a5b89da1b44c1b7824cfa. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://nampellialekhya2021.blogspot.com/2021/10/general-medicine-case-6.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

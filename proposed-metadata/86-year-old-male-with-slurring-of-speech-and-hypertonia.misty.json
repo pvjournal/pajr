@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "86 year old male with slurring of speech and hypertonia",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://kausalyavarma.blogspot.com/2022/03/male-patient-with-slurring-of-speech.html. SHA-256 of the retrieved article text: 741d2218ae447cbe26dd45e495ef2692513a5390a4858d4377f2214ce82e68c8. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://kausalyavarma.blogspot.com/2022/03/male-patient-with-slurring-of-speech.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

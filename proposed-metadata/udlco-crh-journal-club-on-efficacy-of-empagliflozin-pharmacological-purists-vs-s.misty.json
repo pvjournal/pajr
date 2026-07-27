@@ -1,0 +1,24 @@
+{
+  "_note": "PROPOSAL ONLY. Prepared for the authors of this case report. Nothing here has been minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "UDLCO CRH journal club on efficacy of empagliflozin, pharmacological purists vs systems oriented sceptics",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "publication_date": "2026-06-17",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://medicinedepartment.blogspot.com/2026/06/udlco-crh-journal-club-on-efficacy-of.html. SHA-256 of the retrieved text: 3ea81eed734a2d2823ddb45e3b7af711e7534016c563cd784f1fe38299f6a92d. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://medicinedepartment.blogspot.com/2026/06/udlco-crh-journal-club-on-efficacy-of.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

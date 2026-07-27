@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "Pulmonary Odema (Severe Acute Left Heart Failure) Dyspnea and wheeze is seen (Cardiac Dyspnea)",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://adnanarafath.blogspot.com/2023/05/mohammed-adnan-arafath.html. SHA-256 of the retrieved article text: c6fcf0fe267aa41e3e115731265fa67a4d85cb79fcd42201e8c43e406e917679. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://adnanarafath.blogspot.com/2023/05/mohammed-adnan-arafath.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "52 year old female with diabetic ketoacidosis  secondary to gatroenteritis",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://kalpanamiryala83.blogspot.com/2022/03/52-year-old-female-with-diabetic.html. SHA-256 of the retrieved article text: 0647a9d4e2ea33584240e3f51667ed1d7021d2ca1c1a192c4b10d8b519be8252. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://kalpanamiryala83.blogspot.com/2022/03/52-year-old-female-with-diabetic.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

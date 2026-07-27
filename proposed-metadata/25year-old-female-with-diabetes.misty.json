@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "25year old female with diabetes",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://manishkumarollno129.blogspot.com/2023/06/25year-old-female-with-diabetes.html. SHA-256 of the retrieved article text: d3618555fa34fb8346a0aa1eb7d94bc62ceffa63df88ec8f5352cad2d18c9936. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://manishkumarollno129.blogspot.com/2023/06/25year-old-female-with-diabetes.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

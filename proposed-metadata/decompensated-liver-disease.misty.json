@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "Decompensated liver disease",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://haarikamarupakula172.blogspot.com/2023/07/decompensated-liver-disease.html. SHA-256 of the retrieved article text: 38378c3dde7a565ca48175dbbedf85b8656bc5a70a5a59b206bd2cda68dfcd83. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://haarikamarupakula172.blogspot.com/2023/07/decompensated-liver-disease.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

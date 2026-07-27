@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "Animation Collection: Complete 8 Page Pink Panther Teaser Storyboard From \"The Pink Panther Laugh and a Half Hour and a Half Show,\" 1976",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://greganimationart.blogspot.com/2017/04/complete-8-page-pink-panther-teaser.html. SHA-256 of the retrieved article text: f60cc2db5e6609cdd2ee51e44073b018dc95ac8c92a6b4301e7584a728f4e8c9. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://greganimationart.blogspot.com/2017/04/complete-8-page-pink-panther-teaser.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

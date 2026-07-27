@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "PATIENT: Name  - EURYA acuminata  D C - 2    Age  - 56 y    Sex  -  F",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://736146.blogspot.com/2017/08/name-eurya-acuminata-d-c-2-age-56-y-sex.html. SHA-256 of the retrieved article text: 8e9827cdf3c42e86d338e965d4883ebfb7128ef53bcc1a5bd98a702b1db2d88d. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://736146.blogspot.com/2017/08/name-eurya-acuminata-d-c-2-age-56-y-sex.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

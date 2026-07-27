@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "fever projr 202249038 46/m",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://anahitabehara.blogspot.com/2024/05/fever-projr-202249038.html. SHA-256 of the retrieved article text: 6068b53d0361a84e62ea7d7d368b44015435b9b632ab679d010c7bf5af1f569b. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://anahitabehara.blogspot.com/2024/05/fever-projr-202249038.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

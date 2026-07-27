@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "Medicine Discussion: CASE SCENARIO : PARA-PARESIS III",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://chitrasrinivas.blogspot.com/2020/05/case-scenario-para-paresis-iii.html. SHA-256 of the retrieved article text: 062ca77c3c6d845b51e1ffd092d47b9e1c6ded1487d1a8dd802fe3cd821a6a78. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://chitrasrinivas.blogspot.com/2020/05/case-scenario-para-paresis-iii.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

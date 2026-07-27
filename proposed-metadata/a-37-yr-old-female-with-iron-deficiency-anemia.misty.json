@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "A 37 yr Old female with Iron Deficiency Anemia",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://47chaitanya.blogspot.com/2024/07/a-37-yr-old-female-with-iron-deficiency.html. SHA-256 of the retrieved article text: 58bd745fae82075a7263edc6862c0dc034e628c038561e4e61c6aaa02f1af132. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://47chaitanya.blogspot.com/2024/07/a-37-yr-old-female-with-iron-deficiency.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "\"MY EXPERIENCES WITH GENERAL CELLULAR AND NEURAL CELLULAR PATHOLOGY IN A CASE BASED BLENDED LEARNING ECOSYSTEM'S CBBLE \"",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://mounikagadiparthirollno46.blogspot.com/2023/05/my-experiences-with-general-cellular.html. SHA-256 of the retrieved article text: d3f88337a71294db0606f5bdef75f62cfb30068a30b77f236e02d04beb2c71ad. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://mounikagadiparthirollno46.blogspot.com/2023/05/my-experiences-with-general-cellular.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

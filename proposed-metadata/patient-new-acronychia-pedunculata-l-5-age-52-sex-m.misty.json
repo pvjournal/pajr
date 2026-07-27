@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "PATIENT: New  -  Acronychia  Pedunculata ( L) - 5 ,  Age - 52 , Sex -  M",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://736146.blogspot.com/2019/11/new-acronychia-pedunculata-l-5-age-52.html. SHA-256 of the retrieved article text: 1b83b236771ff29768c844af92563a4bc5c2d5072dae468d1e03bc3c213b6913. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://736146.blogspot.com/2019/11/new-acronychia-pedunculata-l-5-age-52.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "Animation Collection: Original Production Animation Cel of Edgar, Scat Cat, and the Alley Cats (Shun Gon the Chinese Cat, Hit Cat the English Cat, and Peppo the Italian Cat) from \"The Aristocats,\" 197",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://greganimationart.blogspot.com/2023/03/original-production-animation-cel-of_24.html. SHA-256 of the retrieved article text: 308b2999f83f1b4e701fab7a9961c239f258ff267c131f525c236210296efb55. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://greganimationart.blogspot.com/2023/03/original-production-animation-cel-of_24.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

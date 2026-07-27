@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "HFrEF WITH EF 33% SECONDARY TO CAD (LAD TERRITORY S/P? MI) WITH K/C/O DM 2 WITH TYPE 1 VITILIGO VULGARIS, ALLERGIC CONTACT DERMATITIS, AZTEOTOTIC ECZEMA",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://mahithguduri63.blogspot.com/2021/08/hfref-with-ef-33-secondary-to-cad-lad.html. SHA-256 of the retrieved article text: 9a25339220b59e3dab55cf726213c1bc84ba6f5afbafba0a2b239478de46d4c6. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://mahithguduri63.blogspot.com/2021/08/hfref-with-ef-33-secondary-to-cad-lad.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

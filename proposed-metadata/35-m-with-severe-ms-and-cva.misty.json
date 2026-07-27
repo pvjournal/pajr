@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "35 /M with severe MS and CVA .",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://karnativaishnavi.blogspot.com/2020/08/35-m-with-severe-ms-and-cva.html. SHA-256 of the retrieved article text: 0f3f050c2f9222dabd74069a088463e300357750b2359801303681c3a26e8cb9. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://karnativaishnavi.blogspot.com/2020/08/35-m-with-severe-ms-and-cva.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

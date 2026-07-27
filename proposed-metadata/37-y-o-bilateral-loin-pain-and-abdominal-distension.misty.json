@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "37 y/o BILATERAL LOIN PAIN AND ABDOMINAL DISTENSION",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://jayasrujanayadavalli.blogspot.com/2023/09/37-yo-bilateral-loin-pain-and-abdominal.html. SHA-256 of the retrieved article text: 0850f05604bb087d7ca98eb72a1f9dd7f3d15cf7fac4052599f52ad211a297f7. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://jayasrujanayadavalli.blogspot.com/2023/09/37-yo-bilateral-loin-pain-and-abdominal.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

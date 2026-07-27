@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "Jahnavi Chatla",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://jahnavichatla.blogspot.com/2023/06/this-is-case-of-45-year-old.html. SHA-256 of the retrieved article text: 18caca1cade96d913c0e0de1eb64f660edea12d76fbca61d0c545c0e1682d8dd. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://jahnavichatla.blogspot.com/2023/06/this-is-case-of-45-year-old.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

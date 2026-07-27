@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "26 Year Old male with fever",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://httpssamyuktha.blogspot.com/2022/04/26-year-old-male-with-fever.html. SHA-256 of the retrieved article text: 7df39ed7d68cf3ff45d0b4fc70424bb3283098bdd2c10ca39d47f51cfde4fe7b. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://httpssamyuktha.blogspot.com/2022/04/26-year-old-male-with-fever.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

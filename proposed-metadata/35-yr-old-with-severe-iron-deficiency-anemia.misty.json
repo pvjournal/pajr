@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "35 yr old with Severe Iron deficiency anemia",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://makkenavarsha76.blogspot.com/2023/04/35-yr-old-with-severe-iron-deficiency.html. SHA-256 of the retrieved article text: a0abbd686c19c4653fb1c26f838d00014a09a1018d449fc986a9fcc66ae66b03. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://makkenavarsha76.blogspot.com/2023/04/35-yr-old-with-severe-iron-deficiency.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "PATIENT: Ophiorrhiza Harrisana Heyne  - 3   Age - 23 y  Sex -  M",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://736146.blogspot.com/2017/09/ophiorrhiza-harrisana-heyne-3-age-23-y.html. SHA-256 of the retrieved article text: cfacd6e59b0d1563d9c48f7d02801907b050768a6d7af2bccf82487b547e303c. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://736146.blogspot.com/2017/09/ophiorrhiza-harrisana-heyne-3-age-23-y.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

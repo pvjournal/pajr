@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "INTERNSHIP ASSESSMENT OF ROLL NO:09 FROM APRIL 01 TO MAY 30,2023",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://battulapavithrarollno19.blogspot.com/2023/06/internship-assessment-of-roll-no09-from.html. SHA-256 of the retrieved article text: e07e03a74bc7d84e91956627ecb8a4d6c9e60e488f3f6c79f328775a4cf203f7. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://battulapavithrarollno19.blogspot.com/2023/06/internship-assessment-of-roll-no09-from.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

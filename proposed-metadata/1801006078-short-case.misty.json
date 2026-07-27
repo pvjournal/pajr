@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "1801006078 - Short Case",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://kshitijsharmamyrollno192case1.blogspot.com/2022/11/a-65f-with-co-pedal-edema-sob.html. SHA-256 of the retrieved article text: d5d92cc5a1dfc75299a8339da570ea250ff96a9045c1f5a8799e11c032944dba. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://kshitijsharmamyrollno192case1.blogspot.com/2022/11/a-65f-with-co-pedal-edema-sob.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

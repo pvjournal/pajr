@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "A 58year Old Male Patient With CKD On MHD",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://jakkojubhavani999.blogspot.com/2022/04/a-58year-old-male-patient-with-ckd-on.html. SHA-256 of the retrieved article text: 02fd8826ec922f5463cb5c6d9687bc8eb5c841455bd338c3db8f7def2086439b. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://jakkojubhavani999.blogspot.com/2022/04/a-58year-old-male-patient-with-ckd-on.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

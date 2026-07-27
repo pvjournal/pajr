@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "A 55 yr old male with lower back pain",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://kanumillikundana60.blogspot.com/2023/06/a-55-yr-old-male-with-lower-back-pain.html. SHA-256 of the retrieved article text: e3015032e6b5f4af0f715d6fc80d59d643dd95567b2ed3c290a8a60e60f99f5a. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://kanumillikundana60.blogspot.com/2023/06/a-55-yr-old-male-with-lower-back-pain.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

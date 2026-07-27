@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "70 year old female with altered sensorium",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://laharika29.blogspot.com/2022/12/70-year-old-female-with-altered.html. SHA-256 of the retrieved article text: 3d745f7c09043f66938e40419254f4060879c87e7553be4f30932af0ceae0314. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://laharika29.blogspot.com/2022/12/70-year-old-female-with-altered.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

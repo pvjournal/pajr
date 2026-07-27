@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "INTERNSHIP ASSESSMENT ROLL NO: 1-24",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://ailanibyogita.blogspot.com/2022/10/internship-assessment-roll-no-1-8.html. SHA-256 of the retrieved article text: 841d2dfbe317e14a2178b5bb62d26f527acef3ce4b9dc177745bc0fe0adeac10. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://ailanibyogita.blogspot.com/2022/10/internship-assessment-roll-no-1-8.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

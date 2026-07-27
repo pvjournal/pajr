@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "Acute ischemic infarct with UMN facial palsy",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://60shirisha.blogspot.com/2023/01/medicine-case-discussion.html. SHA-256 of the retrieved article text: 53fee0ee6c5544f4ff8c5590b96db559c8d301327b4c94abfaed4b2cbf97198a. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://60shirisha.blogspot.com/2023/01/medicine-case-discussion.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

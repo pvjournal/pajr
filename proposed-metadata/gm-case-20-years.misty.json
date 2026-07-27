@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "Gm case (20 years)",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://187ishrathparveen.blogspot.com/2022/12/gm-case-20-years.html. SHA-256 of the retrieved article text: 8921bf64bb87c93c8b3686d57c236be0851abc67b7566511a73098a0a775e829. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://187ishrathparveen.blogspot.com/2022/12/gm-case-20-years.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

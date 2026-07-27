@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "A 60 YEAR OLD MALE WITH LOSS OF APPETITE AND PEDAL EDEMA",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://34vijayaratnadande.blogspot.com/2021/08/general-medicine-e-log-2.html. SHA-256 of the retrieved article text: cfe95e2c3563d3a8ad55fe411e9530f67ec4be978172c54d460d653d0ed11d26. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://34vijayaratnadande.blogspot.com/2021/08/general-medicine-e-log-2.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

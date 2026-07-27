@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "ALTERED SENSORIUM SECONDARY TO ? SEPTIC ENCEPHALOPATHY WITH UTI ? TB MENINGO ENCEPHALIIS WITH PRE RENAL AKI ON CKD WITH HEALING GLUTEAL ABSCESS WITH HTN WITH LATE ONSET PSYCHOSIS WITH ANEMIA OF CHRONI",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://24prannaireddy.blogspot.com/2024/05/gm-blog-1.html. SHA-256 of the retrieved article text: dfd04848d190176efe05c284954552a19410fb147dfab1999857788e0a386f5c. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://24prannaireddy.blogspot.com/2024/05/gm-blog-1.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

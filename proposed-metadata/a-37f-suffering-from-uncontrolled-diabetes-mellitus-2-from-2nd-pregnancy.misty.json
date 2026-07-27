@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "A 37F suffering from Uncontrolled Diabetes Mellitus-2 from 2nd Pregnancy",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://amilidutta137.blogspot.com/2022/09/a-37f-suffering-from-uncontrolled.html. SHA-256 of the retrieved article text: 3a1a38b0502e79141ea833b7a1e05f8cb193bf39fc7c6859c838b03eb514f1aa. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://amilidutta137.blogspot.com/2022/09/a-37f-suffering-from-uncontrolled.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "Animation Collection: Original hand painted production animation cels of the Fellowship of the Rings: Frodo, Sam, Merry, Pippin, Gandalf, Aragorn, Gimli, Boromir, and Legolas from \"The Lord of the Rin",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://greganimationart.blogspot.com/2026/04/original-hand-painted-production.html. SHA-256 of the retrieved article text: 4475b581ff957f174872f508d6e28bcb3ad8ff75c781651aeddd1229e2e27406. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://greganimationart.blogspot.com/2026/04/original-hand-painted-production.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

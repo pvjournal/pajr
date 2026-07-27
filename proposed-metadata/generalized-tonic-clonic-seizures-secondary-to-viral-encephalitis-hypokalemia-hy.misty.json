@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "GENERALIZED TONIC CLONIC SEIZURES SECONDARY TO VIRAL ENCEPHALITIS ,HYPOKALEMIA,HYPOPROTEINEMIA,DIABETIC NEPHROPATHY AND DIABETIC RETINOPATHY",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://anushaboda189.blogspot.com/2021/03/general-medicine-case-rollno-189.html. SHA-256 of the retrieved article text: ba675bbd3e1ff6715a7be6e54dd1515b4d6f9c9a412b5f80454b3a775a5b1e40. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://anushaboda189.blogspot.com/2021/03/general-medicine-case-rollno-189.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

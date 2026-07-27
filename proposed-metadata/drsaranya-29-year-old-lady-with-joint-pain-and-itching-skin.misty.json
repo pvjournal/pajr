@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "drsaranya: 29 year Old Lady with Joint Pain and Itching skin",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://drsaranyaroshni.blogspot.com/2022/01/29-year-old-lady-with-joint-pain-and.html. SHA-256 of the retrieved article text: 289195c76d20510dc5b2764e415b650c1ef3766a555086522f3b20b6bd28ec34. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://drsaranyaroshni.blogspot.com/2022/01/29-year-old-lady-with-joint-pain-and.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

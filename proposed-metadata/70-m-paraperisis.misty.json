@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "70 M PARAPERISIS",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://ankitpachipulusurollno13.blogspot.com/2023/05/70-m-paraperisis.html. SHA-256 of the retrieved article text: 58b5f2802a036d47e2dac182886b7cdbda7473b07ca7ce02ea4bc6a9b3cc13e0. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://ankitpachipulusurollno13.blogspot.com/2023/05/70-m-paraperisis.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

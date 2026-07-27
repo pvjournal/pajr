@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "55 F with altered sensorium secondary to septic/uremic encephalopathy",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://jharipriya.blogspot.com/2023/07/55-f-with-altered-sensorium-secondary.html. SHA-256 of the retrieved article text: f7fd16fb2ea2e497283ae62fb08b4f13ef85f94ded0f4a430650ee1b27843d66. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://jharipriya.blogspot.com/2023/07/55-f-with-altered-sensorium-secondary.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

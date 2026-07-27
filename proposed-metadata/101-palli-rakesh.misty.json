@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "101 palli rakesh",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://101pallirakesh.blogspot.com/2021/07/101-palli-rakesh.html. SHA-256 of the retrieved article text: 87acacc42a7c73dda818855b2625add8f827a999dd943babe8e0f450bc7f74c6. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://101pallirakesh.blogspot.com/2021/07/101-palli-rakesh.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

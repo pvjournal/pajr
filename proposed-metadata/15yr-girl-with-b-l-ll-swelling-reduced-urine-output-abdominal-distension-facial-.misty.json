@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "15yr girl with b/l LL swelling  , reduced urine output, abdominal distension, facial puffiness and dyspnea",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://elogformedicalcasebyintern.blogspot.com/2021/10/15yr-girl-with-bl-ll-swelling-reduced.html. SHA-256 of the retrieved article text: 18f18b029bfcc9194c90a2d164b485dba5bd4d428617042f818e20df557d797a. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://elogformedicalcasebyintern.blogspot.com/2021/10/15yr-girl-with-bl-ll-swelling-reduced.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

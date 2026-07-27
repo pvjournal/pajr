@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "1702102079 LONG CASE",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://bdsgmpracticals.blogspot.com/2021/09/1702102079-long-case.html. SHA-256 of the retrieved article text: bd30f9a959966c5de3ab779a2d93e2ca401088498a408c837cca3976d1ab2bd2. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://bdsgmpracticals.blogspot.com/2021/09/1702102079-long-case.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

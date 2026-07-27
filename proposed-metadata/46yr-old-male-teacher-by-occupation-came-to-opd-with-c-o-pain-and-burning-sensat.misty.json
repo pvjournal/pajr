@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "46yr old male teacher by occupation came to opd with c/o Pain and Burning sensation of abdomen and Dyspepsia",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://dnagasairohith38.blogspot.com/2022/07/46yr-old-male-teacher-by-occupation.html. SHA-256 of the retrieved article text: 763688c33e939db9dfa37e4840c94ac7003b245b2bc3aee625d046fcfefc1f4b. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://dnagasairohith38.blogspot.com/2022/07/46yr-old-male-teacher-by-occupation.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

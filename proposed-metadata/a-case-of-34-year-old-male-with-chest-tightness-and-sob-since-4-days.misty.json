@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "A CASE OF 34 YEAR OLD MALE WITH CHEST TIGHTNESS AND SOB SINCE 4 DAYS",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://madamsneha74.blogspot.com/2024/05/a-case-of-34-year-old-male-with-chest.html. SHA-256 of the retrieved article text: 85d78b61e89c92d5f47184d6580f31aae2ab664ff6a9af35cd015cd12f3b1a27. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://madamsneha74.blogspot.com/2024/05/a-case-of-34-year-old-male-with-chest.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

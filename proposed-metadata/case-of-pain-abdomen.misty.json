@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "Case of pain abdomen",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://kattekolasathwik.blogspot.com/2022/03/case-10-case-of-pain-abdomen.html. SHA-256 of the retrieved article text: 80fcc5012042c842ae6be2b40673525340dd5021c84b7e246fc86af35b5bc8fb. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://kattekolasathwik.blogspot.com/2022/03/case-10-case-of-pain-abdomen.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "67 Sai Likhitha: 28 yr old male with severe anemia.",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://67sailikhitha.blogspot.com/2022/09/67-k-sai-likhitha.html. SHA-256 of the retrieved article text: 980d442dabaf1f6c10fad23110f5c2fdbfce3b2240b1d6e82ac08962a06c7e22. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://67sailikhitha.blogspot.com/2022/09/67-k-sai-likhitha.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

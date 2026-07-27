@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "Gen med 2024",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://98chandanapadi.blogspot.com/2024/10/gen-med-2024.html. SHA-256 of the retrieved article text: 7ac2321b53154501e94163282673ac42b9857c218e706082a9a4f6823cce035b. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://98chandanapadi.blogspot.com/2024/10/gen-med-2024.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "62F SOB 1YR HEADACHE 1 MONTH",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://kasarabadhasampathrollno71.blogspot.com/2023/09/blog-post.html. SHA-256 of the retrieved article text: 74ac87433d25e034297d46851ba67150b7c7c4c22dc973c87cf316a3c4ca508d. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://kasarabadhasampathrollno71.blogspot.com/2023/09/blog-post.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

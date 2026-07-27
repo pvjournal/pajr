@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "46/M with Peripheral Neuropathy",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://144varshithakalidindi.blogspot.com/2021/08/46m-with-peripheral-neuropathy.html. SHA-256 of the retrieved article text: 4a2df5f47f6bfba7d4db8a9450c434daae9496d48bc98208adf26d44b488ac23. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://144varshithakalidindi.blogspot.com/2021/08/46m-with-peripheral-neuropathy.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

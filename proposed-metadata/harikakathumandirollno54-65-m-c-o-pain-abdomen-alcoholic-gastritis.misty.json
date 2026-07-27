@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "HarikaKathumandirollno54: 65/M C/O PAIN ABDOMEN,? ALCOHOLIC GASTRITIS",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://harikakathumandirollno54.blogspot.com/2023/06/65m-co-pain-abdomen-alcoholic-gastritis.html. SHA-256 of the retrieved article text: 159b7782e4dbe033f03150938bba9a39f1d890287ef8f5af3b5635845bb52272. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://harikakathumandirollno54.blogspot.com/2023/06/65m-co-pain-abdomen-alcoholic-gastritis.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

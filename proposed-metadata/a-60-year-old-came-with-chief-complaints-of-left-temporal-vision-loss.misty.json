@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "A 60 year old came with chief complaints of left temporal vision loss",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://chippathoshitha30.blogspot.com/2023/11/a-60-year-old-came-with-chief.html. SHA-256 of the retrieved article text: c137083a64f6d1e016ceea10f9be279d6b468a51ae7f85aac8d06c93bcf5bf40. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://chippathoshitha30.blogspot.com/2023/11/a-60-year-old-came-with-chief.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

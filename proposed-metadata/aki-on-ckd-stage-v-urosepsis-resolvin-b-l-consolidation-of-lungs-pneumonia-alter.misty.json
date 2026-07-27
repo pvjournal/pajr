@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "AKI on CKD stage v urosepsis (resolvin)B/L consolidation of lungs (pneumonia) altered sensorium secondary to?septic enchephalopathy ? uremic enchephalopathy.   Type 2 respiratory failure     septic sh",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://navya96.blogspot.com/2023/06/septic-enchephalopathy-uremic.html. SHA-256 of the retrieved article text: a68916f99c7295a964f34c2d7ed8ea1ca472d4e6ba322e33dc0f45d2f2ef79f2. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://navya96.blogspot.com/2023/06/septic-enchephalopathy-uremic.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

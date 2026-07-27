@@ -1,0 +1,24 @@
+{
+  "_note": "PROPOSAL ONLY. Prepared for the authors of this case report. Nothing here has been minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "UDLCO CRH: From real patient events data driven conversations to ideal systems: Designing a Governable Architecture for Distributed Care",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "publication_date": "2026-05-03",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://userdrivenhealthcare.blogspot.com/2026/05/udlco-crh-from-real-patient-events-data.html. SHA-256 of the retrieved text: bc154b44822af86a63821cf3942c6e88cc39424107e9970ae9fc56576b036c2b. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://userdrivenhealthcare.blogspot.com/2026/05/udlco-crh-from-real-patient-events-data.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

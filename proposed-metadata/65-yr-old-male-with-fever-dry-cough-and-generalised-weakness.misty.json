@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "65 yr old male with fever,dry cough and generalised weakness",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://laharika29.blogspot.com/2022/10/65-yr-old-male-with-feverdry-cough-and.html. SHA-256 of the retrieved article text: e05dd7765bc3a0a09b53bb25a52ec075a92eac0ac8a2ad1c8ef360d73ab00160. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://laharika29.blogspot.com/2022/10/65-yr-old-male-with-feverdry-cough-and.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

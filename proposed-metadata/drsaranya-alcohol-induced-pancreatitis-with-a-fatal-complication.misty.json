@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "drsaranya: Alcohol Induced Pancreatitis with a Fatal Complication",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://drsaranyaroshni.blogspot.com/2021/05/alcohol-induced-pancreatitis-with-fatal.html. SHA-256 of the retrieved article text: c7ef4a15c69a7c5ca20644d2ff5818175751083ea0a186f9afd6eedc1cf3937e. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://drsaranyaroshni.blogspot.com/2021/05/alcohol-induced-pancreatitis-with-fatal.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

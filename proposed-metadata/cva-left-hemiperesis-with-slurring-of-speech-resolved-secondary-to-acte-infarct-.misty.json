@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "CVA LEFT HEMIPERESIS WITH SLURRING OF SPEECH RESOLVED SECONDARY TO ACTE INFARCT IN RIGHT PARIETAL LOBE AND SUBACUTE INFARCT AND LEFT CEREBELLUM ,MID BRAIN AND PONS SECONDARY TO CARDIO EMBOLIC STROKE W",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://daniyamenazrollno121.blogspot.com/2024/05/cva-left-hemiperesis-with-slurring-of.html. SHA-256 of the retrieved article text: c4bcac7d93d60d694e8da9b912d65021a9459f605f130c827affaf33bad7d6f1. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://daniyamenazrollno121.blogspot.com/2024/05/cva-left-hemiperesis-with-slurring-of.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

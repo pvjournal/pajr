@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "Animation Collection: John Pomeroy Signed Original Production Animation Drawing of Milo Thatch from \"Atlantis: The Lost Empire,\" 2001",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://greganimationart.blogspot.com/2018/02/john-pomeroy-signed-original-production.html. SHA-256 of the retrieved article text: 6a7af354eaccdef4979b81886547e8c54f17f9bf257f46bbdd852023cd03f325. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://greganimationart.blogspot.com/2018/02/john-pomeroy-signed-original-production.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

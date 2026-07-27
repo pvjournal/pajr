@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "27yr old with DECOMPENSATED LIVER DISEASE",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://makkenavarsha76.blogspot.com/2023/04/27yr-old-with-decompensated-liver.html. SHA-256 of the retrieved article text: 5a5028e8e68ddeedeea467b2a40a15880a5ca90359f5d212ef1f8ba506a011d2. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://makkenavarsha76.blogspot.com/2023/04/27yr-old-with-decompensated-liver.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

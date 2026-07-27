@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "80 yr old male with right lung collapse",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://manisharanga132.blogspot.com/2022/10/80-yr-old-male-with-lung-collapse.html. SHA-256 of the retrieved article text: 18e7846d3d8fde369e03510d5c2696f5793b591d3796ea617b16edca0695524b. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://manisharanga132.blogspot.com/2022/10/80-yr-old-male-with-lung-collapse.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

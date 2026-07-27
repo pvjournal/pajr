@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "A 65 year old male with bph symptoms since 3 months and diabetes since 10years",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://98chandanapadi.blogspot.com/2023/11/65-year-old-male-with-bph-symptoms.html. SHA-256 of the retrieved article text: 8ff6905e23039c35cd2bb89f530140f908dd53f3069d5dd67bdfabad32ca35e6. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://98chandanapadi.blogspot.com/2023/11/65-year-old-male-with-bph-symptoms.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

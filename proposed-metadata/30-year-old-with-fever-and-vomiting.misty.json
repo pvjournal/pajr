@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "30 year old with fever and vomiting",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://kattaphanikeerthanarollno72.blogspot.com/2022/12/a-34-year-old-male-with-jaundice-and.html. SHA-256 of the retrieved article text: 7c6188d3f45a7aec8b771e054d86ffe657911811e5c11b2c83234fbf13b436f6. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://kattaphanikeerthanarollno72.blogspot.com/2022/12/a-34-year-old-male-with-jaundice-and.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

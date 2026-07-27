@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "A 65 YEAR OLD MALE WITH WEAKNESS IN ALL LIMBS",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://lasyareddyrollno193.blogspot.com/2022/12/a-65-year-old-male-with-weakness-in-all.html. SHA-256 of the retrieved article text: 46f6deb85cc246d5f8b8535ca88d550112e2e5858260dbd9ad61a2cbcf9d0b36. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://lasyareddyrollno193.blogspot.com/2022/12/a-65-year-old-male-with-weakness-in-all.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

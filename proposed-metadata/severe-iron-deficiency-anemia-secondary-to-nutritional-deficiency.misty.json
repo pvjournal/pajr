@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "SEVERE IRON DEFICIENCY ANEMIA SECONDARY TO NUTRITIONAL DEFICIENCY",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://laharikantoju.blogspot.com/2024/07/diagnosis-severe-iron-deficiency-anemia.html. SHA-256 of the retrieved article text: b3d0e5f1b28e3348c9cf6149fae3d003d1d789aa74e6482eb2c2c6cbc8d712e1. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://laharikantoju.blogspot.com/2024/07/diagnosis-severe-iron-deficiency-anemia.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "65 year old female with viral pyrexia and throbocytopenia",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://adarshanarayana04.blogspot.com/2023/01/case-of-dengue-fever-with.html. SHA-256 of the retrieved article text: 19350fcf038f9c798da1ff255de29c6bc64051c43da0ef9238a4dd9b5ef0b643. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://adarshanarayana04.blogspot.com/2023/01/case-of-dengue-fever-with.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

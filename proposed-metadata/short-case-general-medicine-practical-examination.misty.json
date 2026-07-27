@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "Short Case General Medicine Practical Examination",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://adityarollno75.blogspot.com/2023/01/short-case-general-medicine-practical.html. SHA-256 of the retrieved article text: 3609fe24b34977b4a738cbad9d33ae4a9d5b54316bff737bab61924cfcaa2583. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://adityarollno75.blogspot.com/2023/01/short-case-general-medicine-practical.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

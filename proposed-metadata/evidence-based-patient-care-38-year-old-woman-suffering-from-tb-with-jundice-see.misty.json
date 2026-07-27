@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "Evidence Based Patient Care: 38 year old woman suffering from TB with Jundice seeking medical experts help",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://ebpc-udhc-debasishacharjee.blogspot.com/2017/07/38-year-old-woman-suffering-from-tb.html. SHA-256 of the retrieved article text: 7d32989badb1620ab4c58f102b76f3f5a843920582678a554014389a54d89dae. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://ebpc-udhc-debasishacharjee.blogspot.com/2017/07/38-year-old-woman-suffering-from-tb.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

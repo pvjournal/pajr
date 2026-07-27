@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "ALTERED SENSORIUM (RESOLVED)SECONDARY TO SEPSIS- SEPTIC ENCEPHALOPATHY WET GANGRENE OF LEFT 3RD TOE- S/P DISARTICULATION OF 3 RD TOE ON 10-08-2023 WITH CELLULITIS OF LEFT LEG WITH UNCINTROLLED SUGARS ",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://24prannaireddy.blogspot.com/2024/05/altered-sensorium-resolvedsecondary-to_30.html. SHA-256 of the retrieved article text: 8a21c8f01e28d802c768fd7942a6d819f9566c2151bfc52a78d12d2993bb7d41. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://24prannaireddy.blogspot.com/2024/05/altered-sensorium-resolvedsecondary-to_30.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "Animation Collection: Original Production Cel of Jos\u00e9 Carioca and Panchito Pistoles On A Flying Sarape (Magic Carpet) From the \"Mexico: P\u00e1tzcuaro, Veracruz and Acapulco\" Segment of \"The Three Caballer",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://greganimationart.blogspot.com/2016/01/original-production-cel-of-jose-carioca.html. SHA-256 of the retrieved article text: ae747d4b88f4f29351c6f4b69366537f8b880fec277d967edc914d4ddadce1d8. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://greganimationart.blogspot.com/2016/01/original-production-cel-of-jose-carioca.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

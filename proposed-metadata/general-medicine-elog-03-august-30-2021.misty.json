@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "GENERAL MEDICINE ELOG-03 AUGUST-30,2021",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://divyapolagoni01.blogspot.com/2021/08/general-medicine-elog-03-august-302021.html. SHA-256 of the retrieved article text: 22dd38862bd0ab01617a6ab84dd59bb13ebbcdc19c26281f54745e5f9c0e7557. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://divyapolagoni01.blogspot.com/2021/08/general-medicine-elog-03-august-302021.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

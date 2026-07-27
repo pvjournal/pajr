@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "67 Sai Likhitha: Internal assessment 2",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://67sailikhitha.blogspot.com/2023/11/internal-assessment-2.html. SHA-256 of the retrieved article text: 3423d94303494e317bfe0f7de500dcca234f2bc2af0bfade9c9af067d7a29f48. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://67sailikhitha.blogspot.com/2023/11/internal-assessment-2.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

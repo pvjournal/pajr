@@ -1,0 +1,24 @@
+{
+  "_note": "PROPOSAL ONLY. Prepared for the authors of this case report. Nothing here has been minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "metadata": {
+    "title": "Annual list of holidays",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "publication_date": "2026-06-24",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://userdrivenhealthcare.blogspot.com/2026/06/annual-list-of-holidays.html. SHA-256 of the retrieved text: 5033fcd1cd26e69c190f104d57064e116213b61e98bc0dce0044a37ba9d7e1f6. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://userdrivenhealthcare.blogspot.com/2026/06/annual-list-of-holidays.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

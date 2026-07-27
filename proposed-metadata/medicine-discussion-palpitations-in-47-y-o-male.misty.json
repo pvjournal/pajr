@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "Medicine Discussion: PALPITATIONS IN 47 Y/O MALE",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://chitrasrinivas.blogspot.com/2021/04/palpitations-in-47-yo-male.html. SHA-256 of the retrieved article text: be30c162a3c814006d4bbb3621f4366669536e126b5546bb062be4af83984dfa. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://chitrasrinivas.blogspot.com/2021/04/palpitations-in-47-yo-male.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

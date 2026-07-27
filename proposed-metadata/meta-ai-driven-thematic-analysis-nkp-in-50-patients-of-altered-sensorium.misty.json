@@ -1,0 +1,25 @@
+{
+  "_note": "PROPOSAL ONLY, prepared for the authors. Nothing minted. Minting intent belongs to the authors.",
+  "author_verified": false,
+  "doi": null,
+  "_licence_note": "The PaJR corpus is published under CC BY-NC-SA 4.0. This index is a derivative reference and inherits the same licence: attribution to the authors, non-commercial, share-alike. Any downstream reuse is bound by BY-NC-SA.",
+  "metadata": {
+    "title": "Meta AI driven Thematic analysis NKP in 50 patients of altered sensorium",
+    "upload_type": "publication",
+    "license": "cc-by-nc-sa-4.0",
+    "publication_type": "article",
+    "creators": [
+      {
+        "name": "TO BE COMPLETED BY THE AUTHORS"
+      }
+    ],
+    "description": "Case report published at https://jharipriya.blogspot.com/2024/07/meta-ai-driven-thematic-analysis-nkp-in.html. SHA-256 of the retrieved article text: 02d5f9bcf6e4bc6860fc1e71c7774fd0895e62969d45173f312400935a00a32d. Indexed, not reproduced.",
+    "related_identifiers": [
+      {
+        "identifier": "https://jharipriya.blogspot.com/2024/07/meta-ai-driven-thematic-analysis-nkp-in.html",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}
