@@ -1,6 +1,6 @@
 <!doctype html><meta charset="utf-8">
 <title>PaJR Reader — seed a conversation from any selection</title>
-<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <!-- PaJR Reader v0.8.0 · built with Claude Opus 4.5 · third-party index, CC BY-NC-SA 4.0 -->
 <style>
 :root{--ink:#1a2730;--mut:#6b7f8d;--acc:#0a6a5c;--warm:#b4531f;--line:#e4dfd5;--bg:#faf8f4;--paper:#fffdf9}
@@ -34,8 +34,9 @@ article h3{font-size:14px;letter-spacing:.05em;text-transform:uppercase;color:va
 article img{max-width:100%;border-radius:8px;border:1px solid var(--line);margin:8px 0}
 ::selection{background:#bfe3db}
 #pop{position:absolute;display:none;z-index:20;background:#fff;border:1px solid var(--acc);
- border-radius:10px;box-shadow:0 8px 24px rgba(0,0,0,.16);padding:5px;white-space:nowrap}
-#pop button{font:12px system-ui;border:0;background:none;cursor:pointer;padding:6px 11px;color:var(--acc);border-radius:6px}
+ border-radius:10px;box-shadow:0 8px 24px rgba(0,0,0,.16);padding:5px;white-space:nowrap;
+ max-width:96vw;overflow-x:auto;-webkit-overflow-scrolling:touch}
+#pop button{font:13px system-ui;border:0;background:none;cursor:pointer;padding:10px 13px;color:var(--acc);border-radius:6px;min-height:40px}
 #pop button:hover{background:#eef5f3}
 #pop .sep{display:inline-block;width:1px;height:16px;background:var(--line);margin:0 3px;vertical-align:-3px}
 .loading{color:var(--mut)}
@@ -330,12 +331,46 @@ function preamble(sel,mode){
   }[mode]||'Discuss this passage:';
   return base+'\n\n'+ask+'\n\n"'+sel+'"';
 }
-document.addEventListener('mouseup',function(){
-  const s=(window.getSelection()+'').trim();
-  if(s.length<12){pop.style.display='none';return}
-  const r=window.getSelection().getRangeAt(0).getBoundingClientRect();
-  pop.style.left=Math.max(8,Math.min(r.left,innerWidth-380))+'px';
-  pop.style.top=(window.scrollY+r.bottom+8)+'px';pop.style.display='block';pop.dataset.s=s;});
+/* Touch devices never deliver a useful `mouseup` after a text selection: the OS
+   shows its own handles and the user adjusts with those. Binding the seed popup
+   to mouseup meant select-and-seed was dead on every phone and tablet. The event
+   that actually describes what the user is doing is `selectionchange`, debounced
+   so it lands once the selection settles rather than on every handle drag.
+   Position against visualViewport — on mobile innerWidth ignores pinch zoom and
+   the on-screen keyboard, so the popup lands off-screen. */
+let SEL_T=null;
+function placePop(){
+  const sel=window.getSelection();
+  const s=(sel?sel.toString():'').trim();
+  if(s.length<12 || !sel.rangeCount){ pop.style.display='none'; return; }
+  const r=sel.getRangeAt(0).getBoundingClientRect();
+  if(!r || (!r.width && !r.height)){ pop.style.display='none'; return; }
+  const vv=window.visualViewport;
+  const vw=vv?vv.width:window.innerWidth;
+  const offX=vv?vv.offsetLeft:0, offY=vv?vv.offsetTop:0;
+  pop.style.display='block';
+  const pw=pop.offsetWidth||360, ph=pop.offsetHeight||44;
+  let left=r.left+offX+(r.width/2)-(pw/2);
+  left=Math.max(8, Math.min(left, vw-pw-8));
+  /* below the selection where the OS callout usually is not; above if no room */
+  const belowOk=(r.bottom+offY+ph+12) < (vv?vv.height:window.innerHeight);
+  const top=belowOk ? (window.scrollY+r.bottom+offY+10)
+                    : (window.scrollY+r.top+offY-ph-10);
+  pop.style.left=left+'px';
+  pop.style.top=Math.max(window.scrollY+4, top)+'px';
+  pop.dataset.s=s;
+}
+function scheduleSel(delay){
+  clearTimeout(SEL_T);
+  SEL_T=setTimeout(placePop, delay);
+}
+document.addEventListener('selectionchange',()=>scheduleSel(320));
+document.addEventListener('mouseup',()=>scheduleSel(0));
+document.addEventListener('touchend',()=>scheduleSel(360),{passive:true});
+if(window.visualViewport){
+  window.visualViewport.addEventListener('resize',()=>scheduleSel(0));
+  window.visualViewport.addEventListener('scroll',()=>scheduleSel(0));
+}
 async function toClipboard(t){
   try{await navigator.clipboard.writeText(t);return true}
   catch(e){const ta=document.createElement('textarea');ta.value=t;ta.style.position='fixed';
@@ -354,5 +389,7 @@ pop.querySelectorAll('button').forEach(function(b){b.onclick=async function(){
     if(P.url) window.open(P.url,'_blank','noopener'); }
   pop.style.display='none';
 };});
-document.addEventListener('mousedown',function(e){if(!pop.contains(e.target))pop.style.display='none';});
+function maybeDismiss(e){ if(!pop.contains(e.target)) pop.style.display='none'; }
+document.addEventListener('mousedown',maybeDismiss);
+document.addEventListener('touchstart',maybeDismiss,{passive:true});
 </script>
